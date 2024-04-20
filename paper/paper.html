@@ -1,0 +1,476 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en"><head>
+
+<meta charset="utf-8">
+<meta name="generator" content="quarto-1.3.450">
+
+<meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
+
+<meta name="author" content="Abdul Ahad Qureshi">
+<meta name="dcterms.date" content="2024-04-19">
+
+<title>Analysis of Bank of Canada’s Interest Rate Policy Impact on Consumer Debt Levels</title>
+<style>
+code{white-space: pre-wrap;}
+span.smallcaps{font-variant: small-caps;}
+div.columns{display: flex; gap: min(4vw, 1.5em);}
+div.column{flex: auto; overflow-x: auto;}
+div.hanging-indent{margin-left: 1.5em; text-indent: -1.5em;}
+ul.task-list{list-style: none;}
+ul.task-list li input[type="checkbox"] {
+  width: 0.8em;
+  margin: 0 0.8em 0.2em -1em; /* quarto-specific, see https://github.com/quarto-dev/quarto-cli/issues/4556 */ 
+  vertical-align: middle;
+}
+/* CSS for citations */
+div.csl-bib-body { }
+div.csl-entry {
+  clear: both;
+}
+.hanging-indent div.csl-entry {
+  margin-left:2em;
+  text-indent:-2em;
+}
+div.csl-left-margin {
+  min-width:2em;
+  float:left;
+}
+div.csl-right-inline {
+  margin-left:2em;
+  padding-left:1em;
+}
+div.csl-indent {
+  margin-left: 2em;
+}</style>
+
+
+<script src="paper_files/libs/clipboard/clipboard.min.js"></script>
+<script src="paper_files/libs/quarto-html/quarto.js"></script>
+<script src="paper_files/libs/quarto-html/popper.min.js"></script>
+<script src="paper_files/libs/quarto-html/tippy.umd.min.js"></script>
+<script src="paper_files/libs/quarto-html/anchor.min.js"></script>
+<link href="paper_files/libs/quarto-html/tippy.css" rel="stylesheet">
+<link href="paper_files/libs/quarto-html/quarto-syntax-highlighting.css" rel="stylesheet" id="quarto-text-highlighting-styles">
+<script src="paper_files/libs/bootstrap/bootstrap.min.js"></script>
+<link href="paper_files/libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
+<link href="paper_files/libs/bootstrap/bootstrap.min.css" rel="stylesheet" id="quarto-bootstrap" data-mode="light">
+
+
+</head>
+
+<body class="fullcontent">
+
+<div id="quarto-content" class="page-columns page-rows-contents page-layout-article">
+
+<main class="content" id="quarto-document-content">
+
+<header id="title-block-header" class="quarto-title-block default">
+<div class="quarto-title">
+<h1 class="title">Analysis of Bank of Canada’s Interest Rate Policy Impact on Consumer Debt Levels</h1>
+</div>
+
+
+
+<div class="quarto-title-meta">
+
+    <div>
+    <div class="quarto-title-meta-heading">Author</div>
+    <div class="quarto-title-meta-contents">
+             <p>Abdul Ahad Qureshi </p>
+          </div>
+  </div>
+    
+    <div>
+    <div class="quarto-title-meta-heading">Published</div>
+    <div class="quarto-title-meta-contents">
+      <p class="date">April 19, 2024</p>
+    </div>
+  </div>
+  
+    
+  </div>
+  
+<div>
+  <div class="abstract">
+    <div class="abstract-title">Abstract</div>
+    This analysis investigates the relationship between changes in the Bank of Canada’s interest rate policy and consumer debt levels in Canada. Using a dataset of quarterly financial flows and stocks of household credit market debt, the impact of short-term interest rates on credit market debt to disposable income is examined.
+  </div>
+</div>
+
+</header>
+
+<section id="introduction" class="level2" data-number="0.1">
+<h2 data-number="0.1" class="anchored" data-anchor-id="introduction"><span class="header-section-number">0.1</span> Introduction</h2>
+<p>In contemporary economies, central banks play a pivotal role in shaping economic conditions and maintaining financial stability through their monetary policy decisions. Among the various tools at their disposal, adjustments in interest rates stand out as one of the most influential mechanisms for influencing economic activity and financial markets. The Bank of Canada, as Canada’s central bank, is entrusted with the responsibility of formulating and implementing monetary policy to achieve its dual mandate of price stability and sustainable economic growth. Central to the Bank of Canada’s policy arsenal is the manipulation of short-term interest rates, primarily through its key policy rate, known as the overnight rate.</p>
+<p>The relationship between central bank interest rate policy and various economic indicators has been the subject of extensive academic inquiry and policy debate. One area that has garnered significant attention is the impact of interest rate policy changes on consumer behavior, particularly in the realm of borrowing and household debt. Understanding how changes in interest rates affect consumer debt levels is crucial for policymakers, financial institutions, and individuals alike, as it has profound implications for financial stability, economic growth, and the welfare of households.</p>
+<p>Against this backdrop, this paper seeks to investigate the relationship between changes in the Bank of Canada’s interest rate policy and consumer debt levels in Canada. The overarching research question guiding this study is: “How do changes in the Bank of Canada’s interest rate policy impact consumer debt levels in Canada?” This question is of paramount importance, given the central role of consumer spending and borrowing in driving economic activity, as well as the growing concerns surrounding household indebtedness and its implications for financial resilience.</p>
+<p>The significance of this research question stems from several key factors. Firstly, consumer spending constitutes a significant portion of aggregate demand in the Canadian economy, making it a crucial driver of economic growth. Changes in consumer borrowing behavior, influenced by fluctuations in interest rates, can have ripple effects throughout the economy, affecting sectors such as housing, retail, and durable goods consumption. Secondly, household debt levels in Canada have been on the rise in recent years, reaching record highs relative to income levels. The sustainability of this debt burden and its implications for financial stability have become subjects of considerable public and policy concern. Thirdly, against the backdrop of economic uncertainty and global financial market volatility, the efficacy of monetary policy tools, including interest rate adjustments, in managing consumer behavior and mitigating risks associated with excessive debt accumulation warrants thorough examination.</p>
+<p>To address these issues, this paper adopts a quantitative approach, leveraging empirical data on household debt levels and short-term interest rates in Canada. By analyzing the relationship between these variables over a specified time period, we aim to uncover insights into how changes in interest rates influence consumer borrowing decisions and overall debt dynamics. The findings of this study are expected to contribute to the existing body of literature on monetary policy transmission mechanisms and provide valuable insights for policymakers, financial institutions, and households navigating the complex landscape of debt and financial decision-making.</p>
+</section>
+<section id="sec-data" class="level1" data-number="1">
+<h1 data-number="1"><span class="header-section-number">1</span> Data</h1>
+<p>Data analysis for this reproduction is performed in <code>R</code> <span class="citation" data-cites="citeR">(<a href="#ref-citeR" role="doc-biblioref">R Core Team 2023</a>)</span>, and additional help is provided by libraries such as <code>dplyr</code> <span class="citation" data-cites="dplyr">(<a href="#ref-dplyr" role="doc-biblioref"><strong>dplyr?</strong></a>)</span>, <code>ggplot2</code> <span class="citation" data-cites="ggplot">(<a href="#ref-ggplot" role="doc-biblioref"><strong>ggplot?</strong></a>)</span>, <code>ggrepel</code> <span class="citation" data-cites="ggrepel">(<a href="#ref-ggrepel" role="doc-biblioref"><strong>ggrepel?</strong></a>)</span>, <code>tidyverse</code> <span class="citation" data-cites="thereferencecanbewhatever">(<a href="#ref-thereferencecanbewhatever" role="doc-biblioref">Wickham et al. 2019</a>)</span>, <code>kableExtra</code> <span class="citation" data-cites="kableextra">(<a href="#ref-kableextra" role="doc-biblioref"><strong>kableextra?</strong></a>)</span>, <code>knitr</code> <span class="citation" data-cites="knitr">(<a href="#ref-knitr" role="doc-biblioref"><strong>knitr?</strong></a>)</span>, <code>haven</code> <span class="citation" data-cites="haven">(<a href="#ref-haven" role="doc-biblioref"><strong>haven?</strong></a>)</span>, ‘readr’ <span class="citation" data-cites="readr">(<a href="#ref-readr" role="doc-biblioref"><strong>readr?</strong></a>)</span>, <code>stargazer</code><span class="citation" data-cites="stargazer">(<a href="#ref-stargazer" role="doc-biblioref"><strong>stargazer?</strong></a>)</span>, <code>psych</code> <span class="citation" data-cites="psych">(<a href="#ref-psych" role="doc-biblioref"><strong>psych?</strong></a>)</span>, <code>scales</code> <span class="citation" data-cites="scales">(<a href="#ref-scales" role="doc-biblioref"><strong>scales?</strong></a>)</span>, <code>RColorBrewer</code> <span class="citation" data-cites="rcolorbrewer">(<a href="#ref-rcolorbrewer" role="doc-biblioref"><strong>rcolorbrewer?</strong></a>)</span>, <code>gridExtra</code> <span class="citation" data-cites="gridextra">(<a href="#ref-gridextra" role="doc-biblioref"><strong>gridextra?</strong></a>)</span>, <code>here</code> <span class="citation" data-cites="here">(<a href="#ref-here" role="doc-biblioref"><strong>here?</strong></a>)</span>.</p>
+<p>The empirical analysis conducted in this study relies on comprehensive datasets capturing key variables related to consumer debt levels and short-term interest rates in Canada. These datasets provide the empirical foundation for investigating the relationship between changes in the Bank of Canada’s interest rate policy and consumer borrowing behavior.</p>
+<p>The primary source of data on consumer debt levels is sourced from Statistics Canada. This dataset includes information on various metrics of household indebtedness, including aggregate measures of credit market debt to disposable income, consumer credit, mortgage liabilities, non-mortgage loans, and other relevant indicators. The data cover a substantial time span, allowing for a longitudinal analysis of trends and patterns in consumer borrowing behavior over time.</p>
+<p>Complementing the dataset on consumer debt levels is information on short-term interest rates, obtained from FRED. This dataset comprises time-series data on the Bank of Canada’s key policy rate, commonly referred to as the overnight rate or the target for the overnight rate. Additionally, the dataset may include data on other short-term interest rates, such as the prime lending rate set by commercial banks, providing a comprehensive view of interest rate movements in the Canadian financial system.</p>
+<p>The datasets are meticulously curated and cleaned to ensure data integrity and reliability. Data cleaning procedures may involve removing outliers, handling missing values, and standardizing variable formats to facilitate robust analysis. Furthermore, the datasets are aggregated and organized in a format conducive to statistical analysis, allowing for the application of econometric techniques to model the relationship between interest rate policy changes and consumer debt levels.</p>
+<div class="cell">
+<div class="cell-output-display">
+<div id="fig-debt" class="quarto-figure quarto-figure-center anchored">
+<figure class="figure">
+<p><img src="paper_files/figure-html/fig-debt-1.png" class="img-fluid figure-img" width="672"></p>
+<figcaption class="figure-caption">Figure&nbsp;1: Trends in Credit Market Debt to Disposable Income</figcaption>
+</figure>
+</div>
+</div>
+</div>
+<p>The plot visualizes the trends in the Credit Market Debt to Disposable Income ratio over time, spanning from 1990 to the present day. The x-axis represents the date, while the y-axis depicts the Debt to Disposable Income Ratio, a key metric used to assess the financial health of households.</p>
+<p>From the early 1990s to around 2020, the curve exhibits a consistent upward trend, indicating a gradual increase in the Debt to Disposable Income Ratio over the years. This prolonged period of growth suggests a pattern of rising indebtedness among Canadian households relative to their disposable income levels. Factors contributing to this trend may include easier access to credit, low borrowing costs, demographic shifts, and changes in consumer spending patterns.</p>
+<p>However, a notable inflection point occurs around the year 2020, marked by a sudden dip in the Debt to Disposable Income Ratio. This deviation from the previous upward trajectory suggests a significant shift in consumer borrowing behavior or macroeconomic conditions.</p>
+<div class="cell">
+<div class="cell-output-display">
+<div id="fig-interest" class="quarto-figure quarto-figure-center anchored">
+<figure class="figure">
+<p><img src="paper_files/figure-html/fig-interest-1.png" class="img-fluid figure-img" width="672"></p>
+<figcaption class="figure-caption">Figure&nbsp;2: Trends in Short-term Interest Rates</figcaption>
+</figure>
+</div>
+</div>
+</div>
+<p>The plot illustrates the trends in short-term interest rates over time, spanning from 1990 to the present day. The x-axis represents the date, while the y-axis depicts the level of short-term interest rates.</p>
+<p>In the early 1990s, the plot indicates a period of relatively high short-term interest rates, suggesting a climate of tight monetary policy aimed at curbing inflationary pressures or addressing macroeconomic imbalances. However, from the mid-1990s onwards, there is a discernible downward trend in short-term interest rates, reflecting efforts by monetary authorities to stimulate economic growth or support financial stability through accommodative monetary policy measures.</p>
+<p>Throughout the subsequent years, the plot shows smaller fluctuations in short-term interest rates, characterized by periodic ups and downs. These fluctuations may be attributed to various factors, including changes in economic conditions, shifts in inflation expectations, or adjustments in central bank policy settings in response to evolving economic circumstances.</p>
+<section id="research-question" class="level2" data-number="1.1">
+<h2 data-number="1.1" class="anchored" data-anchor-id="research-question"><span class="header-section-number">1.1</span> Research Question</h2>
+<p>The research question addressed in this paper is: <strong><em>“How do changes in the Bank of Canada’s interest rate policy impact consumer debt levels in Canada?”</em></strong></p>
+</section>
+</section>
+<section id="model" class="level1" data-number="2">
+<h1 data-number="2"><span class="header-section-number">2</span> <strong>Model</strong></h1>
+<p>The goal of our modeling strategy is to quantify the relationship between changes in short-term interest rates and consumer debt levels. We employ a linear regression model to assess how variations in interest rates impact consumer borrowing behavior.</p>
+<p>The linear regression model employed in this study aims to examine the relationship between changes in the Bank of Canada’s interest rate policy and consumer debt levels in Canada. The model seeks to quantify the impact of fluctuations in short-term interest rates on the Credit Market Debt to Disposable Income ratio, a key indicator of household indebtedness.</p>
+<p>The model’s primary explanatory variable is the short-term interest rate, represented by the IRSTCB01CAM156N variable, sourced from the dataset on short-term interest rates. This variable serves as a proxy for changes in the Bank of Canada’s monetary policy stance, capturing variations in borrowing costs and the availability of credit in the economy.</p>
+<p>The response variable in the model is the Credit Market Debt to Disposable Income ratio, derived from the dataset on household debt levels. This ratio provides insights into the extent to which Canadian households are leveraging their disposable income to finance consumption and investment activities, reflecting their overall financial health and resilience to economic shocks.</p>
+<p>The linear regression model assumes a linear relationship between the explanatory variable (short-term interest rates) and the response variable (Debt to Disposable Income ratio). By estimating the coefficients of the model, we seek to quantify the magnitude and direction of the relationship between changes in interest rates and consumer debt levels.</p>
+<section id="model-set-up" class="level2" data-number="2.1">
+<h2 data-number="2.1" class="anchored" data-anchor-id="model-set-up"><span class="header-section-number">2.1</span> <strong>Model set-up</strong></h2>
+<p>Define the dependent variable $y_i$ as the credit market debt to disposable income ratio, and the independent variable $x_i$ as the short-term interest rates.</p>
+<p>y_i​=β0​+β1​xi​+ϵi</p>
+<p>We fit the linear regression model using the <strong><code>lm()</code></strong> function in R.</p>
+<div id="tbl-regression" class="cell tbl-parent quarto-layout-panel anchored" data-tbl-cap="Linear Regression Results">
+<div class="panel-caption table-caption">
+<p><strong>?(caption)</strong></p>
+</div>
+<div class="quarto-layout-row quarto-layout-valign-top">
+<div class="cell-output cell-output-stdout quarto-layout-cell" style="flex-basis: 100.0%;justify-content: center;">
+<pre><code>
+Call:
+lm(formula = VALUE ~ IRSTCB01CAM156N, data = cleaned_data)
+
+Residuals:
+    Min      1Q  Median      3Q     Max 
+-39.663 -16.243   4.282  13.516  52.854 
+
+Coefficients:
+                Estimate Std. Error t value Pr(&gt;|t|)    
+(Intercept)     173.2100     2.9309   59.10   &lt;2e-16 ***
+IRSTCB01CAM156N  -8.9188     0.6482  -13.76   &lt;2e-16 ***
+---
+Signif. codes:  0 '***' 0.001 '**' 0.01 '*' 0.05 '.' 0.1 ' ' 1
+
+Residual standard error: 21.24 on 134 degrees of freedom
+Multiple R-squared:  0.5855,    Adjusted R-squared:  0.5824 
+F-statistic: 189.3 on 1 and 134 DF,  p-value: &lt; 2.2e-16</code></pre>
+</div>
+</div>
+</div>
+</section>
+<section id="model-interpretation" class="level2" data-number="2.2">
+<h2 data-number="2.2" class="anchored" data-anchor-id="model-interpretation"><span class="header-section-number">2.2</span> <strong>Model interpretation</strong></h2>
+<p>The significant coefficients obtained from the linear regression model provide valuable insights into the relationship between short-term interest rates and consumer debt levels in Canada. Let’s delve deeper into the interpretation of these coefficients:</p>
+<ol type="1">
+<li><strong><em>Intercept Coefficient (173.2100)</em>:</strong>
+<ul>
+<li>The intercept coefficient represents the expected value of the response variable (consumer debt levels) when the predictor variable (short-term interest rates) is zero.</li>
+<li>In this context, the intercept coefficient of 173.2100 suggests that when short-term interest rates are at zero, the estimated average consumer debt level is approximately 173.21 units. However, it’s important to note that short-term interest rates are unlikely to be exactly zero in practice, so this interpretation is theoretical.</li>
+<li>The standard error associated with the intercept coefficient (2.9309) indicates the variability or uncertainty in estimating the intercept value.</li>
+</ul></li>
+<li><strong><em>Coefficient for Short-term Interest Rates (-8.9188)</em>:</strong>
+<ul>
+<li>The coefficient for short-term interest rates quantifies the estimated change in consumer debt levels for each unit increase in short-term interest rates.</li>
+<li>In this case, the coefficient of -8.9188 suggests that for every one-unit increase in short-term interest rates, the average consumer debt level is estimated to decrease by approximately 8.92 units.</li>
+<li>The negative sign of the coefficient indicates an inverse relationship between short-term interest rates and consumer debt levels. As interest rates increase, consumer debt levels tend to decrease, and conversely, as interest rates decrease, consumer debt levels tend to increase.</li>
+<li>The standard error associated with the coefficient (0.6482) reflects the uncertainty in estimating the precise magnitude of the relationship between interest rates and consumer debt levels.</li>
+</ul></li>
+<li><strong><em>Statistical Significance</em>:</strong>
+<ul>
+<li>Both coefficients are highly statistically significant, as indicated by the p-values (p &lt; 0.001). This implies that the observed relationships between short-term interest rates and consumer debt levels are unlikely to have occurred by random chance alone.</li>
+<li>The high significance levels strengthen the confidence in the estimated coefficients and the validity of the relationship between interest rates and consumer debt levels.</li>
+</ul></li>
+</ol>
+<p>The linear regression model results reveal significant coefficients for both the intercept and the predictor variable representing short-term interest rates (<strong><code>IRSTCB01CAM156N</code></strong>). The intercept coefficient is estimated to be 173.2100 with a standard error of 2.9309, indicating the expected value of the response variable (consumer debt levels) when the predictor variable is zero. The coefficient for short-term interest rates is estimated to be -8.9188 with a standard error of 0.6482. This coefficient represents the estimated change in consumer debt levels for each unit increase in short-term interest rates. The negative sign of the coefficient suggests that as interest rates increase, consumer debt levels tend to decrease, and vice versa. Both coefficients are highly statistically significant (p &lt; 0.001), indicating a strong relationship between short-term interest rates and consumer debt levels.</p>
+</section>
+</section>
+<section id="results" class="level1" data-number="3">
+<h1 data-number="3"><span class="header-section-number">3</span> <strong>Results</strong></h1>
+<p>Our analysis indicates a significant inverse relationship between changes in short-term interest rates and consumer debt levels. As interest rates increase, consumer debt levels tend to decrease, and conversely, as interest rates decrease, consumer debt levels tend to increase. This finding underscores the importance of monetary policy decisions, particularly changes in interest rates, in influencing consumer borrowing behavior and overall debt accumulation.</p>
+<p><strong>Research Question :</strong></p>
+<p>Changes in the Bank of Canada’s interest rate policy have a significant impact on consumer debt levels in Canada. Our analysis reveals a strong inverse relationship between changes in short-term interest rates and consumer debt levels. Specifically, as interest rates increase, consumer debt levels tend to decrease, and conversely, as interest rates decrease, consumer debt levels tend to increase. This finding underscores the crucial role of monetary policy decisions, particularly adjustments in interest rates, in shaping consumer borrowing behavior and overall debt accumulation.</p>
+</section>
+<section id="discussion" class="level1" data-number="4">
+<h1 data-number="4"><span class="header-section-number">4</span> <strong>Discussion</strong></h1>
+<p>The results of our analysis highlight the pivotal role of monetary policy decisions, particularly those related to interest rates, in shaping consumer borrowing behavior and overall debt accumulation in Canada. By adjusting interest rates, the Bank of Canada can influence the cost of borrowing for consumers, which in turn affects their willingness and ability to take on debt. Understanding the impact of interest rate policy on consumer debt dynamics is crucial for policymakers and financial regulators in formulating effective strategies to manage household debt levels and promote financial stability.</p>
+<section id="limitations-and-future-research" class="level2" data-number="4.1">
+<h2 data-number="4.1" class="anchored" data-anchor-id="limitations-and-future-research"><span class="header-section-number">4.1</span> <strong>Limitations and Future Research</strong></h2>
+<p>While our study provides valuable insights into the relationship between interest rate policy and consumer debt levels, it is essential to acknowledge certain limitations. One limitation is the reliance on aggregate-level data, which may mask variations in borrowing behavior among different demographic groups and regions. Future research could explore these variations by analyzing micro-level data and examining how factors such as income, employment, and housing market conditions interact with interest rate policy to influence consumer debt dynamics. Additionally, further investigation into the mechanisms through which interest rate changes impact borrowing behavior, such as through mortgage rates, credit card rates, and other lending channels, could provide deeper insights into the transmission channels of monetary policy. Moreover, longitudinal studies tracking changes in consumer debt levels over time in response to interest rate policy changes could provide valuable information on the dynamics of household indebtedness and its implications for financial stability.</p>
+
+</section>
+</section>
+
+<div id="quarto-appendix" class="default"><section class="quarto-appendix-contents" role="doc-bibliography"><h2 class="anchored quarto-appendix-heading">References</h2><div id="refs" class="references csl-bib-body hanging-indent" role="list">
+<div id="ref-citeR" class="csl-entry" role="listitem">
+R Core Team. 2023. <em>R: A Language and Environment for Statistical Computing</em>. Vienna, Austria: R Foundation for Statistical Computing. <a href="https://www.R-project.org/">https://www.R-project.org/</a>.
+</div>
+<div id="ref-thereferencecanbewhatever" class="csl-entry" role="listitem">
+Wickham, Hadley, Mara Averick, Jennifer Bryan, Winston Chang, Lucy D’Agostino McGowan, Romain François, Garrett Grolemund, et al. 2019. <span>“Welcome to the <span class="nocase">tidyverse</span>.”</span> <em>Journal of Open Source Software</em> 4 (43): 1686. <a href="https://doi.org/10.21105/joss.01686">https://doi.org/10.21105/joss.01686</a>.
+</div>
+</div></section></div></main>
+<!-- /main column -->
+<script id="quarto-html-after-body" type="application/javascript">
+window.document.addEventListener("DOMContentLoaded", function (event) {
+  const toggleBodyColorMode = (bsSheetEl) => {
+    const mode = bsSheetEl.getAttribute("data-mode");
+    const bodyEl = window.document.querySelector("body");
+    if (mode === "dark") {
+      bodyEl.classList.add("quarto-dark");
+      bodyEl.classList.remove("quarto-light");
+    } else {
+      bodyEl.classList.add("quarto-light");
+      bodyEl.classList.remove("quarto-dark");
+    }
+  }
+  const toggleBodyColorPrimary = () => {
+    const bsSheetEl = window.document.querySelector("link#quarto-bootstrap");
+    if (bsSheetEl) {
+      toggleBodyColorMode(bsSheetEl);
+    }
+  }
+  toggleBodyColorPrimary();  
+  const icon = "";
+  const anchorJS = new window.AnchorJS();
+  anchorJS.options = {
+    placement: 'right',
+    icon: icon
+  };
+  anchorJS.add('.anchored');
+  const isCodeAnnotation = (el) => {
+    for (const clz of el.classList) {
+      if (clz.startsWith('code-annotation-')) {                     
+        return true;
+      }
+    }
+    return false;
+  }
+  const clipboard = new window.ClipboardJS('.code-copy-button', {
+    text: function(trigger) {
+      const codeEl = trigger.previousElementSibling.cloneNode(true);
+      for (const childEl of codeEl.children) {
+        if (isCodeAnnotation(childEl)) {
+          childEl.remove();
+        }
+      }
+      return codeEl.innerText;
+    }
+  });
+  clipboard.on('success', function(e) {
+    // button target
+    const button = e.trigger;
+    // don't keep focus
+    button.blur();
+    // flash "checked"
+    button.classList.add('code-copy-button-checked');
+    var currentTitle = button.getAttribute("title");
+    button.setAttribute("title", "Copied!");
+    let tooltip;
+    if (window.bootstrap) {
+      button.setAttribute("data-bs-toggle", "tooltip");
+      button.setAttribute("data-bs-placement", "left");
+      button.setAttribute("data-bs-title", "Copied!");
+      tooltip = new bootstrap.Tooltip(button, 
+        { trigger: "manual", 
+          customClass: "code-copy-button-tooltip",
+          offset: [0, -8]});
+      tooltip.show();    
+    }
+    setTimeout(function() {
+      if (tooltip) {
+        tooltip.hide();
+        button.removeAttribute("data-bs-title");
+        button.removeAttribute("data-bs-toggle");
+        button.removeAttribute("data-bs-placement");
+      }
+      button.setAttribute("title", currentTitle);
+      button.classList.remove('code-copy-button-checked');
+    }, 1000);
+    // clear code selection
+    e.clearSelection();
+  });
+  function tippyHover(el, contentFn) {
+    const config = {
+      allowHTML: true,
+      content: contentFn,
+      maxWidth: 500,
+      delay: 100,
+      arrow: false,
+      appendTo: function(el) {
+          return el.parentElement;
+      },
+      interactive: true,
+      interactiveBorder: 10,
+      theme: 'quarto',
+      placement: 'bottom-start'
+    };
+    window.tippy(el, config); 
+  }
+  const noterefs = window.document.querySelectorAll('a[role="doc-noteref"]');
+  for (var i=0; i<noterefs.length; i++) {
+    const ref = noterefs[i];
+    tippyHover(ref, function() {
+      // use id or data attribute instead here
+      let href = ref.getAttribute('data-footnote-href') || ref.getAttribute('href');
+      try { href = new URL(href).hash; } catch {}
+      const id = href.replace(/^#\/?/, "");
+      const note = window.document.getElementById(id);
+      return note.innerHTML;
+    });
+  }
+      let selectedAnnoteEl;
+      const selectorForAnnotation = ( cell, annotation) => {
+        let cellAttr = 'data-code-cell="' + cell + '"';
+        let lineAttr = 'data-code-annotation="' +  annotation + '"';
+        const selector = 'span[' + cellAttr + '][' + lineAttr + ']';
+        return selector;
+      }
+      const selectCodeLines = (annoteEl) => {
+        const doc = window.document;
+        const targetCell = annoteEl.getAttribute("data-target-cell");
+        const targetAnnotation = annoteEl.getAttribute("data-target-annotation");
+        const annoteSpan = window.document.querySelector(selectorForAnnotation(targetCell, targetAnnotation));
+        const lines = annoteSpan.getAttribute("data-code-lines").split(",");
+        const lineIds = lines.map((line) => {
+          return targetCell + "-" + line;
+        })
+        let top = null;
+        let height = null;
+        let parent = null;
+        if (lineIds.length > 0) {
+            //compute the position of the single el (top and bottom and make a div)
+            const el = window.document.getElementById(lineIds[0]);
+            top = el.offsetTop;
+            height = el.offsetHeight;
+            parent = el.parentElement.parentElement;
+          if (lineIds.length > 1) {
+            const lastEl = window.document.getElementById(lineIds[lineIds.length - 1]);
+            const bottom = lastEl.offsetTop + lastEl.offsetHeight;
+            height = bottom - top;
+          }
+          if (top !== null && height !== null && parent !== null) {
+            // cook up a div (if necessary) and position it 
+            let div = window.document.getElementById("code-annotation-line-highlight");
+            if (div === null) {
+              div = window.document.createElement("div");
+              div.setAttribute("id", "code-annotation-line-highlight");
+              div.style.position = 'absolute';
+              parent.appendChild(div);
+            }
+            div.style.top = top - 2 + "px";
+            div.style.height = height + 4 + "px";
+            let gutterDiv = window.document.getElementById("code-annotation-line-highlight-gutter");
+            if (gutterDiv === null) {
+              gutterDiv = window.document.createElement("div");
+              gutterDiv.setAttribute("id", "code-annotation-line-highlight-gutter");
+              gutterDiv.style.position = 'absolute';
+              const codeCell = window.document.getElementById(targetCell);
+              const gutter = codeCell.querySelector('.code-annotation-gutter');
+              gutter.appendChild(gutterDiv);
+            }
+            gutterDiv.style.top = top - 2 + "px";
+            gutterDiv.style.height = height + 4 + "px";
+          }
+          selectedAnnoteEl = annoteEl;
+        }
+      };
+      const unselectCodeLines = () => {
+        const elementsIds = ["code-annotation-line-highlight", "code-annotation-line-highlight-gutter"];
+        elementsIds.forEach((elId) => {
+          const div = window.document.getElementById(elId);
+          if (div) {
+            div.remove();
+          }
+        });
+        selectedAnnoteEl = undefined;
+      };
+      // Attach click handler to the DT
+      const annoteDls = window.document.querySelectorAll('dt[data-target-cell]');
+      for (const annoteDlNode of annoteDls) {
+        annoteDlNode.addEventListener('click', (event) => {
+          const clickedEl = event.target;
+          if (clickedEl !== selectedAnnoteEl) {
+            unselectCodeLines();
+            const activeEl = window.document.querySelector('dt[data-target-cell].code-annotation-active');
+            if (activeEl) {
+              activeEl.classList.remove('code-annotation-active');
+            }
+            selectCodeLines(clickedEl);
+            clickedEl.classList.add('code-annotation-active');
+          } else {
+            // Unselect the line
+            unselectCodeLines();
+            clickedEl.classList.remove('code-annotation-active');
+          }
+        });
+      }
+  const findCites = (el) => {
+    const parentEl = el.parentElement;
+    if (parentEl) {
+      const cites = parentEl.dataset.cites;
+      if (cites) {
+        return {
+          el,
+          cites: cites.split(' ')
+        };
+      } else {
+        return findCites(el.parentElement)
+      }
+    } else {
+      return undefined;
+    }
+  };
+  var bibliorefs = window.document.querySelectorAll('a[role="doc-biblioref"]');
+  for (var i=0; i<bibliorefs.length; i++) {
+    const ref = bibliorefs[i];
+    const citeInfo = findCites(ref);
+    if (citeInfo) {
+      tippyHover(citeInfo.el, function() {
+        var popup = window.document.createElement('div');
+        citeInfo.cites.forEach(function(cite) {
+          var citeDiv = window.document.createElement('div');
+          citeDiv.classList.add('hanging-indent');
+          citeDiv.classList.add('csl-entry');
+          var biblioDiv = window.document.getElementById('ref-' + cite);
+          if (biblioDiv) {
+            citeDiv.innerHTML = biblioDiv.innerHTML;
+          }
+          popup.appendChild(citeDiv);
+        });
+        return popup.innerHTML;
+      });
+    }
+  }
+});
+</script>
+</div> <!-- /content -->
+
+
+
+</body></html>
