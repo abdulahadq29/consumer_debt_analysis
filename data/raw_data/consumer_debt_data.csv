@@ -1,0 +1,1361 @@
+REF_DATE,GEO,DGUID,Categories,UOM,UOM_ID,SCALAR_FACTOR,SCALAR_ID,VECTOR,COORDINATE,VALUE,STATUS,SYMBOL,TERMINATED,DECIMALS
+1990-01,Canada,2016A000011124,Credit market debt to disposable income,Ratio,271,units,0,v1038036698,1.11,89.59,NA,NA,NA,2
+1990-01,Canada,2016A000011124,Consumer credit and mortgage liabilities to disposable income,Ratio,271,units,0,v1038036699,1.12,82.16,NA,NA,NA,2
+1990-01,Canada,2016A000011124,Credit market debt - national balance sheet,Dollars,81,millions,6,v1038036700,1.13,361294,NA,NA,NA,0
+1990-01,Canada,2016A000011124,Consumer credit - national balance sheet,Dollars,81,millions,6,v1038036701,1.14,92744,NA,NA,NA,0
+1990-01,Canada,2016A000011124,Non-mortgage loans - national balance sheet,Dollars,81,millions,6,v1038036702,1.15,29953,NA,NA,NA,0
+1990-01,Canada,2016A000011124,Mortgages - national balance sheet,Dollars,81,millions,6,v1038036703,1.16,238597,NA,NA,NA,0
+1990-01,Canada,2016A000011124,Credit market debt - financial flow,Dollars,81,millions,6,v95701115,1.7,13002,NA,NA,NA,0
+1990-01,Canada,2016A000011124,Consumer credit - financial flow,Dollars,81,millions,6,v95701116,1.8,2492,NA,NA,NA,0
+1990-01,Canada,2016A000011124,Non-mortgage loans - financial flow,Dollars,81,millions,6,v95701117,1.9,1311,NA,NA,NA,0
+1990-01,Canada,2016A000011124,Mortgages - financial flow,Dollars,81,millions,6,v95701118,1.1,9199,NA,NA,NA,0
+1990-04,Canada,2016A000011124,Credit market debt to disposable income,Ratio,271,units,0,v1038036698,1.11,93.99,NA,NA,NA,2
+1990-04,Canada,2016A000011124,Consumer credit and mortgage liabilities to disposable income,Ratio,271,units,0,v1038036699,1.12,86.33,NA,NA,NA,2
+1990-04,Canada,2016A000011124,Credit market debt - national balance sheet,Dollars,81,millions,6,v1038036700,1.13,369061,NA,NA,NA,0
+1990-04,Canada,2016A000011124,Consumer credit - national balance sheet,Dollars,81,millions,6,v1038036701,1.14,94107,NA,NA,NA,0
+1990-04,Canada,2016A000011124,Non-mortgage loans - national balance sheet,Dollars,81,millions,6,v1038036702,1.15,30088,NA,NA,NA,0
+1990-04,Canada,2016A000011124,Mortgages - national balance sheet,Dollars,81,millions,6,v1038036703,1.16,244866,NA,NA,NA,0
+1990-04,Canada,2016A000011124,Credit market debt - financial flow,Dollars,81,millions,6,v95701115,1.7,7964,NA,NA,NA,0
+1990-04,Canada,2016A000011124,Consumer credit - financial flow,Dollars,81,millions,6,v95701116,1.8,1446,NA,NA,NA,0
+1990-04,Canada,2016A000011124,Non-mortgage loans - financial flow,Dollars,81,millions,6,v95701117,1.9,242,NA,NA,NA,0
+1990-04,Canada,2016A000011124,Mortgages - financial flow,Dollars,81,millions,6,v95701118,1.1,6276,NA,NA,NA,0
+1990-07,Canada,2016A000011124,Credit market debt to disposable income,Ratio,271,units,0,v1038036698,1.11,92.41,NA,NA,NA,2
+1990-07,Canada,2016A000011124,Consumer credit and mortgage liabilities to disposable income,Ratio,271,units,0,v1038036699,1.12,84.87,NA,NA,NA,2
+1990-07,Canada,2016A000011124,Credit market debt - national balance sheet,Dollars,81,millions,6,v1038036700,1.13,374234,NA,NA,NA,0
+1990-07,Canada,2016A000011124,Consumer credit - national balance sheet,Dollars,81,millions,6,v1038036701,1.14,94861,NA,NA,NA,0
+1990-07,Canada,2016A000011124,Non-mortgage loans - national balance sheet,Dollars,81,millions,6,v1038036702,1.15,30539,NA,NA,NA,0
+1990-07,Canada,2016A000011124,Mortgages - national balance sheet,Dollars,81,millions,6,v1038036703,1.16,248834,NA,NA,NA,0
+1990-07,Canada,2016A000011124,Credit market debt - financial flow,Dollars,81,millions,6,v95701115,1.7,5377,NA,NA,NA,0
+1990-07,Canada,2016A000011124,Consumer credit - financial flow,Dollars,81,millions,6,v95701116,1.8,840,NA,NA,NA,0
+1990-07,Canada,2016A000011124,Non-mortgage loans - financial flow,Dollars,81,millions,6,v95701117,1.9,560,NA,NA,NA,0
+1990-07,Canada,2016A000011124,Mortgages - financial flow,Dollars,81,millions,6,v95701118,1.1,3977,NA,NA,NA,0
+1990-10,Canada,2016A000011124,Credit market debt to disposable income,Ratio,271,units,0,v1038036698,1.11,92.33,NA,NA,NA,2
+1990-10,Canada,2016A000011124,Consumer credit and mortgage liabilities to disposable income,Ratio,271,units,0,v1038036699,1.12,84.88,NA,NA,NA,2
+1990-10,Canada,2016A000011124,Credit market debt - national balance sheet,Dollars,81,millions,6,v1038036700,1.13,380605,NA,NA,NA,0
+1990-10,Canada,2016A000011124,Consumer credit - national balance sheet,Dollars,81,millions,6,v1038036701,1.14,96065,NA,NA,NA,0
+1990-10,Canada,2016A000011124,Non-mortgage loans - national balance sheet,Dollars,81,millions,6,v1038036702,1.15,30690,NA,NA,NA,0
+1990-10,Canada,2016A000011124,Mortgages - national balance sheet,Dollars,81,millions,6,v1038036703,1.16,253850,NA,NA,NA,0
+1990-10,Canada,2016A000011124,Credit market debt - financial flow,Dollars,81,millions,6,v95701115,1.7,6584,NA,NA,NA,0
+1990-10,Canada,2016A000011124,Consumer credit - financial flow,Dollars,81,millions,6,v95701116,1.8,1304,NA,NA,NA,0
+1990-10,Canada,2016A000011124,Non-mortgage loans - financial flow,Dollars,81,millions,6,v95701117,1.9,252,NA,NA,NA,0
+1990-10,Canada,2016A000011124,Mortgages - financial flow,Dollars,81,millions,6,v95701118,1.1,5028,NA,NA,NA,0
+1991-01,Canada,2016A000011124,Credit market debt to disposable income,Ratio,271,units,0,v1038036698,1.11,92.48,NA,NA,NA,2
+1991-01,Canada,2016A000011124,Consumer credit and mortgage liabilities to disposable income,Ratio,271,units,0,v1038036699,1.12,85.28,NA,NA,NA,2
+1991-01,Canada,2016A000011124,Credit market debt - national balance sheet,Dollars,81,millions,6,v1038036700,1.13,385838,NA,NA,NA,0
+1991-01,Canada,2016A000011124,Consumer credit - national balance sheet,Dollars,81,millions,6,v1038036701,1.14,96456,NA,NA,NA,0
+1991-01,Canada,2016A000011124,Non-mortgage loans - national balance sheet,Dollars,81,millions,6,v1038036702,1.15,30035,NA,NA,NA,0
+1991-01,Canada,2016A000011124,Mortgages - national balance sheet,Dollars,81,millions,6,v1038036703,1.16,259347,NA,NA,NA,0
+1991-01,Canada,2016A000011124,Credit market debt - financial flow,Dollars,81,millions,6,v95701115,1.7,5579,NA,NA,NA,0
+1991-01,Canada,2016A000011124,Consumer credit - financial flow,Dollars,81,millions,6,v95701116,1.8,538,NA,NA,NA,0
+1991-01,Canada,2016A000011124,Non-mortgage loans - financial flow,Dollars,81,millions,6,v95701117,1.9,-469,NA,NA,NA,0
+1991-01,Canada,2016A000011124,Mortgages - financial flow,Dollars,81,millions,6,v95701118,1.1,5510,NA,NA,NA,0
+1991-04,Canada,2016A000011124,Credit market debt to disposable income,Ratio,271,units,0,v1038036698,1.11,95.06,NA,NA,NA,2
+1991-04,Canada,2016A000011124,Consumer credit and mortgage liabilities to disposable income,Ratio,271,units,0,v1038036699,1.12,87.53,NA,NA,NA,2
+1991-04,Canada,2016A000011124,Credit market debt - national balance sheet,Dollars,81,millions,6,v1038036700,1.13,391672,NA,NA,NA,0
+1991-04,Canada,2016A000011124,Consumer credit - national balance sheet,Dollars,81,millions,6,v1038036701,1.14,97520,NA,NA,NA,0
+1991-04,Canada,2016A000011124,Non-mortgage loans - national balance sheet,Dollars,81,millions,6,v1038036702,1.15,31007,NA,NA,NA,0
+1991-04,Canada,2016A000011124,Mortgages - national balance sheet,Dollars,81,millions,6,v1038036703,1.16,263145,NA,NA,NA,0
+1991-04,Canada,2016A000011124,Credit market debt - financial flow,Dollars,81,millions,6,v95701115,1.7,6199,NA,NA,NA,0
+1991-04,Canada,2016A000011124,Consumer credit - financial flow,Dollars,81,millions,6,v95701116,1.8,1213,NA,NA,NA,0
+1991-04,Canada,2016A000011124,Non-mortgage loans - financial flow,Dollars,81,millions,6,v95701117,1.9,1167,NA,NA,NA,0
+1991-04,Canada,2016A000011124,Mortgages - financial flow,Dollars,81,millions,6,v95701118,1.1,3819,NA,NA,NA,0
+1991-07,Canada,2016A000011124,Credit market debt to disposable income,Ratio,271,units,0,v1038036698,1.11,94.87,NA,NA,NA,2
+1991-07,Canada,2016A000011124,Consumer credit and mortgage liabilities to disposable income,Ratio,271,units,0,v1038036699,1.12,87.61,NA,NA,NA,2
+1991-07,Canada,2016A000011124,Credit market debt - national balance sheet,Dollars,81,millions,6,v1038036700,1.13,398638,NA,NA,NA,0
+1991-07,Canada,2016A000011124,Consumer credit - national balance sheet,Dollars,81,millions,6,v1038036701,1.14,98064,NA,NA,NA,0
+1991-07,Canada,2016A000011124,Non-mortgage loans - national balance sheet,Dollars,81,millions,6,v1038036702,1.15,30502,NA,NA,NA,0
+1991-07,Canada,2016A000011124,Mortgages - national balance sheet,Dollars,81,millions,6,v1038036703,1.16,270072,NA,NA,NA,0
+1991-07,Canada,2016A000011124,Credit market debt - financial flow,Dollars,81,millions,6,v95701115,1.7,7341,NA,NA,NA,0
+1991-07,Canada,2016A000011124,Consumer credit - financial flow,Dollars,81,millions,6,v95701116,1.8,696,NA,NA,NA,0
+1991-07,Canada,2016A000011124,Non-mortgage loans - financial flow,Dollars,81,millions,6,v95701117,1.9,-306,NA,NA,NA,0
+1991-07,Canada,2016A000011124,Mortgages - financial flow,Dollars,81,millions,6,v95701118,1.1,6951,NA,NA,NA,0
+1991-10,Canada,2016A000011124,Credit market debt to disposable income,Ratio,271,units,0,v1038036698,1.11,95.08,NA,NA,NA,2
+1991-10,Canada,2016A000011124,Consumer credit and mortgage liabilities to disposable income,Ratio,271,units,0,v1038036699,1.12,87.9,NA,NA,NA,2
+1991-10,Canada,2016A000011124,Credit market debt - national balance sheet,Dollars,81,millions,6,v1038036700,1.13,403213,NA,NA,NA,0
+1991-10,Canada,2016A000011124,Consumer credit - national balance sheet,Dollars,81,millions,6,v1038036701,1.14,98040,NA,NA,NA,0
+1991-10,Canada,2016A000011124,Non-mortgage loans - national balance sheet,Dollars,81,millions,6,v1038036702,1.15,30442,NA,NA,NA,0
+1991-10,Canada,2016A000011124,Mortgages - national balance sheet,Dollars,81,millions,6,v1038036703,1.16,274731,NA,NA,NA,0
+1991-10,Canada,2016A000011124,Credit market debt - financial flow,Dollars,81,millions,6,v95701115,1.7,4951,NA,NA,NA,0
+1991-10,Canada,2016A000011124,Consumer credit - financial flow,Dollars,81,millions,6,v95701116,1.8,137,NA,NA,NA,0
+1991-10,Canada,2016A000011124,Non-mortgage loans - financial flow,Dollars,81,millions,6,v95701117,1.9,126,NA,NA,NA,0
+1991-10,Canada,2016A000011124,Mortgages - financial flow,Dollars,81,millions,6,v95701118,1.1,4688,NA,NA,NA,0
+1992-01,Canada,2016A000011124,Credit market debt to disposable income,Ratio,271,units,0,v1038036698,1.11,96.9,NA,NA,NA,2
+1992-01,Canada,2016A000011124,Consumer credit and mortgage liabilities to disposable income,Ratio,271,units,0,v1038036699,1.12,89.66,NA,NA,NA,2
+1992-01,Canada,2016A000011124,Credit market debt - national balance sheet,Dollars,81,millions,6,v1038036700,1.13,406901,NA,NA,NA,0
+1992-01,Canada,2016A000011124,Consumer credit - national balance sheet,Dollars,81,millions,6,v1038036701,1.14,98333,NA,NA,NA,0
+1992-01,Canada,2016A000011124,Non-mortgage loans - national balance sheet,Dollars,81,millions,6,v1038036702,1.15,30388,NA,NA,NA,0
+1992-01,Canada,2016A000011124,Mortgages - national balance sheet,Dollars,81,millions,6,v1038036703,1.16,278180,NA,NA,NA,0
+1992-01,Canada,2016A000011124,Credit market debt - financial flow,Dollars,81,millions,6,v95701115,1.7,4054,NA,NA,NA,0
+1992-01,Canada,2016A000011124,Consumer credit - financial flow,Dollars,81,millions,6,v95701116,1.8,450,NA,NA,NA,0
+1992-01,Canada,2016A000011124,Non-mortgage loans - financial flow,Dollars,81,millions,6,v95701117,1.9,128,NA,NA,NA,0
+1992-01,Canada,2016A000011124,Mortgages - financial flow,Dollars,81,millions,6,v95701118,1.1,3476,NA,NA,NA,0
+1992-04,Canada,2016A000011124,Credit market debt to disposable income,Ratio,271,units,0,v1038036698,1.11,96.23,NA,NA,NA,2
+1992-04,Canada,2016A000011124,Consumer credit and mortgage liabilities to disposable income,Ratio,271,units,0,v1038036699,1.12,89.18,NA,NA,NA,2
+1992-04,Canada,2016A000011124,Credit market debt - national balance sheet,Dollars,81,millions,6,v1038036700,1.13,412631,NA,NA,NA,0
+1992-04,Canada,2016A000011124,Consumer credit - national balance sheet,Dollars,81,millions,6,v1038036701,1.14,98774,NA,NA,NA,0
+1992-04,Canada,2016A000011124,Non-mortgage loans - national balance sheet,Dollars,81,millions,6,v1038036702,1.15,30216,NA,NA,NA,0
+1992-04,Canada,2016A000011124,Mortgages - national balance sheet,Dollars,81,millions,6,v1038036703,1.16,283641,NA,NA,NA,0
+1992-04,Canada,2016A000011124,Credit market debt - financial flow,Dollars,81,millions,6,v95701115,1.7,6122,NA,NA,NA,0
+1992-04,Canada,2016A000011124,Consumer credit - financial flow,Dollars,81,millions,6,v95701116,1.8,606,NA,NA,NA,0
+1992-04,Canada,2016A000011124,Non-mortgage loans - financial flow,Dollars,81,millions,6,v95701117,1.9,29,NA,NA,NA,0
+1992-04,Canada,2016A000011124,Mortgages - financial flow,Dollars,81,millions,6,v95701118,1.1,5487,NA,NA,NA,0
+1992-07,Canada,2016A000011124,Credit market debt to disposable income,Ratio,271,units,0,v1038036698,1.11,94.43,NA,NA,NA,2
+1992-07,Canada,2016A000011124,Consumer credit and mortgage liabilities to disposable income,Ratio,271,units,0,v1038036699,1.12,87.51,NA,NA,NA,2
+1992-07,Canada,2016A000011124,Credit market debt - national balance sheet,Dollars,81,millions,6,v1038036700,1.13,417687,NA,NA,NA,0
+1992-07,Canada,2016A000011124,Consumer credit - national balance sheet,Dollars,81,millions,6,v1038036701,1.14,99021,NA,NA,NA,0
+1992-07,Canada,2016A000011124,Non-mortgage loans - national balance sheet,Dollars,81,millions,6,v1038036702,1.15,30633,NA,NA,NA,0
+1992-07,Canada,2016A000011124,Mortgages - national balance sheet,Dollars,81,millions,6,v1038036703,1.16,288033,NA,NA,NA,0
+1992-07,Canada,2016A000011124,Credit market debt - financial flow,Dollars,81,millions,6,v95701115,1.7,5434,NA,NA,NA,0
+1992-07,Canada,2016A000011124,Consumer credit - financial flow,Dollars,81,millions,6,v95701116,1.8,417,NA,NA,NA,0
+1992-07,Canada,2016A000011124,Non-mortgage loans - financial flow,Dollars,81,millions,6,v95701117,1.9,601,NA,NA,NA,0
+1992-07,Canada,2016A000011124,Mortgages - financial flow,Dollars,81,millions,6,v95701118,1.1,4416,NA,NA,NA,0
+1992-10,Canada,2016A000011124,Credit market debt to disposable income,Ratio,271,units,0,v1038036698,1.11,97.17,NA,NA,NA,2
+1992-10,Canada,2016A000011124,Consumer credit and mortgage liabilities to disposable income,Ratio,271,units,0,v1038036699,1.12,90.15,NA,NA,NA,2
+1992-10,Canada,2016A000011124,Credit market debt - national balance sheet,Dollars,81,millions,6,v1038036700,1.13,423191,NA,NA,NA,0
+1992-10,Canada,2016A000011124,Consumer credit - national balance sheet,Dollars,81,millions,6,v1038036701,1.14,98878,NA,NA,NA,0
+1992-10,Canada,2016A000011124,Non-mortgage loans - national balance sheet,Dollars,81,millions,6,v1038036702,1.15,30572,NA,NA,NA,0
+1992-10,Canada,2016A000011124,Mortgages - national balance sheet,Dollars,81,millions,6,v1038036703,1.16,293741,NA,NA,NA,0
+1992-10,Canada,2016A000011124,Credit market debt - financial flow,Dollars,81,millions,6,v95701115,1.7,5894,NA,NA,NA,0
+1992-10,Canada,2016A000011124,Consumer credit - financial flow,Dollars,81,millions,6,v95701116,1.8,30,NA,NA,NA,0
+1992-10,Canada,2016A000011124,Non-mortgage loans - financial flow,Dollars,81,millions,6,v95701117,1.9,134,NA,NA,NA,0
+1992-10,Canada,2016A000011124,Mortgages - financial flow,Dollars,81,millions,6,v95701118,1.1,5730,NA,NA,NA,0
+1993-01,Canada,2016A000011124,Credit market debt to disposable income,Ratio,271,units,0,v1038036698,1.11,97.38,NA,NA,NA,2
+1993-01,Canada,2016A000011124,Consumer credit and mortgage liabilities to disposable income,Ratio,271,units,0,v1038036699,1.12,90.54,NA,NA,NA,2
+1993-01,Canada,2016A000011124,Credit market debt - national balance sheet,Dollars,81,millions,6,v1038036700,1.13,427755,NA,NA,NA,0
+1993-01,Canada,2016A000011124,Consumer credit - national balance sheet,Dollars,81,millions,6,v1038036701,1.14,100049,NA,NA,NA,0
+1993-01,Canada,2016A000011124,Non-mortgage loans - national balance sheet,Dollars,81,millions,6,v1038036702,1.15,30026,NA,NA,NA,0
+1993-01,Canada,2016A000011124,Mortgages - national balance sheet,Dollars,81,millions,6,v1038036703,1.16,297680,NA,NA,NA,0
+1993-01,Canada,2016A000011124,Credit market debt - financial flow,Dollars,81,millions,6,v95701115,1.7,4962,NA,NA,NA,0
+1993-01,Canada,2016A000011124,Consumer credit - financial flow,Dollars,81,millions,6,v95701116,1.8,1339,NA,NA,NA,0
+1993-01,Canada,2016A000011124,Non-mortgage loans - financial flow,Dollars,81,millions,6,v95701117,1.9,-338,NA,NA,NA,0
+1993-01,Canada,2016A000011124,Mortgages - financial flow,Dollars,81,millions,6,v95701118,1.1,3961,NA,NA,NA,0
+1993-04,Canada,2016A000011124,Credit market debt to disposable income,Ratio,271,units,0,v1038036698,1.11,95.11,NA,NA,NA,2
+1993-04,Canada,2016A000011124,Consumer credit and mortgage liabilities to disposable income,Ratio,271,units,0,v1038036699,1.12,88.5,NA,NA,NA,2
+1993-04,Canada,2016A000011124,Credit market debt - national balance sheet,Dollars,81,millions,6,v1038036700,1.13,436142,NA,NA,NA,0
+1993-04,Canada,2016A000011124,Consumer credit - national balance sheet,Dollars,81,millions,6,v1038036701,1.14,101066,NA,NA,NA,0
+1993-04,Canada,2016A000011124,Non-mortgage loans - national balance sheet,Dollars,81,millions,6,v1038036702,1.15,30313,NA,NA,NA,0
+1993-04,Canada,2016A000011124,Mortgages - national balance sheet,Dollars,81,millions,6,v1038036703,1.16,304763,NA,NA,NA,0
+1993-04,Canada,2016A000011124,Credit market debt - financial flow,Dollars,81,millions,6,v95701115,1.7,8785,NA,NA,NA,0
+1993-04,Canada,2016A000011124,Consumer credit - financial flow,Dollars,81,millions,6,v95701116,1.8,1191,NA,NA,NA,0
+1993-04,Canada,2016A000011124,Non-mortgage loans - financial flow,Dollars,81,millions,6,v95701117,1.9,490,NA,NA,NA,0
+1993-04,Canada,2016A000011124,Mortgages - financial flow,Dollars,81,millions,6,v95701118,1.1,7104,NA,NA,NA,0
+1993-07,Canada,2016A000011124,Credit market debt to disposable income,Ratio,271,units,0,v1038036698,1.11,98.92,NA,NA,NA,2
+1993-07,Canada,2016A000011124,Consumer credit and mortgage liabilities to disposable income,Ratio,271,units,0,v1038036699,1.12,92,NA,NA,NA,2
+1993-07,Canada,2016A000011124,Credit market debt - national balance sheet,Dollars,81,millions,6,v1038036700,1.13,439891,NA,NA,NA,0
+1993-07,Canada,2016A000011124,Consumer credit - national balance sheet,Dollars,81,millions,6,v1038036701,1.14,102116,NA,NA,NA,0
+1993-07,Canada,2016A000011124,Non-mortgage loans - national balance sheet,Dollars,81,millions,6,v1038036702,1.15,30771,NA,NA,NA,0
+1993-07,Canada,2016A000011124,Mortgages - national balance sheet,Dollars,81,millions,6,v1038036703,1.16,307004,NA,NA,NA,0
+1993-07,Canada,2016A000011124,Credit market debt - financial flow,Dollars,81,millions,6,v95701115,1.7,4120,NA,NA,NA,0
+1993-07,Canada,2016A000011124,Consumer credit - financial flow,Dollars,81,millions,6,v95701116,1.8,1223,NA,NA,NA,0
+1993-07,Canada,2016A000011124,Non-mortgage loans - financial flow,Dollars,81,millions,6,v95701117,1.9,635,NA,NA,NA,0
+1993-07,Canada,2016A000011124,Mortgages - financial flow,Dollars,81,millions,6,v95701118,1.1,2262,NA,NA,NA,0
+1993-10,Canada,2016A000011124,Credit market debt to disposable income,Ratio,271,units,0,v1038036698,1.11,100.69,NA,NA,NA,2
+1993-10,Canada,2016A000011124,Consumer credit and mortgage liabilities to disposable income,Ratio,271,units,0,v1038036699,1.12,93.61,NA,NA,NA,2
+1993-10,Canada,2016A000011124,Credit market debt - national balance sheet,Dollars,81,millions,6,v1038036700,1.13,445164,NA,NA,NA,0
+1993-10,Canada,2016A000011124,Consumer credit - national balance sheet,Dollars,81,millions,6,v1038036701,1.14,103855,NA,NA,NA,0
+1993-10,Canada,2016A000011124,Non-mortgage loans - national balance sheet,Dollars,81,millions,6,v1038036702,1.15,31339,NA,NA,NA,0
+1993-10,Canada,2016A000011124,Mortgages - national balance sheet,Dollars,81,millions,6,v1038036703,1.16,309970,NA,NA,NA,0
+1993-10,Canada,2016A000011124,Credit market debt - financial flow,Dollars,81,millions,6,v95701115,1.7,5683,NA,NA,NA,0
+1993-10,Canada,2016A000011124,Consumer credit - financial flow,Dollars,81,millions,6,v95701116,1.8,1921,NA,NA,NA,0
+1993-10,Canada,2016A000011124,Non-mortgage loans - financial flow,Dollars,81,millions,6,v95701117,1.9,773,NA,NA,NA,0
+1993-10,Canada,2016A000011124,Mortgages - financial flow,Dollars,81,millions,6,v95701118,1.1,2989,NA,NA,NA,0
+1994-01,Canada,2016A000011124,Credit market debt to disposable income,Ratio,271,units,0,v1038036698,1.11,100.27,NA,NA,NA,2
+1994-01,Canada,2016A000011124,Consumer credit and mortgage liabilities to disposable income,Ratio,271,units,0,v1038036699,1.12,93.11,NA,NA,NA,2
+1994-01,Canada,2016A000011124,Credit market debt - national balance sheet,Dollars,81,millions,6,v1038036700,1.13,451238,NA,NA,NA,0
+1994-01,Canada,2016A000011124,Consumer credit - national balance sheet,Dollars,81,millions,6,v1038036701,1.14,104367,NA,NA,NA,0
+1994-01,Canada,2016A000011124,Non-mortgage loans - national balance sheet,Dollars,81,millions,6,v1038036702,1.15,32238,NA,NA,NA,0
+1994-01,Canada,2016A000011124,Mortgages - national balance sheet,Dollars,81,millions,6,v1038036703,1.16,314633,NA,NA,NA,0
+1994-01,Canada,2016A000011124,Credit market debt - financial flow,Dollars,81,millions,6,v95701115,1.7,6447,NA,NA,NA,0
+1994-01,Canada,2016A000011124,Consumer credit - financial flow,Dollars,81,millions,6,v95701116,1.8,692,NA,NA,NA,0
+1994-01,Canada,2016A000011124,Non-mortgage loans - financial flow,Dollars,81,millions,6,v95701117,1.9,1066,NA,NA,NA,0
+1994-01,Canada,2016A000011124,Mortgages - financial flow,Dollars,81,millions,6,v95701118,1.1,4689,NA,NA,NA,0
+1994-04,Canada,2016A000011124,Credit market debt to disposable income,Ratio,271,units,0,v1038036698,1.11,99.96,NA,NA,NA,2
+1994-04,Canada,2016A000011124,Consumer credit and mortgage liabilities to disposable income,Ratio,271,units,0,v1038036699,1.12,92.93,NA,NA,NA,2
+1994-04,Canada,2016A000011124,Credit market debt - national balance sheet,Dollars,81,millions,6,v1038036700,1.13,454358,NA,NA,NA,0
+1994-04,Canada,2016A000011124,Consumer credit - national balance sheet,Dollars,81,millions,6,v1038036701,1.14,105445,NA,NA,NA,0
+1994-04,Canada,2016A000011124,Non-mortgage loans - national balance sheet,Dollars,81,millions,6,v1038036702,1.15,31983,NA,NA,NA,0
+1994-04,Canada,2016A000011124,Mortgages - national balance sheet,Dollars,81,millions,6,v1038036703,1.16,316930,NA,NA,NA,0
+1994-04,Canada,2016A000011124,Credit market debt - financial flow,Dollars,81,millions,6,v95701115,1.7,3513,NA,NA,NA,0
+1994-04,Canada,2016A000011124,Consumer credit - financial flow,Dollars,81,millions,6,v95701116,1.8,1258,NA,NA,NA,0
+1994-04,Canada,2016A000011124,Non-mortgage loans - financial flow,Dollars,81,millions,6,v95701117,1.9,-63,NA,NA,NA,0
+1994-04,Canada,2016A000011124,Mortgages - financial flow,Dollars,81,millions,6,v95701118,1.1,2318,NA,NA,NA,0
+1994-07,Canada,2016A000011124,Credit market debt to disposable income,Ratio,271,units,0,v1038036698,1.11,101.46,NA,NA,NA,2
+1994-07,Canada,2016A000011124,Consumer credit and mortgage liabilities to disposable income,Ratio,271,units,0,v1038036699,1.12,94.46,NA,NA,NA,2
+1994-07,Canada,2016A000011124,Credit market debt - national balance sheet,Dollars,81,millions,6,v1038036700,1.13,460788,NA,NA,NA,0
+1994-07,Canada,2016A000011124,Consumer credit - national balance sheet,Dollars,81,millions,6,v1038036701,1.14,107775,NA,NA,NA,0
+1994-07,Canada,2016A000011124,Non-mortgage loans - national balance sheet,Dollars,81,millions,6,v1038036702,1.15,31819,NA,NA,NA,0
+1994-07,Canada,2016A000011124,Mortgages - national balance sheet,Dollars,81,millions,6,v1038036703,1.16,321194,NA,NA,NA,0
+1994-07,Canada,2016A000011124,Credit market debt - financial flow,Dollars,81,millions,6,v95701115,1.7,6799,NA,NA,NA,0
+1994-07,Canada,2016A000011124,Consumer credit - financial flow,Dollars,81,millions,6,v95701116,1.8,2497,NA,NA,NA,0
+1994-07,Canada,2016A000011124,Non-mortgage loans - financial flow,Dollars,81,millions,6,v95701117,1.9,14,NA,NA,NA,0
+1994-07,Canada,2016A000011124,Mortgages - financial flow,Dollars,81,millions,6,v95701118,1.1,4288,NA,NA,NA,0
+1994-10,Canada,2016A000011124,Credit market debt to disposable income,Ratio,271,units,0,v1038036698,1.11,102.05,NA,NA,NA,2
+1994-10,Canada,2016A000011124,Consumer credit and mortgage liabilities to disposable income,Ratio,271,units,0,v1038036699,1.12,95,NA,NA,NA,2
+1994-10,Canada,2016A000011124,Credit market debt - national balance sheet,Dollars,81,millions,6,v1038036700,1.13,469050,NA,NA,NA,0
+1994-10,Canada,2016A000011124,Consumer credit - national balance sheet,Dollars,81,millions,6,v1038036701,1.14,110484,NA,NA,NA,0
+1994-10,Canada,2016A000011124,Non-mortgage loans - national balance sheet,Dollars,81,millions,6,v1038036702,1.15,32378,NA,NA,NA,0
+1994-10,Canada,2016A000011124,Mortgages - national balance sheet,Dollars,81,millions,6,v1038036703,1.16,326188,NA,NA,NA,0
+1994-10,Canada,2016A000011124,Credit market debt - financial flow,Dollars,81,millions,6,v95701115,1.7,8615,NA,NA,NA,0
+1994-10,Canada,2016A000011124,Consumer credit - financial flow,Dollars,81,millions,6,v95701116,1.8,2884,NA,NA,NA,0
+1994-10,Canada,2016A000011124,Non-mortgage loans - financial flow,Dollars,81,millions,6,v95701117,1.9,713,NA,NA,NA,0
+1994-10,Canada,2016A000011124,Mortgages - financial flow,Dollars,81,millions,6,v95701118,1.1,5018,NA,NA,NA,0
+1995-01,Canada,2016A000011124,Credit market debt to disposable income,Ratio,271,units,0,v1038036698,1.11,102.67,NA,NA,NA,2
+1995-01,Canada,2016A000011124,Consumer credit and mortgage liabilities to disposable income,Ratio,271,units,0,v1038036699,1.12,95.59,NA,NA,NA,2
+1995-01,Canada,2016A000011124,Credit market debt - national balance sheet,Dollars,81,millions,6,v1038036700,1.13,474231,NA,NA,NA,0
+1995-01,Canada,2016A000011124,Consumer credit - national balance sheet,Dollars,81,millions,6,v1038036701,1.14,111241,NA,NA,NA,0
+1995-01,Canada,2016A000011124,Non-mortgage loans - national balance sheet,Dollars,81,millions,6,v1038036702,1.15,32668,NA,NA,NA,0
+1995-01,Canada,2016A000011124,Mortgages - national balance sheet,Dollars,81,millions,6,v1038036703,1.16,330322,NA,NA,NA,0
+1995-01,Canada,2016A000011124,Credit market debt - financial flow,Dollars,81,millions,6,v95701115,1.7,5522,NA,NA,NA,0
+1995-01,Canada,2016A000011124,Consumer credit - financial flow,Dollars,81,millions,6,v95701116,1.8,912,NA,NA,NA,0
+1995-01,Canada,2016A000011124,Non-mortgage loans - financial flow,Dollars,81,millions,6,v95701117,1.9,451,NA,NA,NA,0
+1995-01,Canada,2016A000011124,Mortgages - financial flow,Dollars,81,millions,6,v95701118,1.1,4159,NA,NA,NA,0
+1995-04,Canada,2016A000011124,Credit market debt to disposable income,Ratio,271,units,0,v1038036698,1.11,102.84,NA,NA,NA,2
+1995-04,Canada,2016A000011124,Consumer credit and mortgage liabilities to disposable income,Ratio,271,units,0,v1038036699,1.12,95.7,NA,NA,NA,2
+1995-04,Canada,2016A000011124,Credit market debt - national balance sheet,Dollars,81,millions,6,v1038036700,1.13,479102,NA,NA,NA,0
+1995-04,Canada,2016A000011124,Consumer credit - national balance sheet,Dollars,81,millions,6,v1038036701,1.14,113092,NA,NA,NA,0
+1995-04,Canada,2016A000011124,Non-mortgage loans - national balance sheet,Dollars,81,millions,6,v1038036702,1.15,33238,NA,NA,NA,0
+1995-04,Canada,2016A000011124,Mortgages - national balance sheet,Dollars,81,millions,6,v1038036703,1.16,332772,NA,NA,NA,0
+1995-04,Canada,2016A000011124,Credit market debt - financial flow,Dollars,81,millions,6,v95701115,1.7,5219,NA,NA,NA,0
+1995-04,Canada,2016A000011124,Consumer credit - financial flow,Dollars,81,millions,6,v95701116,1.8,2009,NA,NA,NA,0
+1995-04,Canada,2016A000011124,Non-mortgage loans - financial flow,Dollars,81,millions,6,v95701117,1.9,732,NA,NA,NA,0
+1995-04,Canada,2016A000011124,Mortgages - financial flow,Dollars,81,millions,6,v95701118,1.1,2478,NA,NA,NA,0
+1995-07,Canada,2016A000011124,Credit market debt to disposable income,Ratio,271,units,0,v1038036698,1.11,104.59,NA,NA,NA,2
+1995-07,Canada,2016A000011124,Consumer credit and mortgage liabilities to disposable income,Ratio,271,units,0,v1038036699,1.12,97.23,NA,NA,NA,2
+1995-07,Canada,2016A000011124,Credit market debt - national balance sheet,Dollars,81,millions,6,v1038036700,1.13,487234,NA,NA,NA,0
+1995-07,Canada,2016A000011124,Consumer credit - national balance sheet,Dollars,81,millions,6,v1038036701,1.14,114866,NA,NA,NA,0
+1995-07,Canada,2016A000011124,Non-mortgage loans - national balance sheet,Dollars,81,millions,6,v1038036702,1.15,34314,NA,NA,NA,0
+1995-07,Canada,2016A000011124,Mortgages - national balance sheet,Dollars,81,millions,6,v1038036703,1.16,338054,NA,NA,NA,0
+1995-07,Canada,2016A000011124,Credit market debt - financial flow,Dollars,81,millions,6,v95701115,1.7,8486,NA,NA,NA,0
+1995-07,Canada,2016A000011124,Consumer credit - financial flow,Dollars,81,millions,6,v95701116,1.8,1938,NA,NA,NA,0
+1995-07,Canada,2016A000011124,Non-mortgage loans - financial flow,Dollars,81,millions,6,v95701117,1.9,1235,NA,NA,NA,0
+1995-07,Canada,2016A000011124,Mortgages - financial flow,Dollars,81,millions,6,v95701118,1.1,5313,NA,NA,NA,0
+1995-10,Canada,2016A000011124,Credit market debt to disposable income,Ratio,271,units,0,v1038036698,1.11,104.79,NA,NA,NA,2
+1995-10,Canada,2016A000011124,Consumer credit and mortgage liabilities to disposable income,Ratio,271,units,0,v1038036699,1.12,97.39,NA,NA,NA,2
+1995-10,Canada,2016A000011124,Credit market debt - national balance sheet,Dollars,81,millions,6,v1038036700,1.13,491540,NA,NA,NA,0
+1995-10,Canada,2016A000011124,Consumer credit - national balance sheet,Dollars,81,millions,6,v1038036701,1.14,117502,NA,NA,NA,0
+1995-10,Canada,2016A000011124,Non-mortgage loans - national balance sheet,Dollars,81,millions,6,v1038036702,1.15,34690,NA,NA,NA,0
+1995-10,Canada,2016A000011124,Mortgages - national balance sheet,Dollars,81,millions,6,v1038036703,1.16,339348,NA,NA,NA,0
+1995-10,Canada,2016A000011124,Credit market debt - financial flow,Dollars,81,millions,6,v95701115,1.7,4666,NA,NA,NA,0
+1995-10,Canada,2016A000011124,Consumer credit - financial flow,Dollars,81,millions,6,v95701116,1.8,2809,NA,NA,NA,0
+1995-10,Canada,2016A000011124,Non-mortgage loans - financial flow,Dollars,81,millions,6,v95701117,1.9,532,NA,NA,NA,0
+1995-10,Canada,2016A000011124,Mortgages - financial flow,Dollars,81,millions,6,v95701118,1.1,1325,NA,NA,NA,0
+1996-01,Canada,2016A000011124,Credit market debt to disposable income,Ratio,271,units,0,v1038036698,1.11,105.23,NA,NA,NA,2
+1996-01,Canada,2016A000011124,Consumer credit and mortgage liabilities to disposable income,Ratio,271,units,0,v1038036699,1.12,97.87,NA,NA,NA,2
+1996-01,Canada,2016A000011124,Credit market debt - national balance sheet,Dollars,81,millions,6,v1038036700,1.13,496869,NA,NA,NA,0
+1996-01,Canada,2016A000011124,Consumer credit - national balance sheet,Dollars,81,millions,6,v1038036701,1.14,120473,NA,NA,NA,0
+1996-01,Canada,2016A000011124,Non-mortgage loans - national balance sheet,Dollars,81,millions,6,v1038036702,1.15,34785,NA,NA,NA,0
+1996-01,Canada,2016A000011124,Mortgages - national balance sheet,Dollars,81,millions,6,v1038036703,1.16,341611,NA,NA,NA,0
+1996-01,Canada,2016A000011124,Credit market debt - financial flow,Dollars,81,millions,6,v95701115,1.7,5690,NA,NA,NA,0
+1996-01,Canada,2016A000011124,Consumer credit - financial flow,Dollars,81,millions,6,v95701116,1.8,3140,NA,NA,NA,0
+1996-01,Canada,2016A000011124,Non-mortgage loans - financial flow,Dollars,81,millions,6,v95701117,1.9,253,NA,NA,NA,0
+1996-01,Canada,2016A000011124,Mortgages - financial flow,Dollars,81,millions,6,v95701118,1.1,2297,NA,NA,NA,0
+1996-04,Canada,2016A000011124,Credit market debt to disposable income,Ratio,271,units,0,v1038036698,1.11,106.55,NA,NA,NA,2
+1996-04,Canada,2016A000011124,Consumer credit and mortgage liabilities to disposable income,Ratio,271,units,0,v1038036699,1.12,98.94,NA,NA,NA,2
+1996-04,Canada,2016A000011124,Credit market debt - national balance sheet,Dollars,81,millions,6,v1038036700,1.13,504730,NA,NA,NA,0
+1996-04,Canada,2016A000011124,Consumer credit - national balance sheet,Dollars,81,millions,6,v1038036701,1.14,123149,NA,NA,NA,0
+1996-04,Canada,2016A000011124,Non-mortgage loans - national balance sheet,Dollars,81,millions,6,v1038036702,1.15,36029,NA,NA,NA,0
+1996-04,Canada,2016A000011124,Mortgages - national balance sheet,Dollars,81,millions,6,v1038036703,1.16,345552,NA,NA,NA,0
+1996-04,Canada,2016A000011124,Credit market debt - financial flow,Dollars,81,millions,6,v95701115,1.7,8231,NA,NA,NA,0
+1996-04,Canada,2016A000011124,Consumer credit - financial flow,Dollars,81,millions,6,v95701116,1.8,2851,NA,NA,NA,0
+1996-04,Canada,2016A000011124,Non-mortgage loans - financial flow,Dollars,81,millions,6,v95701117,1.9,1407,NA,NA,NA,0
+1996-04,Canada,2016A000011124,Mortgages - financial flow,Dollars,81,millions,6,v95701118,1.1,3973,NA,NA,NA,0
+1996-07,Canada,2016A000011124,Credit market debt to disposable income,Ratio,271,units,0,v1038036698,1.11,107.4,NA,NA,NA,2
+1996-07,Canada,2016A000011124,Consumer credit and mortgage liabilities to disposable income,Ratio,271,units,0,v1038036699,1.12,99.83,NA,NA,NA,2
+1996-07,Canada,2016A000011124,Credit market debt - national balance sheet,Dollars,81,millions,6,v1038036700,1.13,510511,NA,NA,NA,0
+1996-07,Canada,2016A000011124,Consumer credit - national balance sheet,Dollars,81,millions,6,v1038036701,1.14,125882,NA,NA,NA,0
+1996-07,Canada,2016A000011124,Non-mortgage loans - national balance sheet,Dollars,81,millions,6,v1038036702,1.15,36010,NA,NA,NA,0
+1996-07,Canada,2016A000011124,Mortgages - national balance sheet,Dollars,81,millions,6,v1038036703,1.16,348619,NA,NA,NA,0
+1996-07,Canada,2016A000011124,Credit market debt - financial flow,Dollars,81,millions,6,v95701115,1.7,6157,NA,NA,NA,0
+1996-07,Canada,2016A000011124,Consumer credit - financial flow,Dollars,81,millions,6,v95701116,1.8,2913,NA,NA,NA,0
+1996-07,Canada,2016A000011124,Non-mortgage loans - financial flow,Dollars,81,millions,6,v95701117,1.9,144,NA,NA,NA,0
+1996-07,Canada,2016A000011124,Mortgages - financial flow,Dollars,81,millions,6,v95701118,1.1,3100,NA,NA,NA,0
+1996-10,Canada,2016A000011124,Credit market debt to disposable income,Ratio,271,units,0,v1038036698,1.11,107.82,NA,NA,NA,2
+1996-10,Canada,2016A000011124,Consumer credit and mortgage liabilities to disposable income,Ratio,271,units,0,v1038036699,1.12,100.28,NA,NA,NA,2
+1996-10,Canada,2016A000011124,Credit market debt - national balance sheet,Dollars,81,millions,6,v1038036700,1.13,518521,NA,NA,NA,0
+1996-10,Canada,2016A000011124,Consumer credit - national balance sheet,Dollars,81,millions,6,v1038036701,1.14,128347,NA,NA,NA,0
+1996-10,Canada,2016A000011124,Non-mortgage loans - national balance sheet,Dollars,81,millions,6,v1038036702,1.15,36271,NA,NA,NA,0
+1996-10,Canada,2016A000011124,Mortgages - national balance sheet,Dollars,81,millions,6,v1038036703,1.16,353903,NA,NA,NA,0
+1996-10,Canada,2016A000011124,Credit market debt - financial flow,Dollars,81,millions,6,v95701115,1.7,8391,NA,NA,NA,0
+1996-10,Canada,2016A000011124,Consumer credit - financial flow,Dollars,81,millions,6,v95701116,1.8,2655,NA,NA,NA,0
+1996-10,Canada,2016A000011124,Non-mortgage loans - financial flow,Dollars,81,millions,6,v95701117,1.9,417,NA,NA,NA,0
+1996-10,Canada,2016A000011124,Mortgages - financial flow,Dollars,81,millions,6,v95701118,1.1,5319,NA,NA,NA,0
+1997-01,Canada,2016A000011124,Credit market debt to disposable income,Ratio,271,units,0,v1038036698,1.11,108.68,NA,NA,NA,2
+1997-01,Canada,2016A000011124,Consumer credit and mortgage liabilities to disposable income,Ratio,271,units,0,v1038036699,1.12,101,NA,NA,NA,2
+1997-01,Canada,2016A000011124,Credit market debt - national balance sheet,Dollars,81,millions,6,v1038036700,1.13,527413,NA,NA,NA,0
+1997-01,Canada,2016A000011124,Consumer credit - national balance sheet,Dollars,81,millions,6,v1038036701,1.14,131982,NA,NA,NA,0
+1997-01,Canada,2016A000011124,Non-mortgage loans - national balance sheet,Dollars,81,millions,6,v1038036702,1.15,37286,NA,NA,NA,0
+1997-01,Canada,2016A000011124,Mortgages - national balance sheet,Dollars,81,millions,6,v1038036703,1.16,358145,NA,NA,NA,0
+1997-01,Canada,2016A000011124,Credit market debt - financial flow,Dollars,81,millions,6,v95701115,1.7,9278,NA,NA,NA,0
+1997-01,Canada,2016A000011124,Consumer credit - financial flow,Dollars,81,millions,6,v95701116,1.8,3816,NA,NA,NA,0
+1997-01,Canada,2016A000011124,Non-mortgage loans - financial flow,Dollars,81,millions,6,v95701117,1.9,1184,NA,NA,NA,0
+1997-01,Canada,2016A000011124,Mortgages - financial flow,Dollars,81,millions,6,v95701118,1.1,4278,NA,NA,NA,0
+1997-04,Canada,2016A000011124,Credit market debt to disposable income,Ratio,271,units,0,v1038036698,1.11,109.71,NA,NA,NA,2
+1997-04,Canada,2016A000011124,Consumer credit and mortgage liabilities to disposable income,Ratio,271,units,0,v1038036699,1.12,102.02,NA,NA,NA,2
+1997-04,Canada,2016A000011124,Credit market debt - national balance sheet,Dollars,81,millions,6,v1038036700,1.13,534677,NA,NA,NA,0
+1997-04,Canada,2016A000011124,Consumer credit - national balance sheet,Dollars,81,millions,6,v1038036701,1.14,135373,NA,NA,NA,0
+1997-04,Canada,2016A000011124,Non-mortgage loans - national balance sheet,Dollars,81,millions,6,v1038036702,1.15,37491,NA,NA,NA,0
+1997-04,Canada,2016A000011124,Mortgages - national balance sheet,Dollars,81,millions,6,v1038036703,1.16,361813,NA,NA,NA,0
+1997-04,Canada,2016A000011124,Credit market debt - financial flow,Dollars,81,millions,6,v95701115,1.7,7628,NA,NA,NA,0
+1997-04,Canada,2016A000011124,Consumer credit - financial flow,Dollars,81,millions,6,v95701116,1.8,3561,NA,NA,NA,0
+1997-04,Canada,2016A000011124,Non-mortgage loans - financial flow,Dollars,81,millions,6,v95701117,1.9,363,NA,NA,NA,0
+1997-04,Canada,2016A000011124,Mortgages - financial flow,Dollars,81,millions,6,v95701118,1.1,3704,NA,NA,NA,0
+1997-07,Canada,2016A000011124,Credit market debt to disposable income,Ratio,271,units,0,v1038036698,1.11,108.79,NA,NA,NA,2
+1997-07,Canada,2016A000011124,Consumer credit and mortgage liabilities to disposable income,Ratio,271,units,0,v1038036699,1.12,101.33,NA,NA,NA,2
+1997-07,Canada,2016A000011124,Credit market debt - national balance sheet,Dollars,81,millions,6,v1038036700,1.13,545341,NA,NA,NA,0
+1997-07,Canada,2016A000011124,Consumer credit - national balance sheet,Dollars,81,millions,6,v1038036701,1.14,142022,NA,NA,NA,0
+1997-07,Canada,2016A000011124,Non-mortgage loans - national balance sheet,Dollars,81,millions,6,v1038036702,1.15,37402,NA,NA,NA,0
+1997-07,Canada,2016A000011124,Mortgages - national balance sheet,Dollars,81,millions,6,v1038036703,1.16,365917,NA,NA,NA,0
+1997-07,Canada,2016A000011124,Credit market debt - financial flow,Dollars,81,millions,6,v95701115,1.7,9021,NA,NA,NA,0
+1997-07,Canada,2016A000011124,Consumer credit - financial flow,Dollars,81,millions,6,v95701116,1.8,4824,NA,NA,NA,0
+1997-07,Canada,2016A000011124,Non-mortgage loans - financial flow,Dollars,81,millions,6,v95701117,1.9,62,NA,NA,NA,0
+1997-07,Canada,2016A000011124,Mortgages - financial flow,Dollars,81,millions,6,v95701118,1.1,4135,NA,NA,NA,0
+1997-10,Canada,2016A000011124,Credit market debt to disposable income,Ratio,271,units,0,v1038036698,1.11,109.64,NA,NA,NA,2
+1997-10,Canada,2016A000011124,Consumer credit and mortgage liabilities to disposable income,Ratio,271,units,0,v1038036699,1.12,102.01,NA,NA,NA,2
+1997-10,Canada,2016A000011124,Credit market debt - national balance sheet,Dollars,81,millions,6,v1038036700,1.13,554578,NA,NA,NA,0
+1997-10,Canada,2016A000011124,Consumer credit - national balance sheet,Dollars,81,millions,6,v1038036701,1.14,146758,NA,NA,NA,0
+1997-10,Canada,2016A000011124,Non-mortgage loans - national balance sheet,Dollars,81,millions,6,v1038036702,1.15,38619,NA,NA,NA,0
+1997-10,Canada,2016A000011124,Mortgages - national balance sheet,Dollars,81,millions,6,v1038036703,1.16,369201,NA,NA,NA,0
+1997-10,Canada,2016A000011124,Credit market debt - financial flow,Dollars,81,millions,6,v95701115,1.7,9556,NA,NA,NA,0
+1997-10,Canada,2016A000011124,Consumer credit - financial flow,Dollars,81,millions,6,v95701116,1.8,4900,NA,NA,NA,0
+1997-10,Canada,2016A000011124,Non-mortgage loans - financial flow,Dollars,81,millions,6,v95701117,1.9,1342,NA,NA,NA,0
+1997-10,Canada,2016A000011124,Mortgages - financial flow,Dollars,81,millions,6,v95701118,1.1,3314,NA,NA,NA,0
+1998-01,Canada,2016A000011124,Credit market debt to disposable income,Ratio,271,units,0,v1038036698,1.11,111.18,NA,NA,NA,2
+1998-01,Canada,2016A000011124,Consumer credit and mortgage liabilities to disposable income,Ratio,271,units,0,v1038036699,1.12,103.29,NA,NA,NA,2
+1998-01,Canada,2016A000011124,Credit market debt - national balance sheet,Dollars,81,millions,6,v1038036700,1.13,565216,NA,NA,NA,0
+1998-01,Canada,2016A000011124,Consumer credit - national balance sheet,Dollars,81,millions,6,v1038036701,1.14,149930,NA,NA,NA,0
+1998-01,Canada,2016A000011124,Non-mortgage loans - national balance sheet,Dollars,81,millions,6,v1038036702,1.15,40132,NA,NA,NA,0
+1998-01,Canada,2016A000011124,Mortgages - national balance sheet,Dollars,81,millions,6,v1038036703,1.16,375154,NA,NA,NA,0
+1998-01,Canada,2016A000011124,Credit market debt - financial flow,Dollars,81,millions,6,v95701115,1.7,10935,NA,NA,NA,0
+1998-01,Canada,2016A000011124,Consumer credit - financial flow,Dollars,81,millions,6,v95701116,1.8,3338,NA,NA,NA,0
+1998-01,Canada,2016A000011124,Non-mortgage loans - financial flow,Dollars,81,millions,6,v95701117,1.9,1616,NA,NA,NA,0
+1998-01,Canada,2016A000011124,Mortgages - financial flow,Dollars,81,millions,6,v95701118,1.1,5981,NA,NA,NA,0
+1998-04,Canada,2016A000011124,Credit market debt to disposable income,Ratio,271,units,0,v1038036698,1.11,112.72,NA,NA,NA,2
+1998-04,Canada,2016A000011124,Consumer credit and mortgage liabilities to disposable income,Ratio,271,units,0,v1038036699,1.12,104.79,NA,NA,NA,2
+1998-04,Canada,2016A000011124,Credit market debt - national balance sheet,Dollars,81,millions,6,v1038036700,1.13,575568,NA,NA,NA,0
+1998-04,Canada,2016A000011124,Consumer credit - national balance sheet,Dollars,81,millions,6,v1038036701,1.14,155350,NA,NA,NA,0
+1998-04,Canada,2016A000011124,Non-mortgage loans - national balance sheet,Dollars,81,millions,6,v1038036702,1.15,40474,NA,NA,NA,0
+1998-04,Canada,2016A000011124,Mortgages - national balance sheet,Dollars,81,millions,6,v1038036703,1.16,379744,NA,NA,NA,0
+1998-04,Canada,2016A000011124,Credit market debt - financial flow,Dollars,81,millions,6,v95701115,1.7,10585,NA,NA,NA,0
+1998-04,Canada,2016A000011124,Consumer credit - financial flow,Dollars,81,millions,6,v95701116,1.8,5560,NA,NA,NA,0
+1998-04,Canada,2016A000011124,Non-mortgage loans - financial flow,Dollars,81,millions,6,v95701117,1.9,406,NA,NA,NA,0
+1998-04,Canada,2016A000011124,Mortgages - financial flow,Dollars,81,millions,6,v95701118,1.1,4619,NA,NA,NA,0
+1998-07,Canada,2016A000011124,Credit market debt to disposable income,Ratio,271,units,0,v1038036698,1.11,111.84,NA,NA,NA,2
+1998-07,Canada,2016A000011124,Consumer credit and mortgage liabilities to disposable income,Ratio,271,units,0,v1038036699,1.12,103.96,NA,NA,NA,2
+1998-07,Canada,2016A000011124,Credit market debt - national balance sheet,Dollars,81,millions,6,v1038036700,1.13,585377,NA,NA,NA,0
+1998-07,Canada,2016A000011124,Consumer credit - national balance sheet,Dollars,81,millions,6,v1038036701,1.14,158863,NA,NA,NA,0
+1998-07,Canada,2016A000011124,Non-mortgage loans - national balance sheet,Dollars,81,millions,6,v1038036702,1.15,41259,NA,NA,NA,0
+1998-07,Canada,2016A000011124,Mortgages - national balance sheet,Dollars,81,millions,6,v1038036703,1.16,385255,NA,NA,NA,0
+1998-07,Canada,2016A000011124,Credit market debt - financial flow,Dollars,81,millions,6,v95701115,1.7,9982,NA,NA,NA,0
+1998-07,Canada,2016A000011124,Consumer credit - financial flow,Dollars,81,millions,6,v95701116,1.8,3645,NA,NA,NA,0
+1998-07,Canada,2016A000011124,Non-mortgage loans - financial flow,Dollars,81,millions,6,v95701117,1.9,798,NA,NA,NA,0
+1998-07,Canada,2016A000011124,Mortgages - financial flow,Dollars,81,millions,6,v95701118,1.1,5539,NA,NA,NA,0
+1998-10,Canada,2016A000011124,Credit market debt to disposable income,Ratio,271,units,0,v1038036698,1.11,111.96,NA,NA,NA,2
+1998-10,Canada,2016A000011124,Consumer credit and mortgage liabilities to disposable income,Ratio,271,units,0,v1038036699,1.12,104.23,NA,NA,NA,2
+1998-10,Canada,2016A000011124,Credit market debt - national balance sheet,Dollars,81,millions,6,v1038036700,1.13,595615,NA,NA,NA,0
+1998-10,Canada,2016A000011124,Consumer credit - national balance sheet,Dollars,81,millions,6,v1038036701,1.14,162043,NA,NA,NA,0
+1998-10,Canada,2016A000011124,Non-mortgage loans - national balance sheet,Dollars,81,millions,6,v1038036702,1.15,41155,NA,NA,NA,0
+1998-10,Canada,2016A000011124,Mortgages - national balance sheet,Dollars,81,millions,6,v1038036703,1.16,392417,NA,NA,NA,0
+1998-10,Canada,2016A000011124,Credit market debt - financial flow,Dollars,81,millions,6,v95701115,1.7,10645,NA,NA,NA,0
+1998-10,Canada,2016A000011124,Consumer credit - financial flow,Dollars,81,millions,6,v95701116,1.8,3345,NA,NA,NA,0
+1998-10,Canada,2016A000011124,Non-mortgage loans - financial flow,Dollars,81,millions,6,v95701117,1.9,107,NA,NA,NA,0
+1998-10,Canada,2016A000011124,Mortgages - financial flow,Dollars,81,millions,6,v95701118,1.1,7193,NA,NA,NA,0
+1999-01,Canada,2016A000011124,Credit market debt to disposable income,Ratio,271,units,0,v1038036698,1.11,112.47,NA,NA,NA,2
+1999-01,Canada,2016A000011124,Consumer credit and mortgage liabilities to disposable income,Ratio,271,units,0,v1038036699,1.12,104.96,NA,NA,NA,2
+1999-01,Canada,2016A000011124,Credit market debt - national balance sheet,Dollars,81,millions,6,v1038036700,1.13,600938,NA,NA,NA,0
+1999-01,Canada,2016A000011124,Consumer credit - national balance sheet,Dollars,81,millions,6,v1038036701,1.14,167436,NA,NA,NA,0
+1999-01,Canada,2016A000011124,Non-mortgage loans - national balance sheet,Dollars,81,millions,6,v1038036702,1.15,40110,NA,NA,NA,0
+1999-01,Canada,2016A000011124,Mortgages - national balance sheet,Dollars,81,millions,6,v1038036703,1.16,393392,NA,NA,NA,0
+1999-01,Canada,2016A000011124,Credit market debt - financial flow,Dollars,81,millions,6,v95701115,1.7,5593,NA,NA,NA,0
+1999-01,Canada,2016A000011124,Consumer credit - financial flow,Dollars,81,millions,6,v95701116,1.8,5571,NA,NA,NA,0
+1999-01,Canada,2016A000011124,Non-mortgage loans - financial flow,Dollars,81,millions,6,v95701117,1.9,-983,NA,NA,NA,0
+1999-01,Canada,2016A000011124,Mortgages - financial flow,Dollars,81,millions,6,v95701118,1.1,1005,NA,NA,NA,0
+1999-04,Canada,2016A000011124,Credit market debt to disposable income,Ratio,271,units,0,v1038036698,1.11,112.55,NA,NA,NA,2
+1999-04,Canada,2016A000011124,Consumer credit and mortgage liabilities to disposable income,Ratio,271,units,0,v1038036699,1.12,105.06,NA,NA,NA,2
+1999-04,Canada,2016A000011124,Credit market debt - national balance sheet,Dollars,81,millions,6,v1038036700,1.13,611325,NA,NA,NA,0
+1999-04,Canada,2016A000011124,Consumer credit - national balance sheet,Dollars,81,millions,6,v1038036701,1.14,171510,NA,NA,NA,0
+1999-04,Canada,2016A000011124,Non-mortgage loans - national balance sheet,Dollars,81,millions,6,v1038036702,1.15,40697,NA,NA,NA,0
+1999-04,Canada,2016A000011124,Mortgages - national balance sheet,Dollars,81,millions,6,v1038036703,1.16,399118,NA,NA,NA,0
+1999-04,Canada,2016A000011124,Credit market debt - financial flow,Dollars,81,millions,6,v95701115,1.7,10804,NA,NA,NA,0
+1999-04,Canada,2016A000011124,Consumer credit - financial flow,Dollars,81,millions,6,v95701116,1.8,4263,NA,NA,NA,0
+1999-04,Canada,2016A000011124,Non-mortgage loans - financial flow,Dollars,81,millions,6,v95701117,1.9,786,NA,NA,NA,0
+1999-04,Canada,2016A000011124,Mortgages - financial flow,Dollars,81,millions,6,v95701118,1.1,5755,NA,NA,NA,0
+1999-07,Canada,2016A000011124,Credit market debt to disposable income,Ratio,271,units,0,v1038036698,1.11,112.33,NA,NA,NA,2
+1999-07,Canada,2016A000011124,Consumer credit and mortgage liabilities to disposable income,Ratio,271,units,0,v1038036699,1.12,104.98,NA,NA,NA,2
+1999-07,Canada,2016A000011124,Credit market debt - national balance sheet,Dollars,81,millions,6,v1038036700,1.13,618379,NA,NA,NA,0
+1999-07,Canada,2016A000011124,Consumer credit - national balance sheet,Dollars,81,millions,6,v1038036701,1.14,175873,NA,NA,NA,0
+1999-07,Canada,2016A000011124,Non-mortgage loans - national balance sheet,Dollars,81,millions,6,v1038036702,1.15,40447,NA,NA,NA,0
+1999-07,Canada,2016A000011124,Mortgages - national balance sheet,Dollars,81,millions,6,v1038036703,1.16,402059,NA,NA,NA,0
+1999-07,Canada,2016A000011124,Credit market debt - financial flow,Dollars,81,millions,6,v95701115,1.7,7339,NA,NA,NA,0
+1999-07,Canada,2016A000011124,Consumer credit - financial flow,Dollars,81,millions,6,v95701116,1.8,4507,NA,NA,NA,0
+1999-07,Canada,2016A000011124,Non-mortgage loans - financial flow,Dollars,81,millions,6,v95701117,1.9,-137,NA,NA,NA,0
+1999-07,Canada,2016A000011124,Mortgages - financial flow,Dollars,81,millions,6,v95701118,1.1,2969,NA,NA,NA,0
+1999-10,Canada,2016A000011124,Credit market debt to disposable income,Ratio,271,units,0,v1038036698,1.11,112.84,NA,NA,NA,2
+1999-10,Canada,2016A000011124,Consumer credit and mortgage liabilities to disposable income,Ratio,271,units,0,v1038036699,1.12,105.54,NA,NA,NA,2
+1999-10,Canada,2016A000011124,Credit market debt - national balance sheet,Dollars,81,millions,6,v1038036700,1.13,628588,NA,NA,NA,0
+1999-10,Canada,2016A000011124,Consumer credit - national balance sheet,Dollars,81,millions,6,v1038036701,1.14,182460,NA,NA,NA,0
+1999-10,Canada,2016A000011124,Non-mortgage loans - national balance sheet,Dollars,81,millions,6,v1038036702,1.15,40646,NA,NA,NA,0
+1999-10,Canada,2016A000011124,Mortgages - national balance sheet,Dollars,81,millions,6,v1038036703,1.16,405482,NA,NA,NA,0
+1999-10,Canada,2016A000011124,Credit market debt - financial flow,Dollars,81,millions,6,v95701115,1.7,10656,NA,NA,NA,0
+1999-10,Canada,2016A000011124,Consumer credit - financial flow,Dollars,81,millions,6,v95701116,1.8,6748,NA,NA,NA,0
+1999-10,Canada,2016A000011124,Non-mortgage loans - financial flow,Dollars,81,millions,6,v95701117,1.9,458,NA,NA,NA,0
+1999-10,Canada,2016A000011124,Mortgages - financial flow,Dollars,81,millions,6,v95701118,1.1,3450,NA,NA,NA,0
+2000-01,Canada,2016A000011124,Credit market debt to disposable income,Ratio,271,units,0,v1038036698,1.11,113.96,NA,NA,NA,2
+2000-01,Canada,2016A000011124,Consumer credit and mortgage liabilities to disposable income,Ratio,271,units,0,v1038036699,1.12,106.56,NA,NA,NA,2
+2000-01,Canada,2016A000011124,Credit market debt - national balance sheet,Dollars,81,millions,6,v1038036700,1.13,642342,NA,NA,NA,0
+2000-01,Canada,2016A000011124,Consumer credit - national balance sheet,Dollars,81,millions,6,v1038036701,1.14,187856,NA,NA,NA,0
+2000-01,Canada,2016A000011124,Non-mortgage loans - national balance sheet,Dollars,81,millions,6,v1038036702,1.15,41703,NA,NA,NA,0
+2000-01,Canada,2016A000011124,Mortgages - national balance sheet,Dollars,81,millions,6,v1038036703,1.16,412783,NA,NA,NA,0
+2000-01,Canada,2016A000011124,Credit market debt - financial flow,Dollars,81,millions,6,v95701115,1.7,14009,NA,NA,NA,0
+2000-01,Canada,2016A000011124,Consumer credit - financial flow,Dollars,81,millions,6,v95701116,1.8,5519,NA,NA,NA,0
+2000-01,Canada,2016A000011124,Non-mortgage loans - financial flow,Dollars,81,millions,6,v95701117,1.9,1160,NA,NA,NA,0
+2000-01,Canada,2016A000011124,Mortgages - financial flow,Dollars,81,millions,6,v95701118,1.1,7330,NA,NA,NA,0
+2000-04,Canada,2016A000011124,Credit market debt to disposable income,Ratio,271,units,0,v1038036698,1.11,113.31,NA,NA,NA,2
+2000-04,Canada,2016A000011124,Consumer credit and mortgage liabilities to disposable income,Ratio,271,units,0,v1038036699,1.12,105.99,NA,NA,NA,2
+2000-04,Canada,2016A000011124,Credit market debt - national balance sheet,Dollars,81,millions,6,v1038036700,1.13,649511,NA,NA,NA,0
+2000-04,Canada,2016A000011124,Consumer credit - national balance sheet,Dollars,81,millions,6,v1038036701,1.14,191907,NA,NA,NA,0
+2000-04,Canada,2016A000011124,Non-mortgage loans - national balance sheet,Dollars,81,millions,6,v1038036702,1.15,41976,NA,NA,NA,0
+2000-04,Canada,2016A000011124,Mortgages - national balance sheet,Dollars,81,millions,6,v1038036703,1.16,415628,NA,NA,NA,0
+2000-04,Canada,2016A000011124,Credit market debt - financial flow,Dollars,81,millions,6,v95701115,1.7,7403,NA,NA,NA,0
+2000-04,Canada,2016A000011124,Consumer credit - financial flow,Dollars,81,millions,6,v95701116,1.8,4151,NA,NA,NA,0
+2000-04,Canada,2016A000011124,Non-mortgage loans - financial flow,Dollars,81,millions,6,v95701117,1.9,381,NA,NA,NA,0
+2000-04,Canada,2016A000011124,Mortgages - financial flow,Dollars,81,millions,6,v95701118,1.1,2871,NA,NA,NA,0
+2000-07,Canada,2016A000011124,Credit market debt to disposable income,Ratio,271,units,0,v1038036698,1.11,112.69,NA,NA,NA,2
+2000-07,Canada,2016A000011124,Consumer credit and mortgage liabilities to disposable income,Ratio,271,units,0,v1038036699,1.12,105.49,NA,NA,NA,2
+2000-07,Canada,2016A000011124,Credit market debt - national balance sheet,Dollars,81,millions,6,v1038036700,1.13,660388,NA,NA,NA,0
+2000-07,Canada,2016A000011124,Consumer credit - national balance sheet,Dollars,81,millions,6,v1038036701,1.14,199183,NA,NA,NA,0
+2000-07,Canada,2016A000011124,Non-mortgage loans - national balance sheet,Dollars,81,millions,6,v1038036702,1.15,42155,NA,NA,NA,0
+2000-07,Canada,2016A000011124,Mortgages - national balance sheet,Dollars,81,millions,6,v1038036703,1.16,419050,NA,NA,NA,0
+2000-07,Canada,2016A000011124,Credit market debt - financial flow,Dollars,81,millions,6,v95701115,1.7,11130,NA,NA,NA,0
+2000-07,Canada,2016A000011124,Consumer credit - financial flow,Dollars,81,millions,6,v95701116,1.8,7392,NA,NA,NA,0
+2000-07,Canada,2016A000011124,Non-mortgage loans - financial flow,Dollars,81,millions,6,v95701117,1.9,289,NA,NA,NA,0
+2000-07,Canada,2016A000011124,Mortgages - financial flow,Dollars,81,millions,6,v95701118,1.1,3449,NA,NA,NA,0
+2000-10,Canada,2016A000011124,Credit market debt to disposable income,Ratio,271,units,0,v1038036698,1.11,112.17,NA,NA,NA,2
+2000-10,Canada,2016A000011124,Consumer credit and mortgage liabilities to disposable income,Ratio,271,units,0,v1038036699,1.12,105.16,NA,NA,NA,2
+2000-10,Canada,2016A000011124,Credit market debt - national balance sheet,Dollars,81,millions,6,v1038036700,1.13,668334,NA,NA,NA,0
+2000-10,Canada,2016A000011124,Consumer credit - national balance sheet,Dollars,81,millions,6,v1038036701,1.14,204488,NA,NA,NA,0
+2000-10,Canada,2016A000011124,Non-mortgage loans - national balance sheet,Dollars,81,millions,6,v1038036702,1.15,41805,NA,NA,NA,0
+2000-10,Canada,2016A000011124,Mortgages - national balance sheet,Dollars,81,millions,6,v1038036703,1.16,422041,NA,NA,NA,0
+2000-10,Canada,2016A000011124,Credit market debt - financial flow,Dollars,81,millions,6,v95701115,1.7,8410,NA,NA,NA,0
+2000-10,Canada,2016A000011124,Consumer credit - financial flow,Dollars,81,millions,6,v95701116,1.8,5472,NA,NA,NA,0
+2000-10,Canada,2016A000011124,Non-mortgage loans - financial flow,Dollars,81,millions,6,v95701117,1.9,-83,NA,NA,NA,0
+2000-10,Canada,2016A000011124,Mortgages - financial flow,Dollars,81,millions,6,v95701118,1.1,3021,NA,NA,NA,0
+2001-01,Canada,2016A000011124,Credit market debt to disposable income,Ratio,271,units,0,v1038036698,1.11,109.83,NA,NA,NA,2
+2001-01,Canada,2016A000011124,Consumer credit and mortgage liabilities to disposable income,Ratio,271,units,0,v1038036699,1.12,102.66,NA,NA,NA,2
+2001-01,Canada,2016A000011124,Credit market debt - national balance sheet,Dollars,81,millions,6,v1038036700,1.13,674980,NA,NA,NA,0
+2001-01,Canada,2016A000011124,Consumer credit - national balance sheet,Dollars,81,millions,6,v1038036701,1.14,204324,NA,NA,NA,0
+2001-01,Canada,2016A000011124,Non-mortgage loans - national balance sheet,Dollars,81,millions,6,v1038036702,1.15,44080,NA,NA,NA,0
+2001-01,Canada,2016A000011124,Mortgages - national balance sheet,Dollars,81,millions,6,v1038036703,1.16,426576,NA,NA,NA,0
+2001-01,Canada,2016A000011124,Credit market debt - financial flow,Dollars,81,millions,6,v95701115,1.7,6911,NA,NA,NA,0
+2001-01,Canada,2016A000011124,Consumer credit - financial flow,Dollars,81,millions,6,v95701116,1.8,-36,NA,NA,NA,0
+2001-01,Canada,2016A000011124,Non-mortgage loans - financial flow,Dollars,81,millions,6,v95701117,1.9,2383,NA,NA,NA,0
+2001-01,Canada,2016A000011124,Mortgages - financial flow,Dollars,81,millions,6,v95701118,1.1,4564,NA,NA,NA,0
+2001-04,Canada,2016A000011124,Credit market debt to disposable income,Ratio,271,units,0,v1038036698,1.11,113.52,NA,NA,NA,2
+2001-04,Canada,2016A000011124,Consumer credit and mortgage liabilities to disposable income,Ratio,271,units,0,v1038036699,1.12,106.23,NA,NA,NA,2
+2001-04,Canada,2016A000011124,Credit market debt - national balance sheet,Dollars,81,millions,6,v1038036700,1.13,684289,NA,NA,NA,0
+2001-04,Canada,2016A000011124,Consumer credit - national balance sheet,Dollars,81,millions,6,v1038036701,1.14,208791,NA,NA,NA,0
+2001-04,Canada,2016A000011124,Non-mortgage loans - national balance sheet,Dollars,81,millions,6,v1038036702,1.15,43945,NA,NA,NA,0
+2001-04,Canada,2016A000011124,Mortgages - national balance sheet,Dollars,81,millions,6,v1038036703,1.16,431553,NA,NA,NA,0
+2001-04,Canada,2016A000011124,Credit market debt - financial flow,Dollars,81,millions,6,v95701115,1.7,9774,NA,NA,NA,0
+2001-04,Canada,2016A000011124,Consumer credit - financial flow,Dollars,81,millions,6,v95701116,1.8,4660,NA,NA,NA,0
+2001-04,Canada,2016A000011124,Non-mortgage loans - financial flow,Dollars,81,millions,6,v95701117,1.9,108,NA,NA,NA,0
+2001-04,Canada,2016A000011124,Mortgages - financial flow,Dollars,81,millions,6,v95701118,1.1,5006,NA,NA,NA,0
+2001-07,Canada,2016A000011124,Credit market debt to disposable income,Ratio,271,units,0,v1038036698,1.11,112.36,NA,NA,NA,2
+2001-07,Canada,2016A000011124,Consumer credit and mortgage liabilities to disposable income,Ratio,271,units,0,v1038036699,1.12,105.26,NA,NA,NA,2
+2001-07,Canada,2016A000011124,Credit market debt - national balance sheet,Dollars,81,millions,6,v1038036700,1.13,695480,NA,NA,NA,0
+2001-07,Canada,2016A000011124,Consumer credit - national balance sheet,Dollars,81,millions,6,v1038036701,1.14,213122,NA,NA,NA,0
+2001-07,Canada,2016A000011124,Non-mortgage loans - national balance sheet,Dollars,81,millions,6,v1038036702,1.15,43916,NA,NA,NA,0
+2001-07,Canada,2016A000011124,Mortgages - national balance sheet,Dollars,81,millions,6,v1038036703,1.16,438442,NA,NA,NA,0
+2001-07,Canada,2016A000011124,Credit market debt - financial flow,Dollars,81,millions,6,v95701115,1.7,11524,NA,NA,NA,0
+2001-07,Canada,2016A000011124,Consumer credit - financial flow,Dollars,81,millions,6,v95701116,1.8,4473,NA,NA,NA,0
+2001-07,Canada,2016A000011124,Non-mortgage loans - financial flow,Dollars,81,millions,6,v95701117,1.9,133,NA,NA,NA,0
+2001-07,Canada,2016A000011124,Mortgages - financial flow,Dollars,81,millions,6,v95701118,1.1,6918,NA,NA,NA,0
+2001-10,Canada,2016A000011124,Credit market debt to disposable income,Ratio,271,units,0,v1038036698,1.11,113.13,NA,NA,NA,2
+2001-10,Canada,2016A000011124,Consumer credit and mortgage liabilities to disposable income,Ratio,271,units,0,v1038036699,1.12,106.15,NA,NA,NA,2
+2001-10,Canada,2016A000011124,Credit market debt - national balance sheet,Dollars,81,millions,6,v1038036700,1.13,706808,NA,NA,NA,0
+2001-10,Canada,2016A000011124,Consumer credit - national balance sheet,Dollars,81,millions,6,v1038036701,1.14,217036,NA,NA,NA,0
+2001-10,Canada,2016A000011124,Non-mortgage loans - national balance sheet,Dollars,81,millions,6,v1038036702,1.15,43625,NA,NA,NA,0
+2001-10,Canada,2016A000011124,Mortgages - national balance sheet,Dollars,81,millions,6,v1038036703,1.16,446147,NA,NA,NA,0
+2001-10,Canada,2016A000011124,Credit market debt - financial flow,Dollars,81,millions,6,v95701115,1.7,11826,NA,NA,NA,0
+2001-10,Canada,2016A000011124,Consumer credit - financial flow,Dollars,81,millions,6,v95701116,1.8,4083,NA,NA,NA,0
+2001-10,Canada,2016A000011124,Non-mortgage loans - financial flow,Dollars,81,millions,6,v95701117,1.9,4,NA,NA,NA,0
+2001-10,Canada,2016A000011124,Mortgages - financial flow,Dollars,81,millions,6,v95701118,1.1,7739,NA,NA,NA,0
+2002-01,Canada,2016A000011124,Credit market debt to disposable income,Ratio,271,units,0,v1038036698,1.11,113.48,NA,NA,NA,2
+2002-01,Canada,2016A000011124,Consumer credit and mortgage liabilities to disposable income,Ratio,271,units,0,v1038036699,1.12,106.55,NA,NA,NA,2
+2002-01,Canada,2016A000011124,Credit market debt - national balance sheet,Dollars,81,millions,6,v1038036700,1.13,719912,NA,NA,NA,0
+2002-01,Canada,2016A000011124,Consumer credit - national balance sheet,Dollars,81,millions,6,v1038036701,1.14,221694,NA,NA,NA,0
+2002-01,Canada,2016A000011124,Non-mortgage loans - national balance sheet,Dollars,81,millions,6,v1038036702,1.15,43995,NA,NA,NA,0
+2002-01,Canada,2016A000011124,Mortgages - national balance sheet,Dollars,81,millions,6,v1038036703,1.16,454223,NA,NA,NA,0
+2002-01,Canada,2016A000011124,Credit market debt - financial flow,Dollars,81,millions,6,v95701115,1.7,13653,NA,NA,NA,0
+2002-01,Canada,2016A000011124,Consumer credit - financial flow,Dollars,81,millions,6,v95701116,1.8,4862,NA,NA,NA,0
+2002-01,Canada,2016A000011124,Non-mortgage loans - financial flow,Dollars,81,millions,6,v95701117,1.9,683,NA,NA,NA,0
+2002-01,Canada,2016A000011124,Mortgages - financial flow,Dollars,81,millions,6,v95701118,1.1,8108,NA,NA,NA,0
+2002-04,Canada,2016A000011124,Credit market debt to disposable income,Ratio,271,units,0,v1038036698,1.11,115.71,NA,NA,NA,2
+2002-04,Canada,2016A000011124,Consumer credit and mortgage liabilities to disposable income,Ratio,271,units,0,v1038036699,1.12,108.8,NA,NA,NA,2
+2002-04,Canada,2016A000011124,Credit market debt - national balance sheet,Dollars,81,millions,6,v1038036700,1.13,735933,NA,NA,NA,0
+2002-04,Canada,2016A000011124,Consumer credit - national balance sheet,Dollars,81,millions,6,v1038036701,1.14,226637,NA,NA,NA,0
+2002-04,Canada,2016A000011124,Non-mortgage loans - national balance sheet,Dollars,81,millions,6,v1038036702,1.15,43948,NA,NA,NA,0
+2002-04,Canada,2016A000011124,Mortgages - national balance sheet,Dollars,81,millions,6,v1038036703,1.16,465348,NA,NA,NA,0
+2002-04,Canada,2016A000011124,Credit market debt - financial flow,Dollars,81,millions,6,v95701115,1.7,16759,NA,NA,NA,0
+2002-04,Canada,2016A000011124,Consumer credit - financial flow,Dollars,81,millions,6,v95701116,1.8,5176,NA,NA,NA,0
+2002-04,Canada,2016A000011124,Non-mortgage loans - financial flow,Dollars,81,millions,6,v95701117,1.9,428,NA,NA,NA,0
+2002-04,Canada,2016A000011124,Mortgages - financial flow,Dollars,81,millions,6,v95701118,1.1,11155,NA,NA,NA,0
+2002-07,Canada,2016A000011124,Credit market debt to disposable income,Ratio,271,units,0,v1038036698,1.11,115.83,NA,NA,NA,2
+2002-07,Canada,2016A000011124,Consumer credit and mortgage liabilities to disposable income,Ratio,271,units,0,v1038036699,1.12,108.92,NA,NA,NA,2
+2002-07,Canada,2016A000011124,Credit market debt - national balance sheet,Dollars,81,millions,6,v1038036700,1.13,749601,NA,NA,NA,0
+2002-07,Canada,2016A000011124,Consumer credit - national balance sheet,Dollars,81,millions,6,v1038036701,1.14,232817,NA,NA,NA,0
+2002-07,Canada,2016A000011124,Non-mortgage loans - national balance sheet,Dollars,81,millions,6,v1038036702,1.15,44744,NA,NA,NA,0
+2002-07,Canada,2016A000011124,Mortgages - national balance sheet,Dollars,81,millions,6,v1038036703,1.16,472040,NA,NA,NA,0
+2002-07,Canada,2016A000011124,Credit market debt - financial flow,Dollars,81,millions,6,v95701115,1.7,14285,NA,NA,NA,0
+2002-07,Canada,2016A000011124,Consumer credit - financial flow,Dollars,81,millions,6,v95701116,1.8,6358,NA,NA,NA,0
+2002-07,Canada,2016A000011124,Non-mortgage loans - financial flow,Dollars,81,millions,6,v95701117,1.9,1206,NA,NA,NA,0
+2002-07,Canada,2016A000011124,Mortgages - financial flow,Dollars,81,millions,6,v95701118,1.1,6721,NA,NA,NA,0
+2002-10,Canada,2016A000011124,Credit market debt to disposable income,Ratio,271,units,0,v1038036698,1.11,116.96,NA,NA,NA,2
+2002-10,Canada,2016A000011124,Consumer credit and mortgage liabilities to disposable income,Ratio,271,units,0,v1038036699,1.12,110.08,NA,NA,NA,2
+2002-10,Canada,2016A000011124,Credit market debt - national balance sheet,Dollars,81,millions,6,v1038036700,1.13,763548,NA,NA,NA,0
+2002-10,Canada,2016A000011124,Consumer credit - national balance sheet,Dollars,81,millions,6,v1038036701,1.14,237861,NA,NA,NA,0
+2002-10,Canada,2016A000011124,Non-mortgage loans - national balance sheet,Dollars,81,millions,6,v1038036702,1.15,44954,NA,NA,NA,0
+2002-10,Canada,2016A000011124,Mortgages - national balance sheet,Dollars,81,millions,6,v1038036703,1.16,480733,NA,NA,NA,0
+2002-10,Canada,2016A000011124,Credit market debt - financial flow,Dollars,81,millions,6,v95701115,1.7,14684,NA,NA,NA,0
+2002-10,Canada,2016A000011124,Consumer credit - financial flow,Dollars,81,millions,6,v95701116,1.8,5258,NA,NA,NA,0
+2002-10,Canada,2016A000011124,Non-mortgage loans - financial flow,Dollars,81,millions,6,v95701117,1.9,704,NA,NA,NA,0
+2002-10,Canada,2016A000011124,Mortgages - financial flow,Dollars,81,millions,6,v95701118,1.1,8722,NA,NA,NA,0
+2003-01,Canada,2016A000011124,Credit market debt to disposable income,Ratio,271,units,0,v1038036698,1.11,116.91,NA,NA,NA,2
+2003-01,Canada,2016A000011124,Consumer credit and mortgage liabilities to disposable income,Ratio,271,units,0,v1038036699,1.12,110.25,NA,NA,NA,2
+2003-01,Canada,2016A000011124,Credit market debt - national balance sheet,Dollars,81,millions,6,v1038036700,1.13,775163,NA,NA,NA,0
+2003-01,Canada,2016A000011124,Consumer credit - national balance sheet,Dollars,81,millions,6,v1038036701,1.14,241532,NA,NA,NA,0
+2003-01,Canada,2016A000011124,Non-mortgage loans - national balance sheet,Dollars,81,millions,6,v1038036702,1.15,44166,NA,NA,NA,0
+2003-01,Canada,2016A000011124,Mortgages - national balance sheet,Dollars,81,millions,6,v1038036703,1.16,489465,NA,NA,NA,0
+2003-01,Canada,2016A000011124,Credit market debt - financial flow,Dollars,81,millions,6,v95701115,1.7,12108,NA,NA,NA,0
+2003-01,Canada,2016A000011124,Consumer credit - financial flow,Dollars,81,millions,6,v95701116,1.8,3921,NA,NA,NA,0
+2003-01,Canada,2016A000011124,Non-mortgage loans - financial flow,Dollars,81,millions,6,v95701117,1.9,-574,NA,NA,NA,0
+2003-01,Canada,2016A000011124,Mortgages - financial flow,Dollars,81,millions,6,v95701118,1.1,8761,NA,NA,NA,0
+2003-04,Canada,2016A000011124,Credit market debt to disposable income,Ratio,271,units,0,v1038036698,1.11,119.7,NA,NA,NA,2
+2003-04,Canada,2016A000011124,Consumer credit and mortgage liabilities to disposable income,Ratio,271,units,0,v1038036699,1.12,112.9,NA,NA,NA,2
+2003-04,Canada,2016A000011124,Credit market debt - national balance sheet,Dollars,81,millions,6,v1038036700,1.13,789210,NA,NA,NA,0
+2003-04,Canada,2016A000011124,Consumer credit - national balance sheet,Dollars,81,millions,6,v1038036701,1.14,249684,NA,NA,NA,0
+2003-04,Canada,2016A000011124,Non-mortgage loans - national balance sheet,Dollars,81,millions,6,v1038036702,1.15,44793,NA,NA,NA,0
+2003-04,Canada,2016A000011124,Mortgages - national balance sheet,Dollars,81,millions,6,v1038036703,1.16,494733,NA,NA,NA,0
+2003-04,Canada,2016A000011124,Credit market debt - financial flow,Dollars,81,millions,6,v95701115,1.7,14584,NA,NA,NA,0
+2003-04,Canada,2016A000011124,Consumer credit - financial flow,Dollars,81,millions,6,v95701116,1.8,8418,NA,NA,NA,0
+2003-04,Canada,2016A000011124,Non-mortgage loans - financial flow,Dollars,81,millions,6,v95701117,1.9,871,NA,NA,NA,0
+2003-04,Canada,2016A000011124,Mortgages - financial flow,Dollars,81,millions,6,v95701118,1.1,5295,NA,NA,NA,0
+2003-07,Canada,2016A000011124,Credit market debt to disposable income,Ratio,271,units,0,v1038036698,1.11,122.17,NA,NA,NA,2
+2003-07,Canada,2016A000011124,Consumer credit and mortgage liabilities to disposable income,Ratio,271,units,0,v1038036699,1.12,115.35,NA,NA,NA,2
+2003-07,Canada,2016A000011124,Credit market debt - national balance sheet,Dollars,81,millions,6,v1038036700,1.13,808142,NA,NA,NA,0
+2003-07,Canada,2016A000011124,Consumer credit - national balance sheet,Dollars,81,millions,6,v1038036701,1.14,255753,NA,NA,NA,0
+2003-07,Canada,2016A000011124,Non-mortgage loans - national balance sheet,Dollars,81,millions,6,v1038036702,1.15,45111,NA,NA,NA,0
+2003-07,Canada,2016A000011124,Mortgages - national balance sheet,Dollars,81,millions,6,v1038036703,1.16,507278,NA,NA,NA,0
+2003-07,Canada,2016A000011124,Credit market debt - financial flow,Dollars,81,millions,6,v95701115,1.7,19322,NA,NA,NA,0
+2003-07,Canada,2016A000011124,Consumer credit - financial flow,Dollars,81,millions,6,v95701116,1.8,6298,NA,NA,NA,0
+2003-07,Canada,2016A000011124,Non-mortgage loans - financial flow,Dollars,81,millions,6,v95701117,1.9,450,NA,NA,NA,0
+2003-07,Canada,2016A000011124,Mortgages - financial flow,Dollars,81,millions,6,v95701118,1.1,12574,NA,NA,NA,0
+2003-10,Canada,2016A000011124,Credit market debt to disposable income,Ratio,271,units,0,v1038036698,1.11,123.54,NA,NA,NA,2
+2003-10,Canada,2016A000011124,Consumer credit and mortgage liabilities to disposable income,Ratio,271,units,0,v1038036699,1.12,116.75,NA,NA,NA,2
+2003-10,Canada,2016A000011124,Credit market debt - national balance sheet,Dollars,81,millions,6,v1038036700,1.13,826606,NA,NA,NA,0
+2003-10,Canada,2016A000011124,Consumer credit - national balance sheet,Dollars,81,millions,6,v1038036701,1.14,263016,NA,NA,NA,0
+2003-10,Canada,2016A000011124,Non-mortgage loans - national balance sheet,Dollars,81,millions,6,v1038036702,1.15,45454,NA,NA,NA,0
+2003-10,Canada,2016A000011124,Mortgages - national balance sheet,Dollars,81,millions,6,v1038036703,1.16,518136,NA,NA,NA,0
+2003-10,Canada,2016A000011124,Credit market debt - financial flow,Dollars,81,millions,6,v95701115,1.7,19111,NA,NA,NA,0
+2003-10,Canada,2016A000011124,Consumer credit - financial flow,Dollars,81,millions,6,v95701116,1.8,7577,NA,NA,NA,0
+2003-10,Canada,2016A000011124,Non-mortgage loans - financial flow,Dollars,81,millions,6,v95701117,1.9,648,NA,NA,NA,0
+2003-10,Canada,2016A000011124,Mortgages - financial flow,Dollars,81,millions,6,v95701118,1.1,10886,NA,NA,NA,0
+2004-01,Canada,2016A000011124,Credit market debt to disposable income,Ratio,271,units,0,v1038036698,1.11,124.89,NA,NA,NA,2
+2004-01,Canada,2016A000011124,Consumer credit and mortgage liabilities to disposable income,Ratio,271,units,0,v1038036699,1.12,118.11,NA,NA,NA,2
+2004-01,Canada,2016A000011124,Credit market debt - national balance sheet,Dollars,81,millions,6,v1038036700,1.13,846826,NA,NA,NA,0
+2004-01,Canada,2016A000011124,Consumer credit - national balance sheet,Dollars,81,millions,6,v1038036701,1.14,270225,NA,NA,NA,0
+2004-01,Canada,2016A000011124,Non-mortgage loans - national balance sheet,Dollars,81,millions,6,v1038036702,1.15,45998,NA,NA,NA,0
+2004-01,Canada,2016A000011124,Mortgages - national balance sheet,Dollars,81,millions,6,v1038036703,1.16,530603,NA,NA,NA,0
+2004-01,Canada,2016A000011124,Credit market debt - financial flow,Dollars,81,millions,6,v95701115,1.7,20669,NA,NA,NA,0
+2004-01,Canada,2016A000011124,Consumer credit - financial flow,Dollars,81,millions,6,v95701116,1.8,7459,NA,NA,NA,0
+2004-01,Canada,2016A000011124,Non-mortgage loans - financial flow,Dollars,81,millions,6,v95701117,1.9,716,NA,NA,NA,0
+2004-01,Canada,2016A000011124,Mortgages - financial flow,Dollars,81,millions,6,v95701118,1.1,12494,NA,NA,NA,0
+2004-04,Canada,2016A000011124,Credit market debt to disposable income,Ratio,271,units,0,v1038036698,1.11,125.7,NA,NA,NA,2
+2004-04,Canada,2016A000011124,Consumer credit and mortgage liabilities to disposable income,Ratio,271,units,0,v1038036699,1.12,119,NA,NA,NA,2
+2004-04,Canada,2016A000011124,Credit market debt - national balance sheet,Dollars,81,millions,6,v1038036700,1.13,872784,NA,NA,NA,0
+2004-04,Canada,2016A000011124,Consumer credit - national balance sheet,Dollars,81,millions,6,v1038036701,1.14,280369,NA,NA,NA,0
+2004-04,Canada,2016A000011124,Non-mortgage loans - national balance sheet,Dollars,81,millions,6,v1038036702,1.15,46491,NA,NA,NA,0
+2004-04,Canada,2016A000011124,Mortgages - national balance sheet,Dollars,81,millions,6,v1038036703,1.16,545924,NA,NA,NA,0
+2004-04,Canada,2016A000011124,Credit market debt - financial flow,Dollars,81,millions,6,v95701115,1.7,26433,NA,NA,NA,0
+2004-04,Canada,2016A000011124,Consumer credit - financial flow,Dollars,81,millions,6,v95701116,1.8,10397,NA,NA,NA,0
+2004-04,Canada,2016A000011124,Non-mortgage loans - financial flow,Dollars,81,millions,6,v95701117,1.9,689,NA,NA,NA,0
+2004-04,Canada,2016A000011124,Mortgages - financial flow,Dollars,81,millions,6,v95701118,1.1,15347,NA,NA,NA,0
+2004-07,Canada,2016A000011124,Credit market debt to disposable income,Ratio,271,units,0,v1038036698,1.11,127.15,NA,NA,NA,2
+2004-07,Canada,2016A000011124,Consumer credit and mortgage liabilities to disposable income,Ratio,271,units,0,v1038036699,1.12,120.46,NA,NA,NA,2
+2004-07,Canada,2016A000011124,Credit market debt - national balance sheet,Dollars,81,millions,6,v1038036700,1.13,893176,NA,NA,NA,0
+2004-07,Canada,2016A000011124,Consumer credit - national balance sheet,Dollars,81,millions,6,v1038036701,1.14,286816,NA,NA,NA,0
+2004-07,Canada,2016A000011124,Non-mortgage loans - national balance sheet,Dollars,81,millions,6,v1038036702,1.15,47008,NA,NA,NA,0
+2004-07,Canada,2016A000011124,Mortgages - national balance sheet,Dollars,81,millions,6,v1038036703,1.16,559352,NA,NA,NA,0
+2004-07,Canada,2016A000011124,Credit market debt - financial flow,Dollars,81,millions,6,v95701115,1.7,20890,NA,NA,NA,0
+2004-07,Canada,2016A000011124,Consumer credit - financial flow,Dollars,81,millions,6,v95701116,1.8,6729,NA,NA,NA,0
+2004-07,Canada,2016A000011124,Non-mortgage loans - financial flow,Dollars,81,millions,6,v95701117,1.9,709,NA,NA,NA,0
+2004-07,Canada,2016A000011124,Mortgages - financial flow,Dollars,81,millions,6,v95701118,1.1,13452,NA,NA,NA,0
+2004-10,Canada,2016A000011124,Credit market debt to disposable income,Ratio,271,units,0,v1038036698,1.11,129.94,NA,NA,NA,2
+2004-10,Canada,2016A000011124,Consumer credit and mortgage liabilities to disposable income,Ratio,271,units,0,v1038036699,1.12,123.21,NA,NA,NA,2
+2004-10,Canada,2016A000011124,Credit market debt - national balance sheet,Dollars,81,millions,6,v1038036700,1.13,917523,NA,NA,NA,0
+2004-10,Canada,2016A000011124,Consumer credit - national balance sheet,Dollars,81,millions,6,v1038036701,1.14,297396,NA,NA,NA,0
+2004-10,Canada,2016A000011124,Non-mortgage loans - national balance sheet,Dollars,81,millions,6,v1038036702,1.15,47513,NA,NA,NA,0
+2004-10,Canada,2016A000011124,Mortgages - national balance sheet,Dollars,81,millions,6,v1038036703,1.16,572614,NA,NA,NA,0
+2004-10,Canada,2016A000011124,Credit market debt - financial flow,Dollars,81,millions,6,v95701115,1.7,24949,NA,NA,NA,0
+2004-10,Canada,2016A000011124,Consumer credit - financial flow,Dollars,81,millions,6,v95701116,1.8,10868,NA,NA,NA,0
+2004-10,Canada,2016A000011124,Non-mortgage loans - financial flow,Dollars,81,millions,6,v95701117,1.9,797,NA,NA,NA,0
+2004-10,Canada,2016A000011124,Mortgages - financial flow,Dollars,81,millions,6,v95701118,1.1,13284,NA,NA,NA,0
+2005-01,Canada,2016A000011124,Credit market debt to disposable income,Ratio,271,units,0,v1038036698,1.11,134.26,NA,NA,NA,2
+2005-01,Canada,2016A000011124,Consumer credit and mortgage liabilities to disposable income,Ratio,271,units,0,v1038036699,1.12,127.05,NA,NA,NA,2
+2005-01,Canada,2016A000011124,Credit market debt - national balance sheet,Dollars,81,millions,6,v1038036700,1.13,945012,NA,NA,NA,0
+2005-01,Canada,2016A000011124,Consumer credit - national balance sheet,Dollars,81,millions,6,v1038036701,1.14,310396,NA,NA,NA,0
+2005-01,Canada,2016A000011124,Non-mortgage loans - national balance sheet,Dollars,81,millions,6,v1038036702,1.15,50755,NA,NA,NA,0
+2005-01,Canada,2016A000011124,Mortgages - national balance sheet,Dollars,81,millions,6,v1038036703,1.16,583861,NA,NA,NA,0
+2005-01,Canada,2016A000011124,Credit market debt - financial flow,Dollars,81,millions,6,v95701115,1.7,23078,NA,NA,NA,0
+2005-01,Canada,2016A000011124,Consumer credit - financial flow,Dollars,81,millions,6,v95701116,1.8,8462,NA,NA,NA,0
+2005-01,Canada,2016A000011124,Non-mortgage loans - financial flow,Dollars,81,millions,6,v95701117,1.9,3344,NA,NA,NA,0
+2005-01,Canada,2016A000011124,Mortgages - financial flow,Dollars,81,millions,6,v95701118,1.1,11272,NA,NA,NA,0
+2005-04,Canada,2016A000011124,Credit market debt to disposable income,Ratio,271,units,0,v1038036698,1.11,134.44,NA,NA,NA,2
+2005-04,Canada,2016A000011124,Consumer credit and mortgage liabilities to disposable income,Ratio,271,units,0,v1038036699,1.12,127.35,NA,NA,NA,2
+2005-04,Canada,2016A000011124,Credit market debt - national balance sheet,Dollars,81,millions,6,v1038036700,1.13,967587,NA,NA,NA,0
+2005-04,Canada,2016A000011124,Consumer credit - national balance sheet,Dollars,81,millions,6,v1038036701,1.14,318247,NA,NA,NA,0
+2005-04,Canada,2016A000011124,Non-mortgage loans - national balance sheet,Dollars,81,millions,6,v1038036702,1.15,51095,NA,NA,NA,0
+2005-04,Canada,2016A000011124,Mortgages - national balance sheet,Dollars,81,millions,6,v1038036703,1.16,598245,NA,NA,NA,0
+2005-04,Canada,2016A000011124,Credit market debt - financial flow,Dollars,81,millions,6,v95701115,1.7,22960,NA,NA,NA,0
+2005-04,Canada,2016A000011124,Consumer credit - financial flow,Dollars,81,millions,6,v95701116,1.8,8141,NA,NA,NA,0
+2005-04,Canada,2016A000011124,Non-mortgage loans - financial flow,Dollars,81,millions,6,v95701117,1.9,412,NA,NA,NA,0
+2005-04,Canada,2016A000011124,Mortgages - financial flow,Dollars,81,millions,6,v95701118,1.1,14407,NA,NA,NA,0
+2005-07,Canada,2016A000011124,Credit market debt to disposable income,Ratio,271,units,0,v1038036698,1.11,136.79,NA,NA,NA,2
+2005-07,Canada,2016A000011124,Consumer credit and mortgage liabilities to disposable income,Ratio,271,units,0,v1038036699,1.12,129.61,NA,NA,NA,2
+2005-07,Canada,2016A000011124,Credit market debt - national balance sheet,Dollars,81,millions,6,v1038036700,1.13,991550,NA,NA,NA,0
+2005-07,Canada,2016A000011124,Consumer credit - national balance sheet,Dollars,81,millions,6,v1038036701,1.14,325090,NA,NA,NA,0
+2005-07,Canada,2016A000011124,Non-mortgage loans - national balance sheet,Dollars,81,millions,6,v1038036702,1.15,52011,NA,NA,NA,0
+2005-07,Canada,2016A000011124,Mortgages - national balance sheet,Dollars,81,millions,6,v1038036703,1.16,614449,NA,NA,NA,0
+2005-07,Canada,2016A000011124,Credit market debt - financial flow,Dollars,81,millions,6,v95701115,1.7,24478,NA,NA,NA,0
+2005-07,Canada,2016A000011124,Consumer credit - financial flow,Dollars,81,millions,6,v95701116,1.8,7138,NA,NA,NA,0
+2005-07,Canada,2016A000011124,Non-mortgage loans - financial flow,Dollars,81,millions,6,v95701117,1.9,1110,NA,NA,NA,0
+2005-07,Canada,2016A000011124,Mortgages - financial flow,Dollars,81,millions,6,v95701118,1.1,16230,NA,NA,NA,0
+2005-10,Canada,2016A000011124,Credit market debt to disposable income,Ratio,271,units,0,v1038036698,1.11,137.53,NA,NA,NA,2
+2005-10,Canada,2016A000011124,Consumer credit and mortgage liabilities to disposable income,Ratio,271,units,0,v1038036699,1.12,130.35,NA,NA,NA,2
+2005-10,Canada,2016A000011124,Credit market debt - national balance sheet,Dollars,81,millions,6,v1038036700,1.13,1014462,NA,NA,NA,0
+2005-10,Canada,2016A000011124,Consumer credit - national balance sheet,Dollars,81,millions,6,v1038036701,1.14,332511,NA,NA,NA,0
+2005-10,Canada,2016A000011124,Non-mortgage loans - national balance sheet,Dollars,81,millions,6,v1038036702,1.15,52980,NA,NA,NA,0
+2005-10,Canada,2016A000011124,Mortgages - national balance sheet,Dollars,81,millions,6,v1038036703,1.16,628971,NA,NA,NA,0
+2005-10,Canada,2016A000011124,Credit market debt - financial flow,Dollars,81,millions,6,v95701115,1.7,23342,NA,NA,NA,0
+2005-10,Canada,2016A000011124,Consumer credit - financial flow,Dollars,81,millions,6,v95701116,1.8,7722,NA,NA,NA,0
+2005-10,Canada,2016A000011124,Non-mortgage loans - financial flow,Dollars,81,millions,6,v95701117,1.9,1072,NA,NA,NA,0
+2005-10,Canada,2016A000011124,Mortgages - financial flow,Dollars,81,millions,6,v95701118,1.1,14548,NA,NA,NA,0
+2006-01,Canada,2016A000011124,Credit market debt to disposable income,Ratio,271,units,0,v1038036698,1.11,136.94,NA,NA,NA,2
+2006-01,Canada,2016A000011124,Consumer credit and mortgage liabilities to disposable income,Ratio,271,units,0,v1038036699,1.12,129.76,NA,NA,NA,2
+2006-01,Canada,2016A000011124,Credit market debt - national balance sheet,Dollars,81,millions,6,v1038036700,1.13,1040533,NA,NA,NA,0
+2006-01,Canada,2016A000011124,Consumer credit - national balance sheet,Dollars,81,millions,6,v1038036701,1.14,340059,NA,NA,NA,0
+2006-01,Canada,2016A000011124,Non-mortgage loans - national balance sheet,Dollars,81,millions,6,v1038036702,1.15,54558,NA,NA,NA,0
+2006-01,Canada,2016A000011124,Mortgages - national balance sheet,Dollars,81,millions,6,v1038036703,1.16,645916,NA,NA,NA,0
+2006-01,Canada,2016A000011124,Credit market debt - financial flow,Dollars,81,millions,6,v95701115,1.7,26466,NA,NA,NA,0
+2006-01,Canada,2016A000011124,Consumer credit - financial flow,Dollars,81,millions,6,v95701116,1.8,7827,NA,NA,NA,0
+2006-01,Canada,2016A000011124,Non-mortgage loans - financial flow,Dollars,81,millions,6,v95701117,1.9,1668,NA,NA,NA,0
+2006-01,Canada,2016A000011124,Mortgages - financial flow,Dollars,81,millions,6,v95701118,1.1,16971,NA,NA,NA,0
+2006-04,Canada,2016A000011124,Credit market debt to disposable income,Ratio,271,units,0,v1038036698,1.11,139.67,NA,NA,NA,2
+2006-04,Canada,2016A000011124,Consumer credit and mortgage liabilities to disposable income,Ratio,271,units,0,v1038036699,1.12,132.22,NA,NA,NA,2
+2006-04,Canada,2016A000011124,Credit market debt - national balance sheet,Dollars,81,millions,6,v1038036700,1.13,1062332,NA,NA,NA,0
+2006-04,Canada,2016A000011124,Consumer credit - national balance sheet,Dollars,81,millions,6,v1038036701,1.14,347071,NA,NA,NA,0
+2006-04,Canada,2016A000011124,Non-mortgage loans - national balance sheet,Dollars,81,millions,6,v1038036702,1.15,56678,NA,NA,NA,0
+2006-04,Canada,2016A000011124,Mortgages - national balance sheet,Dollars,81,millions,6,v1038036703,1.16,658583,NA,NA,NA,0
+2006-04,Canada,2016A000011124,Credit market debt - financial flow,Dollars,81,millions,6,v95701115,1.7,22242,NA,NA,NA,0
+2006-04,Canada,2016A000011124,Consumer credit - financial flow,Dollars,81,millions,6,v95701116,1.8,7302,NA,NA,NA,0
+2006-04,Canada,2016A000011124,Non-mortgage loans - financial flow,Dollars,81,millions,6,v95701117,1.9,2248,NA,NA,NA,0
+2006-04,Canada,2016A000011124,Mortgages - financial flow,Dollars,81,millions,6,v95701118,1.1,12692,NA,NA,NA,0
+2006-07,Canada,2016A000011124,Credit market debt to disposable income,Ratio,271,units,0,v1038036698,1.11,139.37,NA,NA,NA,2
+2006-07,Canada,2016A000011124,Consumer credit and mortgage liabilities to disposable income,Ratio,271,units,0,v1038036699,1.12,131.78,NA,NA,NA,2
+2006-07,Canada,2016A000011124,Credit market debt - national balance sheet,Dollars,81,millions,6,v1038036700,1.13,1088824,NA,NA,NA,0
+2006-07,Canada,2016A000011124,Consumer credit - national balance sheet,Dollars,81,millions,6,v1038036701,1.14,356317,NA,NA,NA,0
+2006-07,Canada,2016A000011124,Non-mortgage loans - national balance sheet,Dollars,81,millions,6,v1038036702,1.15,59296,NA,NA,NA,0
+2006-07,Canada,2016A000011124,Mortgages - national balance sheet,Dollars,81,millions,6,v1038036703,1.16,673211,NA,NA,NA,0
+2006-07,Canada,2016A000011124,Credit market debt - financial flow,Dollars,81,millions,6,v95701115,1.7,26892,NA,NA,NA,0
+2006-07,Canada,2016A000011124,Consumer credit - financial flow,Dollars,81,millions,6,v95701116,1.8,9518,NA,NA,NA,0
+2006-07,Canada,2016A000011124,Non-mortgage loans - financial flow,Dollars,81,millions,6,v95701117,1.9,2719,NA,NA,NA,0
+2006-07,Canada,2016A000011124,Mortgages - financial flow,Dollars,81,millions,6,v95701118,1.1,14655,NA,NA,NA,0
+2006-10,Canada,2016A000011124,Credit market debt to disposable income,Ratio,271,units,0,v1038036698,1.11,140.82,NA,NA,NA,2
+2006-10,Canada,2016A000011124,Consumer credit and mortgage liabilities to disposable income,Ratio,271,units,0,v1038036699,1.12,133.02,NA,NA,NA,2
+2006-10,Canada,2016A000011124,Credit market debt - national balance sheet,Dollars,81,millions,6,v1038036700,1.13,1120711,NA,NA,NA,0
+2006-10,Canada,2016A000011124,Consumer credit - national balance sheet,Dollars,81,millions,6,v1038036701,1.14,364368,NA,NA,NA,0
+2006-10,Canada,2016A000011124,Non-mortgage loans - national balance sheet,Dollars,81,millions,6,v1038036702,1.15,62143,NA,NA,NA,0
+2006-10,Canada,2016A000011124,Mortgages - national balance sheet,Dollars,81,millions,6,v1038036703,1.16,694200,NA,NA,NA,0
+2006-10,Canada,2016A000011124,Credit market debt - financial flow,Dollars,81,millions,6,v95701115,1.7,32261,NA,NA,NA,0
+2006-10,Canada,2016A000011124,Consumer credit - financial flow,Dollars,81,millions,6,v95701116,1.8,8335,NA,NA,NA,0
+2006-10,Canada,2016A000011124,Non-mortgage loans - financial flow,Dollars,81,millions,6,v95701117,1.9,2911,NA,NA,NA,0
+2006-10,Canada,2016A000011124,Mortgages - financial flow,Dollars,81,millions,6,v95701118,1.1,21015,NA,NA,NA,0
+2007-01,Canada,2016A000011124,Credit market debt to disposable income,Ratio,271,units,0,v1038036698,1.11,142.24,NA,NA,NA,2
+2007-01,Canada,2016A000011124,Consumer credit and mortgage liabilities to disposable income,Ratio,271,units,0,v1038036699,1.12,134.36,NA,NA,NA,2
+2007-01,Canada,2016A000011124,Credit market debt - national balance sheet,Dollars,81,millions,6,v1038036700,1.13,1155362,NA,NA,NA,0
+2007-01,Canada,2016A000011124,Consumer credit - national balance sheet,Dollars,81,millions,6,v1038036701,1.14,373392,NA,NA,NA,0
+2007-01,Canada,2016A000011124,Non-mortgage loans - national balance sheet,Dollars,81,millions,6,v1038036702,1.15,63999,NA,NA,NA,0
+2007-01,Canada,2016A000011124,Mortgages - national balance sheet,Dollars,81,millions,6,v1038036703,1.16,717971,NA,NA,NA,0
+2007-01,Canada,2016A000011124,Credit market debt - financial flow,Dollars,81,millions,6,v95701115,1.7,35102,NA,NA,NA,0
+2007-01,Canada,2016A000011124,Consumer credit - financial flow,Dollars,81,millions,6,v95701116,1.8,9326,NA,NA,NA,0
+2007-01,Canada,2016A000011124,Non-mortgage loans - financial flow,Dollars,81,millions,6,v95701117,1.9,1976,NA,NA,NA,0
+2007-01,Canada,2016A000011124,Mortgages - financial flow,Dollars,81,millions,6,v95701118,1.1,23800,NA,NA,NA,0
+2007-04,Canada,2016A000011124,Credit market debt to disposable income,Ratio,271,units,0,v1038036698,1.11,147.12,NA,NA,NA,2
+2007-04,Canada,2016A000011124,Consumer credit and mortgage liabilities to disposable income,Ratio,271,units,0,v1038036699,1.12,138.96,NA,NA,NA,2
+2007-04,Canada,2016A000011124,Credit market debt - national balance sheet,Dollars,81,millions,6,v1038036700,1.13,1192220,NA,NA,NA,0
+2007-04,Canada,2016A000011124,Consumer credit - national balance sheet,Dollars,81,millions,6,v1038036701,1.14,384005,NA,NA,NA,0
+2007-04,Canada,2016A000011124,Non-mortgage loans - national balance sheet,Dollars,81,millions,6,v1038036702,1.15,66100,NA,NA,NA,0
+2007-04,Canada,2016A000011124,Mortgages - national balance sheet,Dollars,81,millions,6,v1038036703,1.16,742115,NA,NA,NA,0
+2007-04,Canada,2016A000011124,Credit market debt - financial flow,Dollars,81,millions,6,v95701115,1.7,36835,NA,NA,NA,0
+2007-04,Canada,2016A000011124,Consumer credit - financial flow,Dollars,81,millions,6,v95701116,1.8,10370,NA,NA,NA,0
+2007-04,Canada,2016A000011124,Non-mortgage loans - financial flow,Dollars,81,millions,6,v95701117,1.9,2292,NA,NA,NA,0
+2007-04,Canada,2016A000011124,Mortgages - financial flow,Dollars,81,millions,6,v95701118,1.1,24173,NA,NA,NA,0
+2007-07,Canada,2016A000011124,Credit market debt to disposable income,Ratio,271,units,0,v1038036698,1.11,150.5,NA,NA,NA,2
+2007-07,Canada,2016A000011124,Consumer credit and mortgage liabilities to disposable income,Ratio,271,units,0,v1038036699,1.12,142.27,NA,NA,NA,2
+2007-07,Canada,2016A000011124,Credit market debt - national balance sheet,Dollars,81,millions,6,v1038036700,1.13,1225837,NA,NA,NA,0
+2007-07,Canada,2016A000011124,Consumer credit - national balance sheet,Dollars,81,millions,6,v1038036701,1.14,392516,NA,NA,NA,0
+2007-07,Canada,2016A000011124,Non-mortgage loans - national balance sheet,Dollars,81,millions,6,v1038036702,1.15,67034,NA,NA,NA,0
+2007-07,Canada,2016A000011124,Mortgages - national balance sheet,Dollars,81,millions,6,v1038036703,1.16,766287,NA,NA,NA,0
+2007-07,Canada,2016A000011124,Credit market debt - financial flow,Dollars,81,millions,6,v95701115,1.7,34181,NA,NA,NA,0
+2007-07,Canada,2016A000011124,Consumer credit - financial flow,Dollars,81,millions,6,v95701116,1.8,8853,NA,NA,NA,0
+2007-07,Canada,2016A000011124,Non-mortgage loans - financial flow,Dollars,81,millions,6,v95701117,1.9,1125,NA,NA,NA,0
+2007-07,Canada,2016A000011124,Mortgages - financial flow,Dollars,81,millions,6,v95701118,1.1,24203,NA,NA,NA,0
+2007-10,Canada,2016A000011124,Credit market debt to disposable income,Ratio,271,units,0,v1038036698,1.11,151.96,NA,NA,NA,2
+2007-10,Canada,2016A000011124,Consumer credit and mortgage liabilities to disposable income,Ratio,271,units,0,v1038036699,1.12,143.65,NA,NA,NA,2
+2007-10,Canada,2016A000011124,Credit market debt - national balance sheet,Dollars,81,millions,6,v1038036700,1.13,1258433,NA,NA,NA,0
+2007-10,Canada,2016A000011124,Consumer credit - national balance sheet,Dollars,81,millions,6,v1038036701,1.14,399279,NA,NA,NA,0
+2007-10,Canada,2016A000011124,Non-mortgage loans - national balance sheet,Dollars,81,millions,6,v1038036702,1.15,68876,NA,NA,NA,0
+2007-10,Canada,2016A000011124,Mortgages - national balance sheet,Dollars,81,millions,6,v1038036703,1.16,790278,NA,NA,NA,0
+2007-10,Canada,2016A000011124,Credit market debt - financial flow,Dollars,81,millions,6,v95701115,1.7,33020,NA,NA,NA,0
+2007-10,Canada,2016A000011124,Consumer credit - financial flow,Dollars,81,millions,6,v95701116,1.8,7082,NA,NA,NA,0
+2007-10,Canada,2016A000011124,Non-mortgage loans - financial flow,Dollars,81,millions,6,v95701117,1.9,1915,NA,NA,NA,0
+2007-10,Canada,2016A000011124,Mortgages - financial flow,Dollars,81,millions,6,v95701118,1.1,24023,NA,NA,NA,0
+2008-01,Canada,2016A000011124,Credit market debt to disposable income,Ratio,271,units,0,v1038036698,1.11,152.68,NA,NA,NA,2
+2008-01,Canada,2016A000011124,Consumer credit and mortgage liabilities to disposable income,Ratio,271,units,0,v1038036699,1.12,144.33,NA,NA,NA,2
+2008-01,Canada,2016A000011124,Credit market debt - national balance sheet,Dollars,81,millions,6,v1038036700,1.13,1288020,NA,NA,NA,0
+2008-01,Canada,2016A000011124,Consumer credit - national balance sheet,Dollars,81,millions,6,v1038036701,1.14,410832,NA,NA,NA,0
+2008-01,Canada,2016A000011124,Non-mortgage loans - national balance sheet,Dollars,81,millions,6,v1038036702,1.15,70428,NA,NA,NA,0
+2008-01,Canada,2016A000011124,Mortgages - national balance sheet,Dollars,81,millions,6,v1038036703,1.16,806760,NA,NA,NA,0
+2008-01,Canada,2016A000011124,Credit market debt - financial flow,Dollars,81,millions,6,v95701115,1.7,30006,NA,NA,NA,0
+2008-01,Canada,2016A000011124,Consumer credit - financial flow,Dollars,81,millions,6,v95701116,1.8,11866,NA,NA,NA,0
+2008-01,Canada,2016A000011124,Non-mortgage loans - financial flow,Dollars,81,millions,6,v95701117,1.9,1623,NA,NA,NA,0
+2008-01,Canada,2016A000011124,Mortgages - financial flow,Dollars,81,millions,6,v95701118,1.1,16517,NA,NA,NA,0
+2008-04,Canada,2016A000011124,Credit market debt to disposable income,Ratio,271,units,0,v1038036698,1.11,153.68,NA,NA,NA,2
+2008-04,Canada,2016A000011124,Consumer credit and mortgage liabilities to disposable income,Ratio,271,units,0,v1038036699,1.12,145.31,NA,NA,NA,2
+2008-04,Canada,2016A000011124,Credit market debt - national balance sheet,Dollars,81,millions,6,v1038036700,1.13,1318569,NA,NA,NA,0
+2008-04,Canada,2016A000011124,Consumer credit - national balance sheet,Dollars,81,millions,6,v1038036701,1.14,419689,NA,NA,NA,0
+2008-04,Canada,2016A000011124,Non-mortgage loans - national balance sheet,Dollars,81,millions,6,v1038036702,1.15,71741,NA,NA,NA,0
+2008-04,Canada,2016A000011124,Mortgages - national balance sheet,Dollars,81,millions,6,v1038036703,1.16,827139,NA,NA,NA,0
+2008-04,Canada,2016A000011124,Credit market debt - financial flow,Dollars,81,millions,6,v95701115,1.7,31078,NA,NA,NA,0
+2008-04,Canada,2016A000011124,Consumer credit - financial flow,Dollars,81,millions,6,v95701116,1.8,9211,NA,NA,NA,0
+2008-04,Canada,2016A000011124,Non-mortgage loans - financial flow,Dollars,81,millions,6,v95701117,1.9,1452,NA,NA,NA,0
+2008-04,Canada,2016A000011124,Mortgages - financial flow,Dollars,81,millions,6,v95701118,1.1,20415,NA,NA,NA,0
+2008-07,Canada,2016A000011124,Credit market debt to disposable income,Ratio,271,units,0,v1038036698,1.11,153.95,NA,NA,NA,2
+2008-07,Canada,2016A000011124,Consumer credit and mortgage liabilities to disposable income,Ratio,271,units,0,v1038036699,1.12,145.62,NA,NA,NA,2
+2008-07,Canada,2016A000011124,Credit market debt - national balance sheet,Dollars,81,millions,6,v1038036700,1.13,1346612,NA,NA,NA,0
+2008-07,Canada,2016A000011124,Consumer credit - national balance sheet,Dollars,81,millions,6,v1038036701,1.14,427091,NA,NA,NA,0
+2008-07,Canada,2016A000011124,Non-mortgage loans - national balance sheet,Dollars,81,millions,6,v1038036702,1.15,72850,NA,NA,NA,0
+2008-07,Canada,2016A000011124,Mortgages - national balance sheet,Dollars,81,millions,6,v1038036703,1.16,846671,NA,NA,NA,0
+2008-07,Canada,2016A000011124,Credit market debt - financial flow,Dollars,81,millions,6,v95701115,1.7,28471,NA,NA,NA,0
+2008-07,Canada,2016A000011124,Consumer credit - financial flow,Dollars,81,millions,6,v95701116,1.8,7749,NA,NA,NA,0
+2008-07,Canada,2016A000011124,Non-mortgage loans - financial flow,Dollars,81,millions,6,v95701117,1.9,1152,NA,NA,NA,0
+2008-07,Canada,2016A000011124,Mortgages - financial flow,Dollars,81,millions,6,v95701118,1.1,19570,NA,NA,NA,0
+2008-10,Canada,2016A000011124,Credit market debt to disposable income,Ratio,271,units,0,v1038036698,1.11,156.82,NA,NA,NA,2
+2008-10,Canada,2016A000011124,Consumer credit and mortgage liabilities to disposable income,Ratio,271,units,0,v1038036699,1.12,148.33,NA,NA,NA,2
+2008-10,Canada,2016A000011124,Credit market debt - national balance sheet,Dollars,81,millions,6,v1038036700,1.13,1369429,NA,NA,NA,0
+2008-10,Canada,2016A000011124,Consumer credit - national balance sheet,Dollars,81,millions,6,v1038036701,1.14,431766,NA,NA,NA,0
+2008-10,Canada,2016A000011124,Non-mortgage loans - national balance sheet,Dollars,81,millions,6,v1038036702,1.15,74127,NA,NA,NA,0
+2008-10,Canada,2016A000011124,Mortgages - national balance sheet,Dollars,81,millions,6,v1038036703,1.16,863536,NA,NA,NA,0
+2008-10,Canada,2016A000011124,Credit market debt - financial flow,Dollars,81,millions,6,v95701115,1.7,23181,NA,NA,NA,0
+2008-10,Canada,2016A000011124,Consumer credit - financial flow,Dollars,81,millions,6,v95701116,1.8,5024,NA,NA,NA,0
+2008-10,Canada,2016A000011124,Non-mortgage loans - financial flow,Dollars,81,millions,6,v95701117,1.9,1245,NA,NA,NA,0
+2008-10,Canada,2016A000011124,Mortgages - financial flow,Dollars,81,millions,6,v95701118,1.1,16912,NA,NA,NA,0
+2009-01,Canada,2016A000011124,Credit market debt to disposable income,Ratio,271,units,0,v1038036698,1.11,160.2,NA,NA,NA,2
+2009-01,Canada,2016A000011124,Consumer credit and mortgage liabilities to disposable income,Ratio,271,units,0,v1038036699,1.12,151.86,NA,NA,NA,2
+2009-01,Canada,2016A000011124,Credit market debt - national balance sheet,Dollars,81,millions,6,v1038036700,1.13,1393610,NA,NA,NA,0
+2009-01,Canada,2016A000011124,Consumer credit - national balance sheet,Dollars,81,millions,6,v1038036701,1.14,441141,NA,NA,NA,0
+2009-01,Canada,2016A000011124,Non-mortgage loans - national balance sheet,Dollars,81,millions,6,v1038036702,1.15,72546,NA,NA,NA,0
+2009-01,Canada,2016A000011124,Mortgages - national balance sheet,Dollars,81,millions,6,v1038036703,1.16,879923,NA,NA,NA,0
+2009-01,Canada,2016A000011124,Credit market debt - financial flow,Dollars,81,millions,6,v95701115,1.7,24765,NA,NA,NA,0
+2009-01,Canada,2016A000011124,Consumer credit - financial flow,Dollars,81,millions,6,v95701116,1.8,9830,NA,NA,NA,0
+2009-01,Canada,2016A000011124,Non-mortgage loans - financial flow,Dollars,81,millions,6,v95701117,1.9,-1506,NA,NA,NA,0
+2009-01,Canada,2016A000011124,Mortgages - financial flow,Dollars,81,millions,6,v95701118,1.1,16441,NA,NA,NA,0
+2009-04,Canada,2016A000011124,Credit market debt to disposable income,Ratio,271,units,0,v1038036698,1.11,162.41,NA,NA,NA,2
+2009-04,Canada,2016A000011124,Consumer credit and mortgage liabilities to disposable income,Ratio,271,units,0,v1038036699,1.12,154.05,NA,NA,NA,2
+2009-04,Canada,2016A000011124,Credit market debt - national balance sheet,Dollars,81,millions,6,v1038036700,1.13,1419826,NA,NA,NA,0
+2009-04,Canada,2016A000011124,Consumer credit - national balance sheet,Dollars,81,millions,6,v1038036701,1.14,451870,NA,NA,NA,0
+2009-04,Canada,2016A000011124,Non-mortgage loans - national balance sheet,Dollars,81,millions,6,v1038036702,1.15,73117,NA,NA,NA,0
+2009-04,Canada,2016A000011124,Mortgages - national balance sheet,Dollars,81,millions,6,v1038036703,1.16,894839,NA,NA,NA,0
+2009-04,Canada,2016A000011124,Credit market debt - financial flow,Dollars,81,millions,6,v95701115,1.7,27233,NA,NA,NA,0
+2009-04,Canada,2016A000011124,Consumer credit - financial flow,Dollars,81,millions,6,v95701116,1.8,11346,NA,NA,NA,0
+2009-04,Canada,2016A000011124,Non-mortgage loans - financial flow,Dollars,81,millions,6,v95701117,1.9,923,NA,NA,NA,0
+2009-04,Canada,2016A000011124,Mortgages - financial flow,Dollars,81,millions,6,v95701118,1.1,14964,NA,NA,NA,0
+2009-07,Canada,2016A000011124,Credit market debt to disposable income,Ratio,271,units,0,v1038036698,1.11,162.19,NA,NA,NA,2
+2009-07,Canada,2016A000011124,Consumer credit and mortgage liabilities to disposable income,Ratio,271,units,0,v1038036699,1.12,153.9,NA,NA,NA,2
+2009-07,Canada,2016A000011124,Credit market debt - national balance sheet,Dollars,81,millions,6,v1038036700,1.13,1445215,NA,NA,NA,0
+2009-07,Canada,2016A000011124,Consumer credit - national balance sheet,Dollars,81,millions,6,v1038036701,1.14,459039,NA,NA,NA,0
+2009-07,Canada,2016A000011124,Non-mortgage loans - national balance sheet,Dollars,81,millions,6,v1038036702,1.15,73902,NA,NA,NA,0
+2009-07,Canada,2016A000011124,Mortgages - national balance sheet,Dollars,81,millions,6,v1038036703,1.16,912274,NA,NA,NA,0
+2009-07,Canada,2016A000011124,Credit market debt - financial flow,Dollars,81,millions,6,v95701115,1.7,26470,NA,NA,NA,0
+2009-07,Canada,2016A000011124,Consumer credit - financial flow,Dollars,81,millions,6,v95701116,1.8,7778,NA,NA,NA,0
+2009-07,Canada,2016A000011124,Non-mortgage loans - financial flow,Dollars,81,millions,6,v95701117,1.9,1187,NA,NA,NA,0
+2009-07,Canada,2016A000011124,Mortgages - financial flow,Dollars,81,millions,6,v95701118,1.1,17505,NA,NA,NA,0
+2009-10,Canada,2016A000011124,Credit market debt to disposable income,Ratio,271,units,0,v1038036698,1.11,163.53,NA,NA,NA,2
+2009-10,Canada,2016A000011124,Consumer credit and mortgage liabilities to disposable income,Ratio,271,units,0,v1038036699,1.12,155.38,NA,NA,NA,2
+2009-10,Canada,2016A000011124,Credit market debt - national balance sheet,Dollars,81,millions,6,v1038036700,1.13,1478215,NA,NA,NA,0
+2009-10,Canada,2016A000011124,Consumer credit - national balance sheet,Dollars,81,millions,6,v1038036701,1.14,471881,NA,NA,NA,0
+2009-10,Canada,2016A000011124,Non-mortgage loans - national balance sheet,Dollars,81,millions,6,v1038036702,1.15,73673,NA,NA,NA,0
+2009-10,Canada,2016A000011124,Mortgages - national balance sheet,Dollars,81,millions,6,v1038036703,1.16,932661,NA,NA,NA,0
+2009-10,Canada,2016A000011124,Credit market debt - financial flow,Dollars,81,millions,6,v95701115,1.7,34045,NA,NA,NA,0
+2009-10,Canada,2016A000011124,Consumer credit - financial flow,Dollars,81,millions,6,v95701116,1.8,13471,NA,NA,NA,0
+2009-10,Canada,2016A000011124,Non-mortgage loans - financial flow,Dollars,81,millions,6,v95701117,1.9,133,NA,NA,NA,0
+2009-10,Canada,2016A000011124,Mortgages - financial flow,Dollars,81,millions,6,v95701118,1.1,20441,NA,NA,NA,0
+2010-01,Canada,2016A000011124,Credit market debt to disposable income,Ratio,271,units,0,v1038036698,1.11,161.85,NA,NA,NA,2
+2010-01,Canada,2016A000011124,Consumer credit and mortgage liabilities to disposable income,Ratio,271,units,0,v1038036699,1.12,153.73,NA,NA,NA,2
+2010-01,Canada,2016A000011124,Credit market debt - national balance sheet,Dollars,81,millions,6,v1038036700,1.13,1497573,NA,NA,NA,0
+2010-01,Canada,2016A000011124,Consumer credit - national balance sheet,Dollars,81,millions,6,v1038036701,1.14,472160,NA,NA,NA,0
+2010-01,Canada,2016A000011124,Non-mortgage loans - national balance sheet,Dollars,81,millions,6,v1038036702,1.15,75150,NA,NA,NA,0
+2010-01,Canada,2016A000011124,Mortgages - national balance sheet,Dollars,81,millions,6,v1038036703,1.16,950263,NA,NA,NA,0
+2010-01,Canada,2016A000011124,Credit market debt - financial flow,Dollars,81,millions,6,v95701115,1.7,27382,NA,NA,NA,0
+2010-01,Canada,2016A000011124,Consumer credit - financial flow,Dollars,81,millions,6,v95701116,1.8,7903,NA,NA,NA,0
+2010-01,Canada,2016A000011124,Non-mortgage loans - financial flow,Dollars,81,millions,6,v95701117,1.9,1805,NA,NA,NA,0
+2010-01,Canada,2016A000011124,Mortgages - financial flow,Dollars,81,millions,6,v95701118,1.1,17674,NA,NA,NA,0
+2010-04,Canada,2016A000011124,Credit market debt to disposable income,Ratio,271,units,0,v1038036698,1.11,166.66,NA,NA,NA,2
+2010-04,Canada,2016A000011124,Consumer credit and mortgage liabilities to disposable income,Ratio,271,units,0,v1038036699,1.12,158.32,NA,NA,NA,2
+2010-04,Canada,2016A000011124,Credit market debt - national balance sheet,Dollars,81,millions,6,v1038036700,1.13,1523054,NA,NA,NA,0
+2010-04,Canada,2016A000011124,Consumer credit - national balance sheet,Dollars,81,millions,6,v1038036701,1.14,471955,NA,NA,NA,0
+2010-04,Canada,2016A000011124,Non-mortgage loans - national balance sheet,Dollars,81,millions,6,v1038036702,1.15,76206,NA,NA,NA,0
+2010-04,Canada,2016A000011124,Mortgages - national balance sheet,Dollars,81,millions,6,v1038036703,1.16,974893,NA,NA,NA,0
+2010-04,Canada,2016A000011124,Credit market debt - financial flow,Dollars,81,millions,6,v95701115,1.7,26401,NA,NA,NA,0
+2010-04,Canada,2016A000011124,Consumer credit - financial flow,Dollars,81,millions,6,v95701116,1.8,334,NA,NA,NA,0
+2010-04,Canada,2016A000011124,Non-mortgage loans - financial flow,Dollars,81,millions,6,v95701117,1.9,1382,NA,NA,NA,0
+2010-04,Canada,2016A000011124,Mortgages - financial flow,Dollars,81,millions,6,v95701118,1.1,24685,NA,NA,NA,0
+2010-07,Canada,2016A000011124,Credit market debt to disposable income,Ratio,271,units,0,v1038036698,1.11,166.08,NA,NA,NA,2
+2010-07,Canada,2016A000011124,Consumer credit and mortgage liabilities to disposable income,Ratio,271,units,0,v1038036699,1.12,157.76,NA,NA,NA,2
+2010-07,Canada,2016A000011124,Credit market debt - national balance sheet,Dollars,81,millions,6,v1038036700,1.13,1541317,NA,NA,NA,0
+2010-07,Canada,2016A000011124,Consumer credit - national balance sheet,Dollars,81,millions,6,v1038036701,1.14,476483,NA,NA,NA,0
+2010-07,Canada,2016A000011124,Non-mortgage loans - national balance sheet,Dollars,81,millions,6,v1038036702,1.15,77176,NA,NA,NA,0
+2010-07,Canada,2016A000011124,Mortgages - national balance sheet,Dollars,81,millions,6,v1038036703,1.16,987658,NA,NA,NA,0
+2010-07,Canada,2016A000011124,Credit market debt - financial flow,Dollars,81,millions,6,v95701115,1.7,19246,NA,NA,NA,0
+2010-07,Canada,2016A000011124,Consumer credit - financial flow,Dollars,81,millions,6,v95701116,1.8,5083,NA,NA,NA,0
+2010-07,Canada,2016A000011124,Non-mortgage loans - financial flow,Dollars,81,millions,6,v95701117,1.9,1334,NA,NA,NA,0
+2010-07,Canada,2016A000011124,Mortgages - financial flow,Dollars,81,millions,6,v95701118,1.1,12829,NA,NA,NA,0
+2010-10,Canada,2016A000011124,Credit market debt to disposable income,Ratio,271,units,0,v1038036698,1.11,165.8,NA,NA,NA,2
+2010-10,Canada,2016A000011124,Consumer credit and mortgage liabilities to disposable income,Ratio,271,units,0,v1038036699,1.12,157.64,NA,NA,NA,2
+2010-10,Canada,2016A000011124,Credit market debt - national balance sheet,Dollars,81,millions,6,v1038036700,1.13,1567021,NA,NA,NA,0
+2010-10,Canada,2016A000011124,Consumer credit - national balance sheet,Dollars,81,millions,6,v1038036701,1.14,483151,NA,NA,NA,0
+2010-10,Canada,2016A000011124,Non-mortgage loans - national balance sheet,Dollars,81,millions,6,v1038036702,1.15,77084,NA,NA,NA,0
+2010-10,Canada,2016A000011124,Mortgages - national balance sheet,Dollars,81,millions,6,v1038036703,1.16,1006786,NA,NA,NA,0
+2010-10,Canada,2016A000011124,Credit market debt - financial flow,Dollars,81,millions,6,v95701115,1.7,26800,NA,NA,NA,0
+2010-10,Canada,2016A000011124,Consumer credit - financial flow,Dollars,81,millions,6,v95701116,1.8,7246,NA,NA,NA,0
+2010-10,Canada,2016A000011124,Non-mortgage loans - financial flow,Dollars,81,millions,6,v95701117,1.9,352,NA,NA,NA,0
+2010-10,Canada,2016A000011124,Mortgages - financial flow,Dollars,81,millions,6,v95701118,1.1,19202,NA,NA,NA,0
+2011-01,Canada,2016A000011124,Credit market debt to disposable income,Ratio,271,units,0,v1038036698,1.11,167.12,NA,NA,NA,2
+2011-01,Canada,2016A000011124,Consumer credit and mortgage liabilities to disposable income,Ratio,271,units,0,v1038036699,1.12,158.96,NA,NA,NA,2
+2011-01,Canada,2016A000011124,Credit market debt - national balance sheet,Dollars,81,millions,6,v1038036700,1.13,1588281,NA,NA,NA,0
+2011-01,Canada,2016A000011124,Consumer credit - national balance sheet,Dollars,81,millions,6,v1038036701,1.14,487363,NA,NA,NA,0
+2011-01,Canada,2016A000011124,Non-mortgage loans - national balance sheet,Dollars,81,millions,6,v1038036702,1.15,77505,NA,NA,NA,0
+2011-01,Canada,2016A000011124,Mortgages - national balance sheet,Dollars,81,millions,6,v1038036703,1.16,1023413,NA,NA,NA,0
+2011-01,Canada,2016A000011124,Credit market debt - financial flow,Dollars,81,millions,6,v95701115,1.7,29049,NA,NA,NA,0
+2011-01,Canada,2016A000011124,Consumer credit - financial flow,Dollars,81,millions,6,v95701116,1.8,4768,NA,NA,NA,0
+2011-01,Canada,2016A000011124,Non-mortgage loans - financial flow,Dollars,81,millions,6,v95701117,1.9,753,NA,NA,NA,0
+2011-01,Canada,2016A000011124,Mortgages - financial flow,Dollars,81,millions,6,v95701118,1.1,23528,NA,NA,NA,0
+2011-04,Canada,2016A000011124,Credit market debt to disposable income,Ratio,271,units,0,v1038036698,1.11,169.27,NA,NA,NA,2
+2011-04,Canada,2016A000011124,Consumer credit and mortgage liabilities to disposable income,Ratio,271,units,0,v1038036699,1.12,161.14,NA,NA,NA,2
+2011-04,Canada,2016A000011124,Credit market debt - national balance sheet,Dollars,81,millions,6,v1038036700,1.13,1614226,NA,NA,NA,0
+2011-04,Canada,2016A000011124,Consumer credit - national balance sheet,Dollars,81,millions,6,v1038036701,1.14,491841,NA,NA,NA,0
+2011-04,Canada,2016A000011124,Non-mortgage loans - national balance sheet,Dollars,81,millions,6,v1038036702,1.15,77516,NA,NA,NA,0
+2011-04,Canada,2016A000011124,Mortgages - national balance sheet,Dollars,81,millions,6,v1038036703,1.16,1044869,NA,NA,NA,0
+2011-04,Canada,2016A000011124,Credit market debt - financial flow,Dollars,81,millions,6,v95701115,1.7,26812,NA,NA,NA,0
+2011-04,Canada,2016A000011124,Consumer credit - financial flow,Dollars,81,millions,6,v95701116,1.8,5000,NA,NA,NA,0
+2011-04,Canada,2016A000011124,Non-mortgage loans - financial flow,Dollars,81,millions,6,v95701117,1.9,319,NA,NA,NA,0
+2011-04,Canada,2016A000011124,Mortgages - financial flow,Dollars,81,millions,6,v95701118,1.1,21493,NA,NA,NA,0
+2011-07,Canada,2016A000011124,Credit market debt to disposable income,Ratio,271,units,0,v1038036698,1.11,169.87,NA,NA,NA,2
+2011-07,Canada,2016A000011124,Consumer credit and mortgage liabilities to disposable income,Ratio,271,units,0,v1038036699,1.12,161.85,NA,NA,NA,2
+2011-07,Canada,2016A000011124,Credit market debt - national balance sheet,Dollars,81,millions,6,v1038036700,1.13,1635648,NA,NA,NA,0
+2011-07,Canada,2016A000011124,Consumer credit - national balance sheet,Dollars,81,millions,6,v1038036701,1.14,494455,NA,NA,NA,0
+2011-07,Canada,2016A000011124,Non-mortgage loans - national balance sheet,Dollars,81,millions,6,v1038036702,1.15,77212,NA,NA,NA,0
+2011-07,Canada,2016A000011124,Mortgages - national balance sheet,Dollars,81,millions,6,v1038036703,1.16,1063981,NA,NA,NA,0
+2011-07,Canada,2016A000011124,Credit market debt - financial flow,Dollars,81,millions,6,v95701115,1.7,22027,NA,NA,NA,0
+2011-07,Canada,2016A000011124,Consumer credit - financial flow,Dollars,81,millions,6,v95701116,1.8,3038,NA,NA,NA,0
+2011-07,Canada,2016A000011124,Non-mortgage loans - financial flow,Dollars,81,millions,6,v95701117,1.9,-195,NA,NA,NA,0
+2011-07,Canada,2016A000011124,Mortgages - financial flow,Dollars,81,millions,6,v95701118,1.1,19184,NA,NA,NA,0
+2011-10,Canada,2016A000011124,Credit market debt to disposable income,Ratio,271,units,0,v1038036698,1.11,168.49,NA,NA,NA,2
+2011-10,Canada,2016A000011124,Consumer credit and mortgage liabilities to disposable income,Ratio,271,units,0,v1038036699,1.12,160.32,NA,NA,NA,2
+2011-10,Canada,2016A000011124,Credit market debt - national balance sheet,Dollars,81,millions,6,v1038036700,1.13,1653700,NA,NA,NA,0
+2011-10,Canada,2016A000011124,Consumer credit - national balance sheet,Dollars,81,millions,6,v1038036701,1.14,496639,NA,NA,NA,0
+2011-10,Canada,2016A000011124,Non-mortgage loans - national balance sheet,Dollars,81,millions,6,v1038036702,1.15,80153,NA,NA,NA,0
+2011-10,Canada,2016A000011124,Mortgages - national balance sheet,Dollars,81,millions,6,v1038036703,1.16,1076908,NA,NA,NA,0
+2011-10,Canada,2016A000011124,Credit market debt - financial flow,Dollars,81,millions,6,v95701115,1.7,18817,NA,NA,NA,0
+2011-10,Canada,2016A000011124,Consumer credit - financial flow,Dollars,81,millions,6,v95701116,1.8,2593,NA,NA,NA,0
+2011-10,Canada,2016A000011124,Non-mortgage loans - financial flow,Dollars,81,millions,6,v95701117,1.9,3276,NA,NA,NA,0
+2011-10,Canada,2016A000011124,Mortgages - financial flow,Dollars,81,millions,6,v95701118,1.1,12948,NA,NA,NA,0
+2012-01,Canada,2016A000011124,Credit market debt to disposable income,Ratio,271,units,0,v1038036698,1.11,168.84,NA,NA,NA,2
+2012-01,Canada,2016A000011124,Consumer credit and mortgage liabilities to disposable income,Ratio,271,units,0,v1038036699,1.12,160.61,NA,NA,NA,2
+2012-01,Canada,2016A000011124,Credit market debt - national balance sheet,Dollars,81,millions,6,v1038036700,1.13,1670547,NA,NA,NA,0
+2012-01,Canada,2016A000011124,Consumer credit - national balance sheet,Dollars,81,millions,6,v1038036701,1.14,495041,NA,NA,NA,0
+2012-01,Canada,2016A000011124,Non-mortgage loans - national balance sheet,Dollars,81,millions,6,v1038036702,1.15,81405,NA,NA,NA,0
+2012-01,Canada,2016A000011124,Mortgages - national balance sheet,Dollars,81,millions,6,v1038036703,1.16,1094101,NA,NA,NA,0
+2012-01,Canada,2016A000011124,Credit market debt - financial flow,Dollars,81,millions,6,v95701115,1.7,19489,NA,NA,NA,0
+2012-01,Canada,2016A000011124,Consumer credit - financial flow,Dollars,81,millions,6,v95701116,1.8,738,NA,NA,NA,0
+2012-01,Canada,2016A000011124,Non-mortgage loans - financial flow,Dollars,81,millions,6,v95701117,1.9,1535,NA,NA,NA,0
+2012-01,Canada,2016A000011124,Mortgages - financial flow,Dollars,81,millions,6,v95701118,1.1,17216,NA,NA,NA,0
+2012-04,Canada,2016A000011124,Credit market debt to disposable income,Ratio,271,units,0,v1038036698,1.11,169.96,NA,NA,NA,2
+2012-04,Canada,2016A000011124,Consumer credit and mortgage liabilities to disposable income,Ratio,271,units,0,v1038036699,1.12,161.59,NA,NA,NA,2
+2012-04,Canada,2016A000011124,Credit market debt - national balance sheet,Dollars,81,millions,6,v1038036700,1.13,1689564,NA,NA,NA,0
+2012-04,Canada,2016A000011124,Consumer credit - national balance sheet,Dollars,81,millions,6,v1038036701,1.14,498864,NA,NA,NA,0
+2012-04,Canada,2016A000011124,Non-mortgage loans - national balance sheet,Dollars,81,millions,6,v1038036702,1.15,83241,NA,NA,NA,0
+2012-04,Canada,2016A000011124,Mortgages - national balance sheet,Dollars,81,millions,6,v1038036703,1.16,1107459,NA,NA,NA,0
+2012-04,Canada,2016A000011124,Credit market debt - financial flow,Dollars,81,millions,6,v95701115,1.7,19765,NA,NA,NA,0
+2012-04,Canada,2016A000011124,Consumer credit - financial flow,Dollars,81,millions,6,v95701116,1.8,4314,NA,NA,NA,0
+2012-04,Canada,2016A000011124,Non-mortgage loans - financial flow,Dollars,81,millions,6,v95701117,1.9,2046,NA,NA,NA,0
+2012-04,Canada,2016A000011124,Mortgages - financial flow,Dollars,81,millions,6,v95701118,1.1,13405,NA,NA,NA,0
+2012-07,Canada,2016A000011124,Credit market debt to disposable income,Ratio,271,units,0,v1038036698,1.11,169.57,NA,NA,NA,2
+2012-07,Canada,2016A000011124,Consumer credit and mortgage liabilities to disposable income,Ratio,271,units,0,v1038036699,1.12,161.33,NA,NA,NA,2
+2012-07,Canada,2016A000011124,Credit market debt - national balance sheet,Dollars,81,millions,6,v1038036700,1.13,1707467,NA,NA,NA,0
+2012-07,Canada,2016A000011124,Consumer credit - national balance sheet,Dollars,81,millions,6,v1038036701,1.14,504321,NA,NA,NA,0
+2012-07,Canada,2016A000011124,Non-mortgage loans - national balance sheet,Dollars,81,millions,6,v1038036702,1.15,82965,NA,NA,NA,0
+2012-07,Canada,2016A000011124,Mortgages - national balance sheet,Dollars,81,millions,6,v1038036703,1.16,1120181,NA,NA,NA,0
+2012-07,Canada,2016A000011124,Credit market debt - financial flow,Dollars,81,millions,6,v95701115,1.7,18761,NA,NA,NA,0
+2012-07,Canada,2016A000011124,Consumer credit - financial flow,Dollars,81,millions,6,v95701116,1.8,5975,NA,NA,NA,0
+2012-07,Canada,2016A000011124,Non-mortgage loans - financial flow,Dollars,81,millions,6,v95701117,1.9,27,NA,NA,NA,0
+2012-07,Canada,2016A000011124,Mortgages - financial flow,Dollars,81,millions,6,v95701118,1.1,12759,NA,NA,NA,0
+2012-10,Canada,2016A000011124,Credit market debt to disposable income,Ratio,271,units,0,v1038036698,1.11,170.1,NA,NA,NA,2
+2012-10,Canada,2016A000011124,Consumer credit and mortgage liabilities to disposable income,Ratio,271,units,0,v1038036699,1.12,161.93,NA,NA,NA,2
+2012-10,Canada,2016A000011124,Credit market debt - national balance sheet,Dollars,81,millions,6,v1038036700,1.13,1725733,NA,NA,NA,0
+2012-10,Canada,2016A000011124,Consumer credit - national balance sheet,Dollars,81,millions,6,v1038036701,1.14,508075,NA,NA,NA,0
+2012-10,Canada,2016A000011124,Non-mortgage loans - national balance sheet,Dollars,81,millions,6,v1038036702,1.15,82886,NA,NA,NA,0
+2012-10,Canada,2016A000011124,Mortgages - national balance sheet,Dollars,81,millions,6,v1038036703,1.16,1134772,NA,NA,NA,0
+2012-10,Canada,2016A000011124,Credit market debt - financial flow,Dollars,81,millions,6,v95701115,1.7,19009,NA,NA,NA,0
+2012-10,Canada,2016A000011124,Consumer credit - financial flow,Dollars,81,millions,6,v95701116,1.8,4227,NA,NA,NA,0
+2012-10,Canada,2016A000011124,Non-mortgage loans - financial flow,Dollars,81,millions,6,v95701117,1.9,141,NA,NA,NA,0
+2012-10,Canada,2016A000011124,Mortgages - financial flow,Dollars,81,millions,6,v95701118,1.1,14641,NA,NA,NA,0
+2013-01,Canada,2016A000011124,Credit market debt to disposable income,Ratio,271,units,0,v1038036698,1.11,168.13,NA,NA,NA,2
+2013-01,Canada,2016A000011124,Consumer credit and mortgage liabilities to disposable income,Ratio,271,units,0,v1038036699,1.12,160.07,NA,NA,NA,2
+2013-01,Canada,2016A000011124,Credit market debt - national balance sheet,Dollars,81,millions,6,v1038036700,1.13,1742279,NA,NA,NA,0
+2013-01,Canada,2016A000011124,Consumer credit - national balance sheet,Dollars,81,millions,6,v1038036701,1.14,512423,NA,NA,NA,0
+2013-01,Canada,2016A000011124,Non-mortgage loans - national balance sheet,Dollars,81,millions,6,v1038036702,1.15,83527,NA,NA,NA,0
+2013-01,Canada,2016A000011124,Mortgages - national balance sheet,Dollars,81,millions,6,v1038036703,1.16,1146329,NA,NA,NA,0
+2013-01,Canada,2016A000011124,Credit market debt - financial flow,Dollars,81,millions,6,v95701115,1.7,18586,NA,NA,NA,0
+2013-01,Canada,2016A000011124,Consumer credit - financial flow,Dollars,81,millions,6,v95701116,1.8,5648,NA,NA,NA,0
+2013-01,Canada,2016A000011124,Non-mortgage loans - financial flow,Dollars,81,millions,6,v95701117,1.9,1343,NA,NA,NA,0
+2013-01,Canada,2016A000011124,Mortgages - financial flow,Dollars,81,millions,6,v95701118,1.1,11595,NA,NA,NA,0
+2013-04,Canada,2016A000011124,Credit market debt to disposable income,Ratio,271,units,0,v1038036698,1.11,168.97,NA,NA,NA,2
+2013-04,Canada,2016A000011124,Consumer credit and mortgage liabilities to disposable income,Ratio,271,units,0,v1038036699,1.12,160.93,NA,NA,NA,2
+2013-04,Canada,2016A000011124,Credit market debt - national balance sheet,Dollars,81,millions,6,v1038036700,1.13,1760731,NA,NA,NA,0
+2013-04,Canada,2016A000011124,Consumer credit - national balance sheet,Dollars,81,millions,6,v1038036701,1.14,515426,NA,NA,NA,0
+2013-04,Canada,2016A000011124,Non-mortgage loans - national balance sheet,Dollars,81,millions,6,v1038036702,1.15,83780,NA,NA,NA,0
+2013-04,Canada,2016A000011124,Mortgages - national balance sheet,Dollars,81,millions,6,v1038036703,1.16,1161525,NA,NA,NA,0
+2013-04,Canada,2016A000011124,Credit market debt - financial flow,Dollars,81,millions,6,v95701115,1.7,19018,NA,NA,NA,0
+2013-04,Canada,2016A000011124,Consumer credit - financial flow,Dollars,81,millions,6,v95701116,1.8,3380,NA,NA,NA,0
+2013-04,Canada,2016A000011124,Non-mortgage loans - financial flow,Dollars,81,millions,6,v95701117,1.9,393,NA,NA,NA,0
+2013-04,Canada,2016A000011124,Mortgages - financial flow,Dollars,81,millions,6,v95701118,1.1,15245,NA,NA,NA,0
+2013-07,Canada,2016A000011124,Credit market debt to disposable income,Ratio,271,units,0,v1038036698,1.11,169.71,NA,NA,NA,2
+2013-07,Canada,2016A000011124,Consumer credit and mortgage liabilities to disposable income,Ratio,271,units,0,v1038036699,1.12,161.61,NA,NA,NA,2
+2013-07,Canada,2016A000011124,Credit market debt - national balance sheet,Dollars,81,millions,6,v1038036700,1.13,1779329,NA,NA,NA,0
+2013-07,Canada,2016A000011124,Consumer credit - national balance sheet,Dollars,81,millions,6,v1038036701,1.14,519114,NA,NA,NA,0
+2013-07,Canada,2016A000011124,Non-mortgage loans - national balance sheet,Dollars,81,millions,6,v1038036702,1.15,84994,NA,NA,NA,0
+2013-07,Canada,2016A000011124,Mortgages - national balance sheet,Dollars,81,millions,6,v1038036703,1.16,1175221,NA,NA,NA,0
+2013-07,Canada,2016A000011124,Credit market debt - financial flow,Dollars,81,millions,6,v95701115,1.7,19330,NA,NA,NA,0
+2013-07,Canada,2016A000011124,Consumer credit - financial flow,Dollars,81,millions,6,v95701116,1.8,4101,NA,NA,NA,0
+2013-07,Canada,2016A000011124,Non-mortgage loans - financial flow,Dollars,81,millions,6,v95701117,1.9,1509,NA,NA,NA,0
+2013-07,Canada,2016A000011124,Mortgages - financial flow,Dollars,81,millions,6,v95701118,1.1,13720,NA,NA,NA,0
+2013-10,Canada,2016A000011124,Credit market debt to disposable income,Ratio,271,units,0,v1038036698,1.11,169.58,NA,NA,NA,2
+2013-10,Canada,2016A000011124,Consumer credit and mortgage liabilities to disposable income,Ratio,271,units,0,v1038036699,1.12,161.51,NA,NA,NA,2
+2013-10,Canada,2016A000011124,Credit market debt - national balance sheet,Dollars,81,millions,6,v1038036700,1.13,1798358,NA,NA,NA,0
+2013-10,Canada,2016A000011124,Consumer credit - national balance sheet,Dollars,81,millions,6,v1038036701,1.14,523575,NA,NA,NA,0
+2013-10,Canada,2016A000011124,Non-mortgage loans - national balance sheet,Dollars,81,millions,6,v1038036702,1.15,85526,NA,NA,NA,0
+2013-10,Canada,2016A000011124,Mortgages - national balance sheet,Dollars,81,millions,6,v1038036703,1.16,1189257,NA,NA,NA,0
+2013-10,Canada,2016A000011124,Credit market debt - financial flow,Dollars,81,millions,6,v95701115,1.7,19632,NA,NA,NA,0
+2013-10,Canada,2016A000011124,Consumer credit - financial flow,Dollars,81,millions,6,v95701116,1.8,4837,NA,NA,NA,0
+2013-10,Canada,2016A000011124,Non-mortgage loans - financial flow,Dollars,81,millions,6,v95701117,1.9,708,NA,NA,NA,0
+2013-10,Canada,2016A000011124,Mortgages - financial flow,Dollars,81,millions,6,v95701118,1.1,14087,NA,NA,NA,0
+2014-01,Canada,2016A000011124,Credit market debt to disposable income,Ratio,271,units,0,v1038036698,1.11,170.16,NA,NA,NA,2
+2014-01,Canada,2016A000011124,Consumer credit and mortgage liabilities to disposable income,Ratio,271,units,0,v1038036699,1.12,162.1,NA,NA,NA,2
+2014-01,Canada,2016A000011124,Credit market debt - national balance sheet,Dollars,81,millions,6,v1038036700,1.13,1816778,NA,NA,NA,0
+2014-01,Canada,2016A000011124,Consumer credit - national balance sheet,Dollars,81,millions,6,v1038036701,1.14,526923,NA,NA,NA,0
+2014-01,Canada,2016A000011124,Non-mortgage loans - national balance sheet,Dollars,81,millions,6,v1038036702,1.15,86079,NA,NA,NA,0
+2014-01,Canada,2016A000011124,Mortgages - national balance sheet,Dollars,81,millions,6,v1038036703,1.16,1203776,NA,NA,NA,0
+2014-01,Canada,2016A000011124,Credit market debt - financial flow,Dollars,81,millions,6,v95701115,1.7,18897,NA,NA,NA,0
+2014-01,Canada,2016A000011124,Consumer credit - financial flow,Dollars,81,millions,6,v95701116,1.8,3712,NA,NA,NA,0
+2014-01,Canada,2016A000011124,Non-mortgage loans - financial flow,Dollars,81,millions,6,v95701117,1.9,650,NA,NA,NA,0
+2014-01,Canada,2016A000011124,Mortgages - financial flow,Dollars,81,millions,6,v95701118,1.1,14535,NA,NA,NA,0
+2014-04,Canada,2016A000011124,Credit market debt to disposable income,Ratio,271,units,0,v1038036698,1.11,171.06,NA,NA,NA,2
+2014-04,Canada,2016A000011124,Consumer credit and mortgage liabilities to disposable income,Ratio,271,units,0,v1038036699,1.12,162.99,NA,NA,NA,2
+2014-04,Canada,2016A000011124,Credit market debt - national balance sheet,Dollars,81,millions,6,v1038036700,1.13,1836080,NA,NA,NA,0
+2014-04,Canada,2016A000011124,Consumer credit - national balance sheet,Dollars,81,millions,6,v1038036701,1.14,531930,NA,NA,NA,0
+2014-04,Canada,2016A000011124,Non-mortgage loans - national balance sheet,Dollars,81,millions,6,v1038036702,1.15,86640,NA,NA,NA,0
+2014-04,Canada,2016A000011124,Mortgages - national balance sheet,Dollars,81,millions,6,v1038036703,1.16,1217510,NA,NA,NA,0
+2014-04,Canada,2016A000011124,Credit market debt - financial flow,Dollars,81,millions,6,v95701115,1.7,20270,NA,NA,NA,0
+2014-04,Canada,2016A000011124,Consumer credit - financial flow,Dollars,81,millions,6,v95701116,1.8,5614,NA,NA,NA,0
+2014-04,Canada,2016A000011124,Non-mortgage loans - financial flow,Dollars,81,millions,6,v95701117,1.9,883,NA,NA,NA,0
+2014-04,Canada,2016A000011124,Mortgages - financial flow,Dollars,81,millions,6,v95701118,1.1,13773,NA,NA,NA,0
+2014-07,Canada,2016A000011124,Credit market debt to disposable income,Ratio,271,units,0,v1038036698,1.11,170.34,NA,NA,NA,2
+2014-07,Canada,2016A000011124,Consumer credit and mortgage liabilities to disposable income,Ratio,271,units,0,v1038036699,1.12,162.21,NA,NA,NA,2
+2014-07,Canada,2016A000011124,Credit market debt - national balance sheet,Dollars,81,millions,6,v1038036700,1.13,1858594,NA,NA,NA,0
+2014-07,Canada,2016A000011124,Consumer credit - national balance sheet,Dollars,81,millions,6,v1038036701,1.14,535850,NA,NA,NA,0
+2014-07,Canada,2016A000011124,Non-mortgage loans - national balance sheet,Dollars,81,millions,6,v1038036702,1.15,88703,NA,NA,NA,0
+2014-07,Canada,2016A000011124,Mortgages - national balance sheet,Dollars,81,millions,6,v1038036703,1.16,1234041,NA,NA,NA,0
+2014-07,Canada,2016A000011124,Credit market debt - financial flow,Dollars,81,millions,6,v95701115,1.7,23032,NA,NA,NA,0
+2014-07,Canada,2016A000011124,Consumer credit - financial flow,Dollars,81,millions,6,v95701116,1.8,4427,NA,NA,NA,0
+2014-07,Canada,2016A000011124,Non-mortgage loans - financial flow,Dollars,81,millions,6,v95701117,1.9,2086,NA,NA,NA,0
+2014-07,Canada,2016A000011124,Mortgages - financial flow,Dollars,81,millions,6,v95701118,1.1,16519,NA,NA,NA,0
+2014-10,Canada,2016A000011124,Credit market debt to disposable income,Ratio,271,units,0,v1038036698,1.11,171.79,NA,NA,NA,2
+2014-10,Canada,2016A000011124,Consumer credit and mortgage liabilities to disposable income,Ratio,271,units,0,v1038036699,1.12,163.53,NA,NA,NA,2
+2014-10,Canada,2016A000011124,Credit market debt - national balance sheet,Dollars,81,millions,6,v1038036700,1.13,1880171,NA,NA,NA,0
+2014-10,Canada,2016A000011124,Consumer credit - national balance sheet,Dollars,81,millions,6,v1038036701,1.14,539151,NA,NA,NA,0
+2014-10,Canada,2016A000011124,Non-mortgage loans - national balance sheet,Dollars,81,millions,6,v1038036702,1.15,90361,NA,NA,NA,0
+2014-10,Canada,2016A000011124,Mortgages - national balance sheet,Dollars,81,millions,6,v1038036703,1.16,1250659,NA,NA,NA,0
+2014-10,Canada,2016A000011124,Credit market debt - financial flow,Dollars,81,millions,6,v95701115,1.7,22253,NA,NA,NA,0
+2014-10,Canada,2016A000011124,Consumer credit - financial flow,Dollars,81,millions,6,v95701116,1.8,3831,NA,NA,NA,0
+2014-10,Canada,2016A000011124,Non-mortgage loans - financial flow,Dollars,81,millions,6,v95701117,1.9,1768,NA,NA,NA,0
+2014-10,Canada,2016A000011124,Mortgages - financial flow,Dollars,81,millions,6,v95701118,1.1,16654,NA,NA,NA,0
+2015-01,Canada,2016A000011124,Credit market debt to disposable income,Ratio,271,units,0,v1038036698,1.11,170.36,NA,NA,NA,2
+2015-01,Canada,2016A000011124,Consumer credit and mortgage liabilities to disposable income,Ratio,271,units,0,v1038036699,1.12,162.23,NA,NA,NA,2
+2015-01,Canada,2016A000011124,Credit market debt - national balance sheet,Dollars,81,millions,6,v1038036700,1.13,1904171,NA,NA,NA,0
+2015-01,Canada,2016A000011124,Consumer credit - national balance sheet,Dollars,81,millions,6,v1038036701,1.14,542587,NA,NA,NA,0
+2015-01,Canada,2016A000011124,Non-mortgage loans - national balance sheet,Dollars,81,millions,6,v1038036702,1.15,90840,NA,NA,NA,0
+2015-01,Canada,2016A000011124,Mortgages - national balance sheet,Dollars,81,millions,6,v1038036703,1.16,1270744,NA,NA,NA,0
+2015-01,Canada,2016A000011124,Credit market debt - financial flow,Dollars,81,millions,6,v95701115,1.7,24296,NA,NA,NA,0
+2015-01,Canada,2016A000011124,Consumer credit - financial flow,Dollars,81,millions,6,v95701116,1.8,3884,NA,NA,NA,0
+2015-01,Canada,2016A000011124,Non-mortgage loans - financial flow,Dollars,81,millions,6,v95701117,1.9,413,NA,NA,NA,0
+2015-01,Canada,2016A000011124,Mortgages - financial flow,Dollars,81,millions,6,v95701118,1.1,19999,NA,NA,NA,0
+2015-04,Canada,2016A000011124,Credit market debt to disposable income,Ratio,271,units,0,v1038036698,1.11,171.37,NA,NA,NA,2
+2015-04,Canada,2016A000011124,Consumer credit and mortgage liabilities to disposable income,Ratio,271,units,0,v1038036699,1.12,162.76,NA,NA,NA,2
+2015-04,Canada,2016A000011124,Credit market debt - national balance sheet,Dollars,81,millions,6,v1038036700,1.13,1932218,NA,NA,NA,0
+2015-04,Canada,2016A000011124,Consumer credit - national balance sheet,Dollars,81,millions,6,v1038036701,1.14,543913,NA,NA,NA,0
+2015-04,Canada,2016A000011124,Non-mortgage loans - national balance sheet,Dollars,81,millions,6,v1038036702,1.15,97107,NA,NA,NA,0
+2015-04,Canada,2016A000011124,Mortgages - national balance sheet,Dollars,81,millions,6,v1038036703,1.16,1291198,NA,NA,NA,0
+2015-04,Canada,2016A000011124,Credit market debt - financial flow,Dollars,81,millions,6,v95701115,1.7,28942,NA,NA,NA,0
+2015-04,Canada,2016A000011124,Consumer credit - financial flow,Dollars,81,millions,6,v95701116,1.8,1907,NA,NA,NA,0
+2015-04,Canada,2016A000011124,Non-mortgage loans - financial flow,Dollars,81,millions,6,v95701117,1.9,6532,NA,NA,NA,0
+2015-04,Canada,2016A000011124,Mortgages - financial flow,Dollars,81,millions,6,v95701118,1.1,20503,NA,NA,NA,0
+2015-07,Canada,2016A000011124,Credit market debt to disposable income,Ratio,271,units,0,v1038036698,1.11,172.38,NA,NA,NA,2
+2015-07,Canada,2016A000011124,Consumer credit and mortgage liabilities to disposable income,Ratio,271,units,0,v1038036699,1.12,163.77,NA,NA,NA,2
+2015-07,Canada,2016A000011124,Credit market debt - national balance sheet,Dollars,81,millions,6,v1038036700,1.13,1958766,NA,NA,NA,0
+2015-07,Canada,2016A000011124,Consumer credit - national balance sheet,Dollars,81,millions,6,v1038036701,1.14,546018,NA,NA,NA,0
+2015-07,Canada,2016A000011124,Non-mortgage loans - national balance sheet,Dollars,81,millions,6,v1038036702,1.15,97765,NA,NA,NA,0
+2015-07,Canada,2016A000011124,Mortgages - national balance sheet,Dollars,81,millions,6,v1038036703,1.16,1314983,NA,NA,NA,0
+2015-07,Canada,2016A000011124,Credit market debt - financial flow,Dollars,81,millions,6,v95701115,1.7,26979,NA,NA,NA,0
+2015-07,Canada,2016A000011124,Consumer credit - financial flow,Dollars,81,millions,6,v95701116,1.8,2519,NA,NA,NA,0
+2015-07,Canada,2016A000011124,Non-mortgage loans - financial flow,Dollars,81,millions,6,v95701117,1.9,619,NA,NA,NA,0
+2015-07,Canada,2016A000011124,Mortgages - financial flow,Dollars,81,millions,6,v95701118,1.1,23841,NA,NA,NA,0
+2015-10,Canada,2016A000011124,Credit market debt to disposable income,Ratio,271,units,0,v1038036698,1.11,174.48,NA,NA,NA,2
+2015-10,Canada,2016A000011124,Consumer credit and mortgage liabilities to disposable income,Ratio,271,units,0,v1038036699,1.12,165.82,NA,NA,NA,2
+2015-10,Canada,2016A000011124,Credit market debt - national balance sheet,Dollars,81,millions,6,v1038036700,1.13,1985418,NA,NA,NA,0
+2015-10,Canada,2016A000011124,Consumer credit - national balance sheet,Dollars,81,millions,6,v1038036701,1.14,547582,NA,NA,NA,0
+2015-10,Canada,2016A000011124,Non-mortgage loans - national balance sheet,Dollars,81,millions,6,v1038036702,1.15,98544,NA,NA,NA,0
+2015-10,Canada,2016A000011124,Mortgages - national balance sheet,Dollars,81,millions,6,v1038036703,1.16,1339292,NA,NA,NA,0
+2015-10,Canada,2016A000011124,Credit market debt - financial flow,Dollars,81,millions,6,v95701115,1.7,27300,NA,NA,NA,0
+2015-10,Canada,2016A000011124,Consumer credit - financial flow,Dollars,81,millions,6,v95701116,1.8,2071,NA,NA,NA,0
+2015-10,Canada,2016A000011124,Non-mortgage loans - financial flow,Dollars,81,millions,6,v95701117,1.9,837,NA,NA,NA,0
+2015-10,Canada,2016A000011124,Mortgages - financial flow,Dollars,81,millions,6,v95701118,1.1,24392,NA,NA,NA,0
+2016-01,Canada,2016A000011124,Credit market debt to disposable income,Ratio,271,units,0,v1038036698,1.11,181.45,NA,NA,NA,2
+2016-01,Canada,2016A000011124,Consumer credit and mortgage liabilities to disposable income,Ratio,271,units,0,v1038036699,1.12,172.39,NA,NA,NA,2
+2016-01,Canada,2016A000011124,Credit market debt - national balance sheet,Dollars,81,millions,6,v1038036700,1.13,2009853,NA,NA,NA,0
+2016-01,Canada,2016A000011124,Consumer credit - national balance sheet,Dollars,81,millions,6,v1038036701,1.14,551163,NA,NA,NA,0
+2016-01,Canada,2016A000011124,Non-mortgage loans - national balance sheet,Dollars,81,millions,6,v1038036702,1.15,100440,NA,NA,NA,0
+2016-01,Canada,2016A000011124,Mortgages - national balance sheet,Dollars,81,millions,6,v1038036703,1.16,1358250,NA,NA,NA,0
+2016-01,Canada,2016A000011124,Credit market debt - financial flow,Dollars,81,millions,6,v95701115,1.7,21709,NA,NA,NA,0
+2016-01,Canada,2016A000011124,Consumer credit - financial flow,Dollars,81,millions,6,v95701116,1.8,1764,NA,NA,NA,0
+2016-01,Canada,2016A000011124,Non-mortgage loans - financial flow,Dollars,81,millions,6,v95701117,1.9,952,NA,NA,NA,0
+2016-01,Canada,2016A000011124,Mortgages - financial flow,Dollars,81,millions,6,v95701118,1.1,18993,NA,NA,NA,0
+2016-04,Canada,2016A000011124,Credit market debt to disposable income,Ratio,271,units,0,v1038036698,1.11,180.84,NA,NA,NA,2
+2016-04,Canada,2016A000011124,Consumer credit and mortgage liabilities to disposable income,Ratio,271,units,0,v1038036699,1.12,171.84,NA,NA,NA,2
+2016-04,Canada,2016A000011124,Credit market debt - national balance sheet,Dollars,81,millions,6,v1038036700,1.13,2040138,NA,NA,NA,0
+2016-04,Canada,2016A000011124,Consumer credit - national balance sheet,Dollars,81,millions,6,v1038036701,1.14,556246,NA,NA,NA,0
+2016-04,Canada,2016A000011124,Non-mortgage loans - national balance sheet,Dollars,81,millions,6,v1038036702,1.15,101527,NA,NA,NA,0
+2016-04,Canada,2016A000011124,Mortgages - national balance sheet,Dollars,81,millions,6,v1038036703,1.16,1382365,NA,NA,NA,0
+2016-04,Canada,2016A000011124,Credit market debt - financial flow,Dollars,81,millions,6,v95701115,1.7,31308,NA,NA,NA,0
+2016-04,Canada,2016A000011124,Consumer credit - financial flow,Dollars,81,millions,6,v95701116,1.8,5720,NA,NA,NA,0
+2016-04,Canada,2016A000011124,Non-mortgage loans - financial flow,Dollars,81,millions,6,v95701117,1.9,1418,NA,NA,NA,0
+2016-04,Canada,2016A000011124,Mortgages - financial flow,Dollars,81,millions,6,v95701118,1.1,24170,NA,NA,NA,0
+2016-07,Canada,2016A000011124,Credit market debt to disposable income,Ratio,271,units,0,v1038036698,1.11,180.81,NA,NA,NA,2
+2016-07,Canada,2016A000011124,Consumer credit and mortgage liabilities to disposable income,Ratio,271,units,0,v1038036699,1.12,171.91,NA,NA,NA,2
+2016-07,Canada,2016A000011124,Credit market debt - national balance sheet,Dollars,81,millions,6,v1038036700,1.13,2063095,NA,NA,NA,0
+2016-07,Canada,2016A000011124,Consumer credit - national balance sheet,Dollars,81,millions,6,v1038036701,1.14,555788,NA,NA,NA,0
+2016-07,Canada,2016A000011124,Non-mortgage loans - national balance sheet,Dollars,81,millions,6,v1038036702,1.15,101559,NA,NA,NA,0
+2016-07,Canada,2016A000011124,Mortgages - national balance sheet,Dollars,81,millions,6,v1038036703,1.16,1405748,NA,NA,NA,0
+2016-07,Canada,2016A000011124,Credit market debt - financial flow,Dollars,81,millions,6,v95701115,1.7,23844,NA,NA,NA,0
+2016-07,Canada,2016A000011124,Consumer credit - financial flow,Dollars,81,millions,6,v95701116,1.8,70,NA,NA,NA,0
+2016-07,Canada,2016A000011124,Non-mortgage loans - financial flow,Dollars,81,millions,6,v95701117,1.9,310,NA,NA,NA,0
+2016-07,Canada,2016A000011124,Mortgages - financial flow,Dollars,81,millions,6,v95701118,1.1,23464,NA,NA,NA,0
+2016-10,Canada,2016A000011124,Credit market debt to disposable income,Ratio,271,units,0,v1038036698,1.11,181.15,NA,NA,NA,2
+2016-10,Canada,2016A000011124,Consumer credit and mortgage liabilities to disposable income,Ratio,271,units,0,v1038036699,1.12,172.09,NA,NA,NA,2
+2016-10,Canada,2016A000011124,Credit market debt - national balance sheet,Dollars,81,millions,6,v1038036700,1.13,2090877,NA,NA,NA,0
+2016-10,Canada,2016A000011124,Consumer credit - national balance sheet,Dollars,81,millions,6,v1038036701,1.14,560741,NA,NA,NA,0
+2016-10,Canada,2016A000011124,Non-mortgage loans - national balance sheet,Dollars,81,millions,6,v1038036702,1.15,104538,NA,NA,NA,0
+2016-10,Canada,2016A000011124,Mortgages - national balance sheet,Dollars,81,millions,6,v1038036703,1.16,1425598,NA,NA,NA,0
+2016-10,Canada,2016A000011124,Credit market debt - financial flow,Dollars,81,millions,6,v95701115,1.7,28783,NA,NA,NA,0
+2016-10,Canada,2016A000011124,Consumer credit - financial flow,Dollars,81,millions,6,v95701116,1.8,5540,NA,NA,NA,0
+2016-10,Canada,2016A000011124,Non-mortgage loans - financial flow,Dollars,81,millions,6,v95701117,1.9,3214,NA,NA,NA,0
+2016-10,Canada,2016A000011124,Mortgages - financial flow,Dollars,81,millions,6,v95701118,1.1,20029,NA,NA,NA,0
+2017-01,Canada,2016A000011124,Credit market debt to disposable income,Ratio,271,units,0,v1038036698,1.11,183.26,NA,NA,NA,2
+2017-01,Canada,2016A000011124,Consumer credit and mortgage liabilities to disposable income,Ratio,271,units,0,v1038036699,1.12,174.03,NA,NA,NA,2
+2017-01,Canada,2016A000011124,Credit market debt - national balance sheet,Dollars,81,millions,6,v1038036700,1.13,2122172,NA,NA,NA,0
+2017-01,Canada,2016A000011124,Consumer credit - national balance sheet,Dollars,81,millions,6,v1038036701,1.14,568328,NA,NA,NA,0
+2017-01,Canada,2016A000011124,Non-mortgage loans - national balance sheet,Dollars,81,millions,6,v1038036702,1.15,106872,NA,NA,NA,0
+2017-01,Canada,2016A000011124,Mortgages - national balance sheet,Dollars,81,millions,6,v1038036703,1.16,1446972,NA,NA,NA,0
+2017-01,Canada,2016A000011124,Credit market debt - financial flow,Dollars,81,millions,6,v95701115,1.7,32425,NA,NA,NA,0
+2017-01,Canada,2016A000011124,Consumer credit - financial flow,Dollars,81,millions,6,v95701116,1.8,8207,NA,NA,NA,0
+2017-01,Canada,2016A000011124,Non-mortgage loans - financial flow,Dollars,81,millions,6,v95701117,1.9,2710,NA,NA,NA,0
+2017-01,Canada,2016A000011124,Mortgages - financial flow,Dollars,81,millions,6,v95701118,1.1,21508,NA,NA,NA,0
+2017-04,Canada,2016A000011124,Credit market debt to disposable income,Ratio,271,units,0,v1038036698,1.11,182.43,NA,NA,NA,2
+2017-04,Canada,2016A000011124,Consumer credit and mortgage liabilities to disposable income,Ratio,271,units,0,v1038036699,1.12,173.28,NA,NA,NA,2
+2017-04,Canada,2016A000011124,Credit market debt - national balance sheet,Dollars,81,millions,6,v1038036700,1.13,2151036,NA,NA,NA,0
+2017-04,Canada,2016A000011124,Consumer credit - national balance sheet,Dollars,81,millions,6,v1038036701,1.14,573271,NA,NA,NA,0
+2017-04,Canada,2016A000011124,Non-mortgage loans - national balance sheet,Dollars,81,millions,6,v1038036702,1.15,107880,NA,NA,NA,0
+2017-04,Canada,2016A000011124,Mortgages - national balance sheet,Dollars,81,millions,6,v1038036703,1.16,1469885,NA,NA,NA,0
+2017-04,Canada,2016A000011124,Credit market debt - financial flow,Dollars,81,millions,6,v95701115,1.7,29820,NA,NA,NA,0
+2017-04,Canada,2016A000011124,Consumer credit - financial flow,Dollars,81,millions,6,v95701116,1.8,5586,NA,NA,NA,0
+2017-04,Canada,2016A000011124,Non-mortgage loans - financial flow,Dollars,81,millions,6,v95701117,1.9,1292,NA,NA,NA,0
+2017-04,Canada,2016A000011124,Mortgages - financial flow,Dollars,81,millions,6,v95701118,1.1,22942,NA,NA,NA,0
+2017-07,Canada,2016A000011124,Credit market debt to disposable income,Ratio,271,units,0,v1038036698,1.11,180.51,NA,NA,NA,2
+2017-07,Canada,2016A000011124,Consumer credit and mortgage liabilities to disposable income,Ratio,271,units,0,v1038036699,1.12,171.44,NA,NA,NA,2
+2017-07,Canada,2016A000011124,Credit market debt - national balance sheet,Dollars,81,millions,6,v1038036700,1.13,2173247,NA,NA,NA,0
+2017-07,Canada,2016A000011124,Consumer credit - national balance sheet,Dollars,81,millions,6,v1038036701,1.14,576024,NA,NA,NA,0
+2017-07,Canada,2016A000011124,Non-mortgage loans - national balance sheet,Dollars,81,millions,6,v1038036702,1.15,109277,NA,NA,NA,0
+2017-07,Canada,2016A000011124,Mortgages - national balance sheet,Dollars,81,millions,6,v1038036703,1.16,1487946,NA,NA,NA,0
+2017-07,Canada,2016A000011124,Credit market debt - financial flow,Dollars,81,millions,6,v95701115,1.7,23497,NA,NA,NA,0
+2017-07,Canada,2016A000011124,Consumer credit - financial flow,Dollars,81,millions,6,v95701116,1.8,3471,NA,NA,NA,0
+2017-07,Canada,2016A000011124,Non-mortgage loans - financial flow,Dollars,81,millions,6,v95701117,1.9,1872,NA,NA,NA,0
+2017-07,Canada,2016A000011124,Mortgages - financial flow,Dollars,81,millions,6,v95701118,1.1,18154,NA,NA,NA,0
+2017-10,Canada,2016A000011124,Credit market debt to disposable income,Ratio,271,units,0,v1038036698,1.11,180.61,NA,NA,NA,2
+2017-10,Canada,2016A000011124,Consumer credit and mortgage liabilities to disposable income,Ratio,271,units,0,v1038036699,1.12,171.6,NA,NA,NA,2
+2017-10,Canada,2016A000011124,Credit market debt - national balance sheet,Dollars,81,millions,6,v1038036700,1.13,2196948,NA,NA,NA,0
+2017-10,Canada,2016A000011124,Consumer credit - national balance sheet,Dollars,81,millions,6,v1038036701,1.14,580048,NA,NA,NA,0
+2017-10,Canada,2016A000011124,Non-mortgage loans - national balance sheet,Dollars,81,millions,6,v1038036702,1.15,109599,NA,NA,NA,0
+2017-10,Canada,2016A000011124,Mortgages - national balance sheet,Dollars,81,millions,6,v1038036703,1.16,1507301,NA,NA,NA,0
+2017-10,Canada,2016A000011124,Credit market debt - financial flow,Dollars,81,millions,6,v95701115,1.7,24646,NA,NA,NA,0
+2017-10,Canada,2016A000011124,Consumer credit - financial flow,Dollars,81,millions,6,v95701116,1.8,4588,NA,NA,NA,0
+2017-10,Canada,2016A000011124,Non-mortgage loans - financial flow,Dollars,81,millions,6,v95701117,1.9,643,NA,NA,NA,0
+2017-10,Canada,2016A000011124,Mortgages - financial flow,Dollars,81,millions,6,v95701118,1.1,19415,NA,NA,NA,0
+2018-01,Canada,2016A000011124,Credit market debt to disposable income,Ratio,271,units,0,v1038036698,1.11,182.56,NA,NA,NA,2
+2018-01,Canada,2016A000011124,Consumer credit and mortgage liabilities to disposable income,Ratio,271,units,0,v1038036699,1.12,173.31,NA,NA,NA,2
+2018-01,Canada,2016A000011124,Credit market debt - national balance sheet,Dollars,81,millions,6,v1038036700,1.13,2219360,NA,NA,NA,0
+2018-01,Canada,2016A000011124,Consumer credit - national balance sheet,Dollars,81,millions,6,v1038036701,1.14,582643,NA,NA,NA,0
+2018-01,Canada,2016A000011124,Non-mortgage loans - national balance sheet,Dollars,81,millions,6,v1038036702,1.15,112393,NA,NA,NA,0
+2018-01,Canada,2016A000011124,Mortgages - national balance sheet,Dollars,81,millions,6,v1038036703,1.16,1524324,NA,NA,NA,0
+2018-01,Canada,2016A000011124,Credit market debt - financial flow,Dollars,81,millions,6,v95701115,1.7,24187,NA,NA,NA,0
+2018-01,Canada,2016A000011124,Consumer credit - financial flow,Dollars,81,millions,6,v95701116,1.8,3194,NA,NA,NA,0
+2018-01,Canada,2016A000011124,Non-mortgage loans - financial flow,Dollars,81,millions,6,v95701117,1.9,3919,NA,NA,NA,0
+2018-01,Canada,2016A000011124,Mortgages - financial flow,Dollars,81,millions,6,v95701118,1.1,17074,NA,NA,NA,0
+2018-04,Canada,2016A000011124,Credit market debt to disposable income,Ratio,271,units,0,v1038036698,1.11,183.97,NA,NA,NA,2
+2018-04,Canada,2016A000011124,Consumer credit and mortgage liabilities to disposable income,Ratio,271,units,0,v1038036699,1.12,174.38,NA,NA,NA,2
+2018-04,Canada,2016A000011124,Credit market debt - national balance sheet,Dollars,81,millions,6,v1038036700,1.13,2237835,NA,NA,NA,0
+2018-04,Canada,2016A000011124,Consumer credit - national balance sheet,Dollars,81,millions,6,v1038036701,1.14,585676,NA,NA,NA,0
+2018-04,Canada,2016A000011124,Non-mortgage loans - national balance sheet,Dollars,81,millions,6,v1038036702,1.15,116559,NA,NA,NA,0
+2018-04,Canada,2016A000011124,Mortgages - national balance sheet,Dollars,81,millions,6,v1038036703,1.16,1535600,NA,NA,NA,0
+2018-04,Canada,2016A000011124,Credit market debt - financial flow,Dollars,81,millions,6,v95701115,1.7,19474,NA,NA,NA,0
+2018-04,Canada,2016A000011124,Consumer credit - financial flow,Dollars,81,millions,6,v95701116,1.8,4275,NA,NA,NA,0
+2018-04,Canada,2016A000011124,Non-mortgage loans - financial flow,Dollars,81,millions,6,v95701117,1.9,3774,NA,NA,NA,0
+2018-04,Canada,2016A000011124,Mortgages - financial flow,Dollars,81,millions,6,v95701118,1.1,11425,NA,NA,NA,0
+2018-07,Canada,2016A000011124,Credit market debt to disposable income,Ratio,271,units,0,v1038036698,1.11,184.61,NA,NA,NA,2
+2018-07,Canada,2016A000011124,Consumer credit and mortgage liabilities to disposable income,Ratio,271,units,0,v1038036699,1.12,174.92,NA,NA,NA,2
+2018-07,Canada,2016A000011124,Credit market debt - national balance sheet,Dollars,81,millions,6,v1038036700,1.13,2257764,NA,NA,NA,0
+2018-07,Canada,2016A000011124,Consumer credit - national balance sheet,Dollars,81,millions,6,v1038036701,1.14,589506,NA,NA,NA,0
+2018-07,Canada,2016A000011124,Non-mortgage loans - national balance sheet,Dollars,81,millions,6,v1038036702,1.15,118501,NA,NA,NA,0
+2018-07,Canada,2016A000011124,Mortgages - national balance sheet,Dollars,81,millions,6,v1038036703,1.16,1549757,NA,NA,NA,0
+2018-07,Canada,2016A000011124,Credit market debt - financial flow,Dollars,81,millions,6,v95701115,1.7,20999,NA,NA,NA,0
+2018-07,Canada,2016A000011124,Consumer credit - financial flow,Dollars,81,millions,6,v95701116,1.8,4481,NA,NA,NA,0
+2018-07,Canada,2016A000011124,Non-mortgage loans - financial flow,Dollars,81,millions,6,v95701117,1.9,2334,NA,NA,NA,0
+2018-07,Canada,2016A000011124,Mortgages - financial flow,Dollars,81,millions,6,v95701118,1.1,14184,NA,NA,NA,0
+2018-10,Canada,2016A000011124,Credit market debt to disposable income,Ratio,271,units,0,v1038036698,1.11,183.22,NA,NA,NA,2
+2018-10,Canada,2016A000011124,Consumer credit and mortgage liabilities to disposable income,Ratio,271,units,0,v1038036699,1.12,173.6,NA,NA,NA,2
+2018-10,Canada,2016A000011124,Credit market debt - national balance sheet,Dollars,81,millions,6,v1038036700,1.13,2280286,NA,NA,NA,0
+2018-10,Canada,2016A000011124,Consumer credit - national balance sheet,Dollars,81,millions,6,v1038036701,1.14,593456,NA,NA,NA,0
+2018-10,Canada,2016A000011124,Non-mortgage loans - national balance sheet,Dollars,81,millions,6,v1038036702,1.15,119789,NA,NA,NA,0
+2018-10,Canada,2016A000011124,Mortgages - national balance sheet,Dollars,81,millions,6,v1038036703,1.16,1567041,NA,NA,NA,0
+2018-10,Canada,2016A000011124,Credit market debt - financial flow,Dollars,81,millions,6,v95701115,1.7,23303,NA,NA,NA,0
+2018-10,Canada,2016A000011124,Consumer credit - financial flow,Dollars,81,millions,6,v95701116,1.8,4568,NA,NA,NA,0
+2018-10,Canada,2016A000011124,Non-mortgage loans - financial flow,Dollars,81,millions,6,v95701117,1.9,1344,NA,NA,NA,0
+2018-10,Canada,2016A000011124,Mortgages - financial flow,Dollars,81,millions,6,v95701118,1.1,17391,NA,NA,NA,0
+2019-01,Canada,2016A000011124,Credit market debt to disposable income,Ratio,271,units,0,v1038036698,1.11,183.75,NA,NA,NA,2
+2019-01,Canada,2016A000011124,Consumer credit and mortgage liabilities to disposable income,Ratio,271,units,0,v1038036699,1.12,174.16,NA,NA,NA,2
+2019-01,Canada,2016A000011124,Credit market debt - national balance sheet,Dollars,81,millions,6,v1038036700,1.13,2299013,NA,NA,NA,0
+2019-01,Canada,2016A000011124,Consumer credit - national balance sheet,Dollars,81,millions,6,v1038036701,1.14,595145,NA,NA,NA,0
+2019-01,Canada,2016A000011124,Non-mortgage loans - national balance sheet,Dollars,81,millions,6,v1038036702,1.15,119944,NA,NA,NA,0
+2019-01,Canada,2016A000011124,Mortgages - national balance sheet,Dollars,81,millions,6,v1038036703,1.16,1583924,NA,NA,NA,0
+2019-01,Canada,2016A000011124,Credit market debt - financial flow,Dollars,81,millions,6,v95701115,1.7,19872,NA,NA,NA,0
+2019-01,Canada,2016A000011124,Consumer credit - financial flow,Dollars,81,millions,6,v95701116,1.8,2359,NA,NA,NA,0
+2019-01,Canada,2016A000011124,Non-mortgage loans - financial flow,Dollars,81,millions,6,v95701117,1.9,587,NA,NA,NA,0
+2019-01,Canada,2016A000011124,Mortgages - financial flow,Dollars,81,millions,6,v95701118,1.1,16926,NA,NA,NA,0
+2019-04,Canada,2016A000011124,Credit market debt to disposable income,Ratio,271,units,0,v1038036698,1.11,181.91,NA,NA,NA,2
+2019-04,Canada,2016A000011124,Consumer credit and mortgage liabilities to disposable income,Ratio,271,units,0,v1038036699,1.12,172.43,NA,NA,NA,2
+2019-04,Canada,2016A000011124,Credit market debt - national balance sheet,Dollars,81,millions,6,v1038036700,1.13,2319014,NA,NA,NA,0
+2019-04,Canada,2016A000011124,Consumer credit - national balance sheet,Dollars,81,millions,6,v1038036701,1.14,596933,NA,NA,NA,0
+2019-04,Canada,2016A000011124,Non-mortgage loans - national balance sheet,Dollars,81,millions,6,v1038036702,1.15,120823,NA,NA,NA,0
+2019-04,Canada,2016A000011124,Mortgages - national balance sheet,Dollars,81,millions,6,v1038036703,1.16,1601258,NA,NA,NA,0
+2019-04,Canada,2016A000011124,Credit market debt - financial flow,Dollars,81,millions,6,v95701115,1.7,19745,NA,NA,NA,0
+2019-04,Canada,2016A000011124,Consumer credit - financial flow,Dollars,81,millions,6,v95701116,1.8,2478,NA,NA,NA,0
+2019-04,Canada,2016A000011124,Non-mortgage loans - financial flow,Dollars,81,millions,6,v95701117,1.9,-106,NA,NA,NA,0
+2019-04,Canada,2016A000011124,Mortgages - financial flow,Dollars,81,millions,6,v95701118,1.1,17373,NA,NA,NA,0
+2019-07,Canada,2016A000011124,Credit market debt to disposable income,Ratio,271,units,0,v1038036698,1.11,182.1,NA,NA,NA,2
+2019-07,Canada,2016A000011124,Consumer credit and mortgage liabilities to disposable income,Ratio,271,units,0,v1038036699,1.12,172.62,NA,NA,NA,2
+2019-07,Canada,2016A000011124,Credit market debt - national balance sheet,Dollars,81,millions,6,v1038036700,1.13,2344290,NA,NA,NA,0
+2019-07,Canada,2016A000011124,Consumer credit - national balance sheet,Dollars,81,millions,6,v1038036701,1.14,598267,NA,NA,NA,0
+2019-07,Canada,2016A000011124,Non-mortgage loans - national balance sheet,Dollars,81,millions,6,v1038036702,1.15,122022,NA,NA,NA,0
+2019-07,Canada,2016A000011124,Mortgages - national balance sheet,Dollars,81,millions,6,v1038036703,1.16,1624001,NA,NA,NA,0
+2019-07,Canada,2016A000011124,Credit market debt - financial flow,Dollars,81,millions,6,v95701115,1.7,26286,NA,NA,NA,0
+2019-07,Canada,2016A000011124,Consumer credit - financial flow,Dollars,81,millions,6,v95701116,1.8,2017,NA,NA,NA,0
+2019-07,Canada,2016A000011124,Non-mortgage loans - financial flow,Dollars,81,millions,6,v95701117,1.9,1457,NA,NA,NA,0
+2019-07,Canada,2016A000011124,Mortgages - financial flow,Dollars,81,millions,6,v95701118,1.1,22812,NA,NA,NA,0
+2019-10,Canada,2016A000011124,Credit market debt to disposable income,Ratio,271,units,0,v1038036698,1.11,181.19,NA,NA,NA,2
+2019-10,Canada,2016A000011124,Consumer credit and mortgage liabilities to disposable income,Ratio,271,units,0,v1038036699,1.12,171.77,NA,NA,NA,2
+2019-10,Canada,2016A000011124,Credit market debt - national balance sheet,Dollars,81,millions,6,v1038036700,1.13,2370174,NA,NA,NA,0
+2019-10,Canada,2016A000011124,Consumer credit - national balance sheet,Dollars,81,millions,6,v1038036701,1.14,600385,NA,NA,NA,0
+2019-10,Canada,2016A000011124,Non-mortgage loans - national balance sheet,Dollars,81,millions,6,v1038036702,1.15,123234,NA,NA,NA,0
+2019-10,Canada,2016A000011124,Mortgages - national balance sheet,Dollars,81,millions,6,v1038036703,1.16,1646555,NA,NA,NA,0
+2019-10,Canada,2016A000011124,Credit market debt - financial flow,Dollars,81,millions,6,v95701115,1.7,27105,NA,NA,NA,0
+2019-10,Canada,2016A000011124,Consumer credit - financial flow,Dollars,81,millions,6,v95701116,1.8,2812,NA,NA,NA,0
+2019-10,Canada,2016A000011124,Non-mortgage loans - financial flow,Dollars,81,millions,6,v95701117,1.9,1675,NA,NA,NA,0
+2019-10,Canada,2016A000011124,Mortgages - financial flow,Dollars,81,millions,6,v95701118,1.1,22618,NA,NA,NA,0
+2020-01,Canada,2016A000011124,Credit market debt to disposable income,Ratio,271,units,0,v1038036698,1.11,180.91,NA,NA,NA,2
+2020-01,Canada,2016A000011124,Consumer credit and mortgage liabilities to disposable income,Ratio,271,units,0,v1038036699,1.12,171.57,NA,NA,NA,2
+2020-01,Canada,2016A000011124,Credit market debt - national balance sheet,Dollars,81,millions,6,v1038036700,1.13,2394850,NA,NA,NA,0
+2020-01,Canada,2016A000011124,Consumer credit - national balance sheet,Dollars,81,millions,6,v1038036701,1.14,594709,NA,NA,NA,0
+2020-01,Canada,2016A000011124,Non-mortgage loans - national balance sheet,Dollars,81,millions,6,v1038036702,1.15,123682,NA,NA,NA,0
+2020-01,Canada,2016A000011124,Mortgages - national balance sheet,Dollars,81,millions,6,v1038036703,1.16,1676459,NA,NA,NA,0
+2020-01,Canada,2016A000011124,Credit market debt - financial flow,Dollars,81,millions,6,v95701115,1.7,24578,NA,NA,NA,0
+2020-01,Canada,2016A000011124,Consumer credit - financial flow,Dollars,81,millions,6,v95701116,1.8,-5175,NA,NA,NA,0
+2020-01,Canada,2016A000011124,Non-mortgage loans - financial flow,Dollars,81,millions,6,v95701117,1.9,317,NA,NA,NA,0
+2020-01,Canada,2016A000011124,Mortgages - financial flow,Dollars,81,millions,6,v95701118,1.1,29436,NA,NA,NA,0
+2020-04,Canada,2016A000011124,Credit market debt to disposable income,Ratio,271,units,0,v1038036698,1.11,164.87,NA,NA,NA,2
+2020-04,Canada,2016A000011124,Consumer credit and mortgage liabilities to disposable income,Ratio,271,units,0,v1038036699,1.12,156.23,NA,NA,NA,2
+2020-04,Canada,2016A000011124,Credit market debt - national balance sheet,Dollars,81,millions,6,v1038036700,1.13,2394250,NA,NA,NA,0
+2020-04,Canada,2016A000011124,Consumer credit - national balance sheet,Dollars,81,millions,6,v1038036701,1.14,571884,NA,NA,NA,0
+2020-04,Canada,2016A000011124,Non-mortgage loans - national balance sheet,Dollars,81,millions,6,v1038036702,1.15,125491,NA,NA,NA,0
+2020-04,Canada,2016A000011124,Mortgages - national balance sheet,Dollars,81,millions,6,v1038036703,1.16,1696875,NA,NA,NA,0
+2020-04,Canada,2016A000011124,Credit market debt - financial flow,Dollars,81,millions,6,v95701115,1.7,587,NA,NA,NA,0
+2020-04,Canada,2016A000011124,Consumer credit - financial flow,Dollars,81,millions,6,v95701116,1.8,-22186,NA,NA,NA,0
+2020-04,Canada,2016A000011124,Non-mortgage loans - financial flow,Dollars,81,millions,6,v95701117,1.9,2314,NA,NA,NA,0
+2020-04,Canada,2016A000011124,Mortgages - financial flow,Dollars,81,millions,6,v95701118,1.1,20459,NA,NA,NA,0
+2020-07,Canada,2016A000011124,Credit market debt to disposable income,Ratio,271,units,0,v1038036698,1.11,174.36,NA,NA,NA,2
+2020-07,Canada,2016A000011124,Consumer credit and mortgage liabilities to disposable income,Ratio,271,units,0,v1038036699,1.12,165.34,NA,NA,NA,2
+2020-07,Canada,2016A000011124,Credit market debt - national balance sheet,Dollars,81,millions,6,v1038036700,1.13,2430230,NA,NA,NA,0
+2020-07,Canada,2016A000011124,Consumer credit - national balance sheet,Dollars,81,millions,6,v1038036701,1.14,576067,NA,NA,NA,0
+2020-07,Canada,2016A000011124,Non-mortgage loans - national balance sheet,Dollars,81,millions,6,v1038036702,1.15,125736,NA,NA,NA,0
+2020-07,Canada,2016A000011124,Mortgages - national balance sheet,Dollars,81,millions,6,v1038036703,1.16,1728427,NA,NA,NA,0
+2020-07,Canada,2016A000011124,Credit market debt - financial flow,Dollars,81,millions,6,v95701115,1.7,37076,NA,NA,NA,0
+2020-07,Canada,2016A000011124,Consumer credit - financial flow,Dollars,81,millions,6,v95701116,1.8,4812,NA,NA,NA,0
+2020-07,Canada,2016A000011124,Non-mortgage loans - financial flow,Dollars,81,millions,6,v95701117,1.9,664,NA,NA,NA,0
+2020-07,Canada,2016A000011124,Mortgages - financial flow,Dollars,81,millions,6,v95701118,1.1,31600,NA,NA,NA,0
+2020-10,Canada,2016A000011124,Credit market debt to disposable income,Ratio,271,units,0,v1038036698,1.11,178.6,NA,NA,NA,2
+2020-10,Canada,2016A000011124,Consumer credit and mortgage liabilities to disposable income,Ratio,271,units,0,v1038036699,1.12,169.42,NA,NA,NA,2
+2020-10,Canada,2016A000011124,Credit market debt - national balance sheet,Dollars,81,millions,6,v1038036700,1.13,2466309,NA,NA,NA,0
+2020-10,Canada,2016A000011124,Consumer credit - national balance sheet,Dollars,81,millions,6,v1038036701,1.14,572026,NA,NA,NA,0
+2020-10,Canada,2016A000011124,Non-mortgage loans - national balance sheet,Dollars,81,millions,6,v1038036702,1.15,126816,NA,NA,NA,0
+2020-10,Canada,2016A000011124,Mortgages - national balance sheet,Dollars,81,millions,6,v1038036703,1.16,1767467,NA,NA,NA,0
+2020-10,Canada,2016A000011124,Credit market debt - financial flow,Dollars,81,millions,6,v95701115,1.7,37338,NA,NA,NA,0
+2020-10,Canada,2016A000011124,Consumer credit - financial flow,Dollars,81,millions,6,v95701116,1.8,-3398,NA,NA,NA,0
+2020-10,Canada,2016A000011124,Non-mortgage loans - financial flow,Dollars,81,millions,6,v95701117,1.9,1643,NA,NA,NA,0
+2020-10,Canada,2016A000011124,Mortgages - financial flow,Dollars,81,millions,6,v95701118,1.1,39093,NA,NA,NA,0
+2021-01,Canada,2016A000011124,Credit market debt to disposable income,Ratio,271,units,0,v1038036698,1.11,173.78,NA,NA,NA,2
+2021-01,Canada,2016A000011124,Consumer credit and mortgage liabilities to disposable income,Ratio,271,units,0,v1038036699,1.12,164.9,NA,NA,NA,2
+2021-01,Canada,2016A000011124,Credit market debt - national balance sheet,Dollars,81,millions,6,v1038036700,1.13,2496003,NA,NA,NA,0
+2021-01,Canada,2016A000011124,Consumer credit - national balance sheet,Dollars,81,millions,6,v1038036701,1.14,564551,NA,NA,NA,0
+2021-01,Canada,2016A000011124,Non-mortgage loans - national balance sheet,Dollars,81,millions,6,v1038036702,1.15,127593,NA,NA,NA,0
+2021-01,Canada,2016A000011124,Mortgages - national balance sheet,Dollars,81,millions,6,v1038036703,1.16,1803859,NA,NA,NA,0
+2021-01,Canada,2016A000011124,Credit market debt - financial flow,Dollars,81,millions,6,v95701115,1.7,30451,NA,NA,NA,0
+2021-01,Canada,2016A000011124,Consumer credit - financial flow,Dollars,81,millions,6,v95701116,1.8,-7108,NA,NA,NA,0
+2021-01,Canada,2016A000011124,Non-mortgage loans - financial flow,Dollars,81,millions,6,v95701117,1.9,1095,NA,NA,NA,0
+2021-01,Canada,2016A000011124,Mortgages - financial flow,Dollars,81,millions,6,v95701118,1.1,36464,NA,NA,NA,0
+2021-04,Canada,2016A000011124,Credit market debt to disposable income,Ratio,271,units,0,v1038036698,1.11,178.24,NA,NA,NA,2
+2021-04,Canada,2016A000011124,Consumer credit and mortgage liabilities to disposable income,Ratio,271,units,0,v1038036699,1.12,169.19,NA,NA,NA,2
+2021-04,Canada,2016A000011124,Credit market debt - national balance sheet,Dollars,81,millions,6,v1038036700,1.13,2549640,NA,NA,NA,0
+2021-04,Canada,2016A000011124,Consumer credit - national balance sheet,Dollars,81,millions,6,v1038036701,1.14,561895,NA,NA,NA,0
+2021-04,Canada,2016A000011124,Non-mortgage loans - national balance sheet,Dollars,81,millions,6,v1038036702,1.15,129374,NA,NA,NA,0
+2021-04,Canada,2016A000011124,Mortgages - national balance sheet,Dollars,81,millions,6,v1038036703,1.16,1858371,NA,NA,NA,0
+2021-04,Canada,2016A000011124,Credit market debt - financial flow,Dollars,81,millions,6,v95701115,1.7,54780,NA,NA,NA,0
+2021-04,Canada,2016A000011124,Consumer credit - financial flow,Dollars,81,millions,6,v95701116,1.8,-2018,NA,NA,NA,0
+2021-04,Canada,2016A000011124,Non-mortgage loans - financial flow,Dollars,81,millions,6,v95701117,1.9,2239,NA,NA,NA,0
+2021-04,Canada,2016A000011124,Mortgages - financial flow,Dollars,81,millions,6,v95701118,1.1,54559,NA,NA,NA,0
+2021-07,Canada,2016A000011124,Credit market debt to disposable income,Ratio,271,units,0,v1038036698,1.11,179.93,NA,NA,NA,2
+2021-07,Canada,2016A000011124,Consumer credit and mortgage liabilities to disposable income,Ratio,271,units,0,v1038036699,1.12,170.91,NA,NA,NA,2
+2021-07,Canada,2016A000011124,Credit market debt - national balance sheet,Dollars,81,millions,6,v1038036700,1.13,2598348,NA,NA,NA,0
+2021-07,Canada,2016A000011124,Consumer credit - national balance sheet,Dollars,81,millions,6,v1038036701,1.14,566162,NA,NA,NA,0
+2021-07,Canada,2016A000011124,Non-mortgage loans - national balance sheet,Dollars,81,millions,6,v1038036702,1.15,130333,NA,NA,NA,0
+2021-07,Canada,2016A000011124,Mortgages - national balance sheet,Dollars,81,millions,6,v1038036703,1.16,1901853,NA,NA,NA,0
+2021-07,Canada,2016A000011124,Credit market debt - financial flow,Dollars,81,millions,6,v95701115,1.7,49350,NA,NA,NA,0
+2021-07,Canada,2016A000011124,Consumer credit - financial flow,Dollars,81,millions,6,v95701116,1.8,4768,NA,NA,NA,0
+2021-07,Canada,2016A000011124,Non-mortgage loans - financial flow,Dollars,81,millions,6,v95701117,1.9,1047,NA,NA,NA,0
+2021-07,Canada,2016A000011124,Mortgages - financial flow,Dollars,81,millions,6,v95701118,1.1,43535,NA,NA,NA,0
+2021-10,Canada,2016A000011124,Credit market debt to disposable income,Ratio,271,units,0,v1038036698,1.11,185.4,NA,NA,NA,2
+2021-10,Canada,2016A000011124,Consumer credit and mortgage liabilities to disposable income,Ratio,271,units,0,v1038036699,1.12,176.24,NA,NA,NA,2
+2021-10,Canada,2016A000011124,Credit market debt - national balance sheet,Dollars,81,millions,6,v1038036700,1.13,2652460,NA,NA,NA,0
+2021-10,Canada,2016A000011124,Consumer credit - national balance sheet,Dollars,81,millions,6,v1038036701,1.14,571349,NA,NA,NA,0
+2021-10,Canada,2016A000011124,Non-mortgage loans - national balance sheet,Dollars,81,millions,6,v1038036702,1.15,131103,NA,NA,NA,0
+2021-10,Canada,2016A000011124,Mortgages - national balance sheet,Dollars,81,millions,6,v1038036703,1.16,1950008,NA,NA,NA,0
+2021-10,Canada,2016A000011124,Credit market debt - financial flow,Dollars,81,millions,6,v95701115,1.7,54975,NA,NA,NA,0
+2021-10,Canada,2016A000011124,Consumer credit - financial flow,Dollars,81,millions,6,v95701116,1.8,5751,NA,NA,NA,0
+2021-10,Canada,2016A000011124,Non-mortgage loans - financial flow,Dollars,81,millions,6,v95701117,1.9,998,NA,NA,NA,0
+2021-10,Canada,2016A000011124,Mortgages - financial flow,Dollars,81,millions,6,v95701118,1.1,48226,NA,NA,NA,0
+2022-01,Canada,2016A000011124,Credit market debt to disposable income,Ratio,271,units,0,v1038036698,1.11,182.09,NA,NA,NA,2
+2022-01,Canada,2016A000011124,Consumer credit and mortgage liabilities to disposable income,Ratio,271,units,0,v1038036699,1.12,173.15,NA,NA,NA,2
+2022-01,Canada,2016A000011124,Credit market debt - national balance sheet,Dollars,81,millions,6,v1038036700,1.13,2706601,NA,NA,NA,0
+2022-01,Canada,2016A000011124,Consumer credit - national balance sheet,Dollars,81,millions,6,v1038036701,1.14,578271,NA,NA,NA,0
+2022-01,Canada,2016A000011124,Non-mortgage loans - national balance sheet,Dollars,81,millions,6,v1038036702,1.15,132940,NA,NA,NA,0
+2022-01,Canada,2016A000011124,Mortgages - national balance sheet,Dollars,81,millions,6,v1038036703,1.16,1995390,NA,NA,NA,0
+2022-01,Canada,2016A000011124,Credit market debt - financial flow,Dollars,81,millions,6,v95701115,1.7,55045,NA,NA,NA,0
+2022-01,Canada,2016A000011124,Consumer credit - financial flow,Dollars,81,millions,6,v95701116,1.8,7534,NA,NA,NA,0
+2022-01,Canada,2016A000011124,Non-mortgage loans - financial flow,Dollars,81,millions,6,v95701117,1.9,2099,NA,NA,NA,0
+2022-01,Canada,2016A000011124,Mortgages - financial flow,Dollars,81,millions,6,v95701118,1.1,45412,NA,NA,NA,0
+2022-04,Canada,2016A000011124,Credit market debt to disposable income,Ratio,271,units,0,v1038036698,1.11,184.05,NA,NA,NA,2
+2022-04,Canada,2016A000011124,Consumer credit and mortgage liabilities to disposable income,Ratio,271,units,0,v1038036699,1.12,175.18,NA,NA,NA,2
+2022-04,Canada,2016A000011124,Credit market debt - national balance sheet,Dollars,81,millions,6,v1038036700,1.13,2761366,NA,NA,NA,0
+2022-04,Canada,2016A000011124,Consumer credit - national balance sheet,Dollars,81,millions,6,v1038036701,1.14,585289,NA,NA,NA,0
+2022-04,Canada,2016A000011124,Non-mortgage loans - national balance sheet,Dollars,81,millions,6,v1038036702,1.15,133081,NA,NA,NA,0
+2022-04,Canada,2016A000011124,Mortgages - national balance sheet,Dollars,81,millions,6,v1038036703,1.16,2042996,NA,NA,NA,0
+2022-04,Canada,2016A000011124,Credit market debt - financial flow,Dollars,81,millions,6,v95701115,1.7,55326,NA,NA,NA,0
+2022-04,Canada,2016A000011124,Consumer credit - financial flow,Dollars,81,millions,6,v95701116,1.8,7595,NA,NA,NA,0
+2022-04,Canada,2016A000011124,Non-mortgage loans - financial flow,Dollars,81,millions,6,v95701117,1.9,98,NA,NA,NA,0
+2022-04,Canada,2016A000011124,Mortgages - financial flow,Dollars,81,millions,6,v95701118,1.1,47633,NA,NA,NA,0
+2022-07,Canada,2016A000011124,Credit market debt to disposable income,Ratio,271,units,0,v1038036698,1.11,184.78,NA,NA,NA,2
+2022-07,Canada,2016A000011124,Consumer credit and mortgage liabilities to disposable income,Ratio,271,units,0,v1038036699,1.12,175.94,NA,NA,NA,2
+2022-07,Canada,2016A000011124,Credit market debt - national balance sheet,Dollars,81,millions,6,v1038036700,1.13,2800176,NA,NA,NA,0
+2022-07,Canada,2016A000011124,Consumer credit - national balance sheet,Dollars,81,millions,6,v1038036701,1.14,591254,NA,NA,NA,0
+2022-07,Canada,2016A000011124,Non-mortgage loans - national balance sheet,Dollars,81,millions,6,v1038036702,1.15,133912,NA,NA,NA,0
+2022-07,Canada,2016A000011124,Mortgages - national balance sheet,Dollars,81,millions,6,v1038036703,1.16,2075010,NA,NA,NA,0
+2022-07,Canada,2016A000011124,Credit market debt - financial flow,Dollars,81,millions,6,v95701115,1.7,39021,NA,NA,NA,0
+2022-07,Canada,2016A000011124,Consumer credit - financial flow,Dollars,81,millions,6,v95701116,1.8,6481,NA,NA,NA,0
+2022-07,Canada,2016A000011124,Non-mortgage loans - financial flow,Dollars,81,millions,6,v95701117,1.9,500,NA,NA,NA,0
+2022-07,Canada,2016A000011124,Mortgages - financial flow,Dollars,81,millions,6,v95701118,1.1,32040,NA,NA,NA,0
+2022-10,Canada,2016A000011124,Credit market debt to disposable income,Ratio,271,units,0,v1038036698,1.11,181.68,NA,NA,NA,2
+2022-10,Canada,2016A000011124,Consumer credit and mortgage liabilities to disposable income,Ratio,271,units,0,v1038036699,1.12,172.97,NA,NA,NA,2
+2022-10,Canada,2016A000011124,Credit market debt - national balance sheet,Dollars,81,millions,6,v1038036700,1.13,2825222,NA,NA,NA,0
+2022-10,Canada,2016A000011124,Consumer credit - national balance sheet,Dollars,81,millions,6,v1038036701,1.14,595078,NA,NA,NA,0
+2022-10,Canada,2016A000011124,Non-mortgage loans - national balance sheet,Dollars,81,millions,6,v1038036702,1.15,135417,NA,NA,NA,0
+2022-10,Canada,2016A000011124,Mortgages - national balance sheet,Dollars,81,millions,6,v1038036703,1.16,2094727,NA,NA,NA,0
+2022-10,Canada,2016A000011124,Credit market debt - financial flow,Dollars,81,millions,6,v95701115,1.7,25925,NA,NA,NA,0
+2022-10,Canada,2016A000011124,Consumer credit - financial flow,Dollars,81,millions,6,v95701116,1.8,4399,NA,NA,NA,0
+2022-10,Canada,2016A000011124,Non-mortgage loans - financial flow,Dollars,81,millions,6,v95701117,1.9,1766,NA,NA,NA,0
+2022-10,Canada,2016A000011124,Mortgages - financial flow,Dollars,81,millions,6,v95701118,1.1,19760,NA,NA,NA,0
+2023-01,Canada,2016A000011124,Credit market debt to disposable income,Ratio,271,units,0,v1038036698,1.11,182.34,NA,NA,NA,2
+2023-01,Canada,2016A000011124,Consumer credit and mortgage liabilities to disposable income,Ratio,271,units,0,v1038036699,1.12,173.62,NA,NA,NA,2
+2023-01,Canada,2016A000011124,Credit market debt - national balance sheet,Dollars,81,millions,6,v1038036700,1.13,2846398,NA,NA,NA,0
+2023-01,Canada,2016A000011124,Consumer credit - national balance sheet,Dollars,81,millions,6,v1038036701,1.14,596897,NA,NA,NA,0
+2023-01,Canada,2016A000011124,Non-mortgage loans - national balance sheet,Dollars,81,millions,6,v1038036702,1.15,136143,NA,NA,NA,0
+2023-01,Canada,2016A000011124,Mortgages - national balance sheet,Dollars,81,millions,6,v1038036703,1.16,2113358,NA,NA,NA,0
+2023-01,Canada,2016A000011124,Credit market debt - financial flow,Dollars,81,millions,6,v95701115,1.7,23237,NA,NA,NA,0
+2023-01,Canada,2016A000011124,Consumer credit - financial flow,Dollars,81,millions,6,v95701116,1.8,3729,NA,NA,NA,0
+2023-01,Canada,2016A000011124,Non-mortgage loans - financial flow,Dollars,81,millions,6,v95701117,1.9,729,NA,NA,NA,0
+2023-01,Canada,2016A000011124,Mortgages - financial flow,Dollars,81,millions,6,v95701118,1.1,18779,NA,NA,NA,0
+2023-04,Canada,2016A000011124,Credit market debt to disposable income,Ratio,271,units,0,v1038036698,1.11,181.52,NA,NA,NA,2
+2023-04,Canada,2016A000011124,Consumer credit and mortgage liabilities to disposable income,Ratio,271,units,0,v1038036699,1.12,172.84,NA,NA,NA,2
+2023-04,Canada,2016A000011124,Credit market debt - national balance sheet,Dollars,81,millions,6,v1038036700,1.13,2866857,NA,NA,NA,0
+2023-04,Canada,2016A000011124,Consumer credit - national balance sheet,Dollars,81,millions,6,v1038036701,1.14,601112,NA,NA,NA,0
+2023-04,Canada,2016A000011124,Non-mortgage loans - national balance sheet,Dollars,81,millions,6,v1038036702,1.15,137036,NA,NA,NA,0
+2023-04,Canada,2016A000011124,Mortgages - national balance sheet,Dollars,81,millions,6,v1038036703,1.16,2128709,NA,NA,NA,0
+2023-04,Canada,2016A000011124,Credit market debt - financial flow,Dollars,81,millions,6,v95701115,1.7,21571,NA,NA,NA,0
+2023-04,Canada,2016A000011124,Consumer credit - financial flow,Dollars,81,millions,6,v95701116,1.8,4919,NA,NA,NA,0
+2023-04,Canada,2016A000011124,Non-mortgage loans - financial flow,Dollars,81,millions,6,v95701117,1.9,1225,NA,NA,NA,0
+2023-04,Canada,2016A000011124,Mortgages - financial flow,Dollars,81,millions,6,v95701118,1.1,15427,NA,NA,NA,0
+2023-07,Canada,2016A000011124,Credit market debt to disposable income,Ratio,271,units,0,v1038036698,1.11,179.24,NA,NA,NA,2
+2023-07,Canada,2016A000011124,Consumer credit and mortgage liabilities to disposable income,Ratio,271,units,0,v1038036699,1.12,170.61,NA,NA,NA,2
+2023-07,Canada,2016A000011124,Credit market debt - national balance sheet,Dollars,81,millions,6,v1038036700,1.13,2893126,NA,NA,NA,0
+2023-07,Canada,2016A000011124,Consumer credit - national balance sheet,Dollars,81,millions,6,v1038036701,1.14,604300,NA,NA,NA,0
+2023-07,Canada,2016A000011124,Non-mortgage loans - national balance sheet,Dollars,81,millions,6,v1038036702,1.15,139325,NA,NA,NA,0
+2023-07,Canada,2016A000011124,Mortgages - national balance sheet,Dollars,81,millions,6,v1038036703,1.16,2149501,NA,NA,NA,0
+2023-07,Canada,2016A000011124,Credit market debt - financial flow,Dollars,81,millions,6,v95701115,1.7,27008,NA,NA,NA,0
+2023-07,Canada,2016A000011124,Consumer credit - financial flow,Dollars,81,millions,6,v95701116,1.8,3796,NA,NA,NA,0
+2023-07,Canada,2016A000011124,Non-mortgage loans - financial flow,Dollars,81,millions,6,v95701117,1.9,2378,NA,NA,NA,0
+2023-07,Canada,2016A000011124,Mortgages - financial flow,Dollars,81,millions,6,v95701118,1.1,20834,NA,NA,NA,0
+2023-10,Canada,2016A000011124,Credit market debt to disposable income,Ratio,271,units,0,v1038036698,1.11,178.7,NA,NA,NA,2
+2023-10,Canada,2016A000011124,Consumer credit and mortgage liabilities to disposable income,Ratio,271,units,0,v1038036699,1.12,170.13,NA,NA,NA,2
+2023-10,Canada,2016A000011124,Credit market debt - national balance sheet,Dollars,81,millions,6,v1038036700,1.13,2921547,NA,NA,NA,0
+2023-10,Canada,2016A000011124,Consumer credit - national balance sheet,Dollars,81,millions,6,v1038036701,1.14,611822,NA,NA,NA,0
+2023-10,Canada,2016A000011124,Non-mortgage loans - national balance sheet,Dollars,81,millions,6,v1038036702,1.15,140089,NA,NA,NA,0
+2023-10,Canada,2016A000011124,Mortgages - national balance sheet,Dollars,81,millions,6,v1038036703,1.16,2169636,NA,NA,NA,0
+2023-10,Canada,2016A000011124,Credit market debt - financial flow,Dollars,81,millions,6,v95701115,1.7,29498,NA,NA,NA,0
+2023-10,Canada,2016A000011124,Consumer credit - financial flow,Dollars,81,millions,6,v95701116,1.8,8201,NA,NA,NA,0
+2023-10,Canada,2016A000011124,Non-mortgage loans - financial flow,Dollars,81,millions,6,v95701117,1.9,1129,NA,NA,NA,0
+2023-10,Canada,2016A000011124,Mortgages - financial flow,Dollars,81,millions,6,v95701118,1.1,20168,NA,NA,NA,0
