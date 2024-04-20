@@ -37,6 +37,13 @@ cleaned_data <- merged_data %>%
 cleaned_data <- cleaned_data %>%
   filter(Categories == "Credit market debt to disposable income")
 
+# Rename the last column to 'interest_rates'
+cleaned_data <- cleaned_data %>%
+  rename(interest_rates = IRSTCB01CAM156N)
+
+# Rename the VALUE column to 'consumer_debt'
+cleaned_data <- cleaned_data %>%
+  rename(consumer_debt = VALUE)
+
 # Save cleaned dataset
 write_csv(cleaned_data, "data/analysis_data/analysis_data.csv")
-

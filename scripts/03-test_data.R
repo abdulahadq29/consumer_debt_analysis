@@ -18,7 +18,7 @@ test_interest_rates_class <- class(analysis_data$interest_rates) == "numeric"
 print(paste("Is 'interest_rates' numeric:", test_interest_rates_class))
 
 # Test 2: Check if 'consumer_debt' is numeric
-test_consumer_debt_class <- class(analysis_data$VALUE) == "numeric"
+test_consumer_debt_class <- class(analysis_data$consumer_debt) == "numeric"
 print(paste("Is 'consumer_debt' numeric:", test_consumer_debt_class))
 
 # Test 3: Check the range of 'interest_rates'
@@ -26,7 +26,7 @@ interest_rates_range <- range(analysis_data$interest_rates)
 print(paste("Range of 'interest_rates':", interest_rates_range[1], "to", interest_rates_range[2]))
 
 # Test 4: Check the range of 'consumer_debt'
-consumer_debt_range <- range(analysis_data$VALUE)
+consumer_debt_range <- range(analysis_data$consumer_debt)
 print(paste("Range of 'consumer_debt':", consumer_debt_range[1], "to", consumer_debt_range[2]))
 
 
