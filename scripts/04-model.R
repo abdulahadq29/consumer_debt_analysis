@@ -30,7 +30,7 @@ shapiro.test(residuals(model))
 bptest(model)
 
 # Check for multicollinearity
-cor(cleaned_data$consumer_debt, cleaned_data$interest_rates)
+cor(analysis_data$consumer_debt, analysis_data$interest_rates)
 
 #### Save model ####
 saveRDS(
