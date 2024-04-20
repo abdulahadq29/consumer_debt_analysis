@@ -29,4 +29,3 @@ print(paste("Range of 'interest_rates':", interest_rates_range[1], "to", interes
 consumer_debt_range <- range(analysis_data$consumer_debt)
 print(paste("Range of 'consumer_debt':", consumer_debt_range[1], "to", consumer_debt_range[2]))
 
-

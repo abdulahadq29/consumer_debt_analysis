@@ -138,7 +138,7 @@ The goal of our modeling strategy is to quantify the relationship between change
 
 The linear regression model employed in this study aims to examine the relationship between changes in the Bank of Canada's interest rate policy and consumer debt levels in Canada. The model seeks to quantify the impact of fluctuations in short-term interest rates on the Credit Market Debt to Disposable Income ratio, a key indicator of household indebtedness.
 
-The model's primary explanatory variable is the short-term interest rate, represented by the IRSTCB01CAM156N variable, sourced from the dataset on short-term interest rates. This variable serves as a proxy for changes in the Bank of Canada's monetary policy stance, capturing variations in borrowing costs and the availability of credit in the economy.
+The model's primary explanatory variable is the short-term interest rate, represented by the interest_rates variable, sourced from the dataset on short-term interest rates. This variable serves as a proxy for changes in the Bank of Canada's monetary policy stance, capturing variations in borrowing costs and the availability of credit in the economy.
 
 The response variable in the model is the Credit Market Debt to Disposable Income ratio, derived from the dataset on household debt levels. This ratio provides insights into the extent to which Canadian households are leveraging their disposable income to finance consumption and investment activities, reflecting their overall financial health and resilience to economic shocks.
 
