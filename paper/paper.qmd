@@ -1,5 +1,5 @@
 ---
-title: "Impact of Bank of Canada's Monetary Policy on Consumer Debt Levels"
+title: "Analyzing the Impact of Bank of Canada's Monetary Policy on Consumer Debt"
 author: 
   - Abdul Ahad Qureshi
 thanks: "Code and data are available at: https://github.com/abdulahadq29/debt."
@@ -262,4 +262,5 @@ Households also stand to benefit from staying informed about economic forecasts 
 
 While our study provides valuable insights into the relationship between interest rate policy and consumer debt levels, it is essential to acknowledge certain limitations. One limitation is the reliance on aggregate-level data, which may mask variations in borrowing behavior among different demographic groups and regions. Future research could explore these variations by analyzing micro-level data and examining how factors such as income, employment, and housing market conditions interact with interest rate policy to influence consumer debt dynamics. Additionally, further investigation into the mechanisms through which interest rate changes impact borrowing behavior, such as through mortgage rates, credit card rates, and other lending channels, could provide deeper insights into the transmission channels of monetary policy. Moreover, longitudinal studies tracking changes in consumer debt levels over time in response to interest rate policy changes could provide valuable information on the dynamics of household indebtedness and its implications for financial stability.
 
+\newpage
 # References
