@@ -1,5 +1,5 @@
 #### Preamble ####
-# Purpose: Simulates the cleaned dataset
+# Purpose: Simulates the analysis dataset
 # Author: Abdul Ahad Qureshi
 # Date: 18 April 2024
 # Contact: ahad.qureshi@mail.utoronto.ca
