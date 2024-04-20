@@ -1,7 +1,7 @@
 #### Preamble ####
 # Purpose: Downloads and saves the data from FRED and Statistics Canada.
 # Author: Abdul Ahad Qureshi
-# Date: 19 April 2024
+# Date: 18 April 2024
 # Contact: ahad.qureshi@mail.utoronto.ca
 # License: MIT
 
