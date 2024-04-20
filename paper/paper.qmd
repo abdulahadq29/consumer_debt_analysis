@@ -47,7 +47,7 @@ Data analysis for this paper is performed in R [@citeR], and additional help is 
 
 ## Source 
 
-The empirical analysis conducted in this study relies on comprehensive datasets capturing key variables related to consumer debt levels and short-term interest rates in Canada. These datasets provide the empirical foundation for investigating the relationship between changes in the Bank of Canada's interest rate policy and consumer borrowing behavior. The primary source of data on consumer debt levels is sourced from Statistics Canada. Complementing the dataset on consumer debt levels is information on short-term interest rates, obtained from FRED. 
+The empirical analysis conducted in this study relies on comprehensive datasets capturing key variables related to consumer debt levels and short-term interest rates in Canada. These datasets provide the empirical foundation for investigating the relationship between changes in the Bank of Canada's interest rate policy and consumer borrowing behavior. The primary source of data on consumer debt levels is sourced from Statistics Canada [@StatCan]. Complementing the dataset on consumer debt levels is information on short-term interest rates, obtained from FRED [@fred].
 
 ## Data Cleaning 
 
