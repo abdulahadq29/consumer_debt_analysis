@@ -8,7 +8,7 @@ date-format: long
 abstract: "This analysis investigates the relationship between changes in the Bank of Canada's interest rate policy and consumer debt levels in Canada. Using a dataset of quarterly financial flows and stocks of household credit market debt, the impact of short-term interest rates on credit market debt to disposable income is examined. A linear regression model showed an inverse relationship between short-term interest rates and consumer debt levels. This analysis helps us in understanding the role of fiscal tools in shaping consumer financial behavior."
 format: pdf
 number-sections: true
-bibliograph: references.bib
+bibliography: references.bib
 ---
 
 ```{r}
@@ -21,6 +21,7 @@ library(dplyr)
 library(arrow)
 library(here)
 library(modelsummary)
+library(knitr)
 #IMPORT ANALYSIS DATA
 analysis_data <- read.csv(here("data", "analysis_data", "analysis_data.csv"))
 
@@ -42,19 +43,43 @@ To address these issues, this paper adopts a quantitative approach, leveraging e
 
 ## Data Management 
 
-Data analysis for this paper is performed in R [@citeR], and additional help is provided by libraries such as `dplyr` [@dplyr], `ggplot2` [@ggplot], `ggrepel` [@ggrepel], `tidyverse` [@thereferencecanbewhatever], `kableExtra` [@kableextra], `knitr` [@knitr], `haven` [@haven], 'readr' [@readr], `stargazer`[@stargazer], `psych` [@psych], `scales` [@scales], `RColorBrewer` [@rcolorbrewer], `gridExtra` [@gridextra], `here` [@here].
+Data analysis for this paper is performed in R [@citeR], and additional help is provided by libraries such as `dplyr` [@dplyr], `ggplot2` [@ggplot], `ggrepel` [@ggrepel], `tidyverse` [@thereferencecanbewhatever], `kableExtra` [@kableextra], `knitr` [@knitr], `haven` [@haven], `readr` [@readr], `RColorBrewer` [@rcolorbrewer], `gridExtra` [@gridextra], `here` [@here], `modelsummary` [@modelsummary]
 
 ## Source 
 
-The empirical analysis conducted in this study relies on comprehensive datasets capturing key variables related to consumer debt levels and short-term interest rates in Canada. These datasets provide the empirical foundation for investigating the relationship between changes in the Bank of Canada's interest rate policy and consumer borrowing behavior.
-
-The primary source of data on consumer debt levels is sourced from Statistics Canada. This dataset includes information on various metrics of household indebtedness, including aggregate measures of credit market debt to disposable income, consumer credit, mortgage liabilities, non-mortgage loans, and other relevant indicators. The data cover a substantial time span, allowing for a longitudinal analysis of trends and patterns in consumer borrowing behavior over time.
-
-Complementing the dataset on consumer debt levels is information on short-term interest rates, obtained from FRED. This dataset comprises time-series data on the Bank of Canada's key policy rate, commonly referred to as the overnight rate or the target for the overnight rate. Additionally, the dataset may include data on other short-term interest rates, such as the prime lending rate set by commercial banks, providing a comprehensive view of interest rate movements in the Canadian financial system.
+The empirical analysis conducted in this study relies on comprehensive datasets capturing key variables related to consumer debt levels and short-term interest rates in Canada. These datasets provide the empirical foundation for investigating the relationship between changes in the Bank of Canada's interest rate policy and consumer borrowing behavior. The primary source of data on consumer debt levels is sourced from Statistics Canada. Complementing the dataset on consumer debt levels is information on short-term interest rates, obtained from FRED. 
 
 ## Data Cleaning 
 
 The process involved removing outliers, handling missing values, and standardizing variable formats to facilitate robust analysis. The dates were converted to the year-month format. The two datasets were merged to create an unified dataset for analysis. The dataset was filtered for the "Credit market debt to disposable income" category. Finally, I renamed the last column in the original dataset from "IRSTCB01CAM156N" to "interest_rates" for the data to look better and be self-explanatory. Furthermore, the datasets were organized in a format conducive to statistical analysis, allowing for the application of econometric techniques to model the relationship between interest rate policy changes and consumer debt levels.
+
+## Data Measurement
+
+In our analysis, two primary metrics form the foundation of the dataset: consumer debt levels and interest rates. Consumer debt is captured as the total debt held by individuals within the domestic economy, encompassing various forms of debt such as credit card balances, student loans, auto loans, and mortgages. The data on consumer debt levels is measured quarterly and reported as an aggregate sum in millions of dollars. This comprehensive approach allows us to observe broader economic patterns and the impact of debt on financial stability.
+
+Interest rates are represented by the central bank’s benchmark short-term rate, which influences borrowing costs throughout the economy. These rates are recorded on a monthly basis and are presented as a percentage, reflecting the cost of borrowing. The interplay between consumer debt levels and interest rates is critical, as fluctuations in rates can significantly affect the ability of consumers to service their debts, thus impacting overall economic health.
+
+In this context, measurement accuracy is paramount. The data utilized in this study have been sourced from reputable financial databases and governmental reports, ensuring reliability and precision in the metrics employed. As economic indicators, both consumer debt and interest rates are subjected to rigorous methods of collection, involving checks and balances to validate their correctness. The data is then standardized to allow for an accurate comparative analysis over time, mitigating inconsistencies that may arise from raw financial figures.
+
+## Key Features
+
+The data on consumer debt information on various metrics of household indebtedness, including aggregate measures of credit market debt to disposable income, consumer credit, mortgage liabilities, non-mortgage loans, and other relevant indicators. The data cover a substantial time span, allowing for a longitudinal analysis of trends and patterns in consumer borrowing behavior over time. The interest rates dataset comprises time-series data on the Bank of Canada's key policy rate, commonly referred to as the overnight rate or the target for the overnight rate. Additionally, the dataset may include data on other short-term interest rates, such as the prime lending rate set by commercial banks, providing a comprehensive view of interest rate movements in the Canadian financial system. A preview of the merged datasets can be seen in @tbl-data.
+
+```{r}
+#| label: tbl-data
+#| tbl-cap: "A summary table of cleaned data"
+#| echo: false
+#| eval: true
+#| warning: false
+#| message: false
+
+
+data_overview <- head(analysis_data)
+
+# Use kable to create a nice-looking table
+kable(data_overview, caption = "Overview of Dataset")
+
+```
 
 ```{r}
 #| label: fig-debt
@@ -80,7 +105,7 @@ ggplot(analysis_data_agg, aes(x = REF_DATE, y = consumer_debt)) +
   theme_minimal()  
 ```
 
-The plot visualizes the trends in the Credit Market Debt to Disposable Income ratio over time, spanning from 1990 to the present day. The x-axis represents the date, while the y-axis depicts the Debt to Disposable Income Ratio, a key metric used to assess the financial health of households.
+@fig-debt visualizes the trends in the Credit Market Debt to Disposable Income ratio over time, spanning from 1990 to the present day. The x-axis represents the date, while the y-axis depicts the Debt to Disposable Income Ratio, a key metric used to assess the financial health of households.
 
 From the early 1990s to around 2020, the curve exhibits a consistent upward trend, indicating a gradual increase in the Debt to Disposable Income Ratio over the years. This prolonged period of growth suggests a pattern of rising indebtedness among Canadian households relative to their disposable income levels. Factors contributing to this trend may include easier access to credit, low borrowing costs, demographic shifts, and changes in consumer spending patterns.
 
@@ -101,7 +126,7 @@ ggplot(analysis_data, aes(x = REF_DATE, y = interest_rates)) +
 
 ```
 
-The plot illustrates the trends in short-term interest rates over time, spanning from 1990 to the present day. The x-axis represents the date, while the y-axis depicts the level of short-term interest rates.
+@fig-interest illustrates the trends in short-term interest rates over time, spanning from 1990 to the present day. The x-axis represents the date, while the y-axis depicts the level of short-term interest rates.
 
 In the early 1990s, the plot indicates a period of relatively high short-term interest rates, suggesting a climate of tight monetary policy aimed at curbing inflationary pressures or addressing macroeconomic imbalances. However, from the mid-1990s onwards, there is a discernible downward trend in short-term interest rates, reflecting efforts by monetary authorities to stimulate economic growth or support financial stability through accommodative monetary policy measures.
 
@@ -137,6 +162,8 @@ In the Model:
 ## Model Justification
 
 The choice of a linear regression model for analyzing the impact of the Bank of Canada’s interest rate policy on consumer debt levels is grounded in several key considerations. Firstly, linear regression is a widely-recognized statistical tool for assessing the strength and character of the relationship between two continuous variables. Given the quantitative nature of both interest rates and consumer debt levels, a linear model provides a straightforward, yet powerful, means to decipher the underlying patterns in the data. Its simplicity enables clear interpretation of results, such as understanding how a unit change in interest rates correlates with the magnitude of change in consumer debt levels. Secondly, the model’s simplicity should not be mistaken for a lack of rigor or complexity. Linear regression models are capable of capturing and illustrating complex economic phenomena when adequately specified and supported by robust data. By including a properly defined interest rate variable as the predictor, the model leverages data variability to illuminate the effect of monetary policy on household indebtedness. Thirdly, this approach aligns with economic theory, which postulates a linear or near-linear response of debt levels to changes in interest rates, at least within certain bounds. The assumption is that households adjust their borrowing in response to the cost of borrowing; as interest rates decrease, it becomes cheaper to borrow, encouraging higher levels of debt, and vice versa. This behavior is expected to follow a linear trend in the short to medium term, which is the focus of our analysis. Moreover, the linear regression model offers an entry point for further exploration. While it lays the foundation for understanding the direct relationship between interest rates and debt levels, it also allows for the addition of interaction terms and polynomial expansions in more complex iterations. This could be particularly useful in future research endeavors to explore potential non-linear dynamics or threshold effects as debt levels reach certain levels relative to income. Finally, the model’s robustness can be validated through various diagnostic tests, such as checks for homoscedasticity, normality of residuals, and multicollinearity, ensuring that the assumptions necessary for linear regression are met. The transparency with which a linear regression model can be subjected to such tests adds to the credibility and reliability of the findings. In conclusion, the linear regression model is an appropriate choice for our analysis, providing a methodologically sound, theoretically justified, and empirically robust framework for understanding how monetary policy impacts household debt levels in Canada.
+
+
 
 # Results {#sec-results}
 
@@ -174,7 +201,7 @@ The significant coefficients obtained from the linear regression model provide v
 
 The linear regression model results reveal significant coefficients for both the intercept and the predictor variable representing short-term interest rates (**`interest_rates`**). The intercept coefficient is estimated to be 173.2100 with a standard error of 2.9309, indicating the expected value of the response variable (consumer debt levels) when the predictor variable is zero. The coefficient for short-term interest rates is estimated to be -8.9188 with a standard error of 0.6482. This coefficient represents the estimated change in consumer debt levels for each unit increase in short-term interest rates. The negative sign of the coefficient suggests that as interest rates increase, consumer debt levels tend to decrease, and vice versa. Both coefficients are highly statistically significant (p \< 0.001), indicating a strong relationship between short-term interest rates and consumer debt levels.
 
-The graph @fig-regression visualizes the correlation between consumer debt and short-term interest rates.
+@fig-regression visualizes the correlation between consumer debt and short-term interest rates.
 
 ```{r}
 #| label: fig-regression
