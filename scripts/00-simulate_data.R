@@ -10,17 +10,16 @@
 library(tidyverse)
 
 
-# Assuming 'cleaned_data' is your dataset after cleaning and it contains
 # 'consumer_debt' as consumer debt and 'interest_rates' as interest rates.
 
 set.seed(123) 
-n <- nrow(cleaned_data) 
+n <- nrow(analysis_data) 
 beta_0 <- 200 
 beta_1 <- -5 
 sigma <- 50 
 
 # Simulate interest rates based on the range observed in dataset
-sim_interest_rates <- runif(n, min(cleaned_data$interest_rates), max(cleaned_data$interest_rates))
+sim_interest_rates <- runif(n, min(analysis_data$interest_rates), max(analysis_data$interest_rates))
 
 # Simulate consumer debt based on a linear model with added random noise
 sim_consumer_debt <- beta_0 + beta_1 * sim_interest_rates + rnorm(n, mean = 0, sd = sigma)
